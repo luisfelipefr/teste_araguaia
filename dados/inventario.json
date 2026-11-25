@@ -1,0 +1,155 @@
+{
+  "files": [
+    {
+      "file_name": "clientes.csv",
+      "file_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\entrada\\clientes.csv",
+      "encoding": "utf-8-sig",
+      "delimiter": ";",
+      "row_count": 357,
+      "column_count": 9,
+      "columns": [
+        "cod_cliente",
+        "nome_cliente",
+        "tipo_pessoa",
+        "cpf_cnpj",
+        "municipio",
+        "uf",
+        "segmento",
+        "cod_vendedor_atual",
+        "data_atribuicao_vendedor"
+      ]
+    },
+    {
+      "file_name": "faturamento_export_20260902.csv",
+      "file_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\entrada\\faturamento_export_20260902.csv",
+      "encoding": "latin1",
+      "delimiter": ";",
+      "row_count": 2453,
+      "column_count": 18,
+      "columns": [
+        "nr_documento",
+        "item",
+        "tipo_documento",
+        "data_emissao",
+        "data_lancamento",
+        "nf_origem",
+        "cod_cliente",
+        "cod_vendedor",
+        "nome_vendedor",
+        "cod_material",
+        "desc_material",
+        "grupo_material",
+        "quantidade",
+        "unidade",
+        "vlr_receita_liquida",
+        "vlr_custo",
+        "centro",
+        "uf"
+      ]
+    },
+    {
+      "file_name": "faturamento_export_20261002.csv",
+      "file_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\entrada\\faturamento_export_20261002.csv",
+      "encoding": "latin1",
+      "delimiter": ";",
+      "row_count": 2464,
+      "column_count": 18,
+      "columns": [
+        "nr_documento",
+        "item",
+        "tipo_documento",
+        "data_emissao",
+        "data_lancamento",
+        "nf_origem",
+        "cod_cliente",
+        "cod_vendedor",
+        "nome_vendedor",
+        "cod_material",
+        "desc_material",
+        "grupo_material",
+        "quantidade",
+        "unidade",
+        "vlr_receita_liquida",
+        "vlr_custo",
+        "centro",
+        "uf"
+      ]
+    },
+    {
+      "file_name": "faturamento_export_20261103.csv",
+      "file_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\entrada\\faturamento_export_20261103.csv",
+      "encoding": "latin1",
+      "delimiter": ";",
+      "row_count": 2012,
+      "column_count": 19,
+      "columns": [
+        "nr_documento",
+        "item",
+        "tipo_documento",
+        "data_emissao",
+        "data_lancamento",
+        "nf_origem",
+        "cod_cliente",
+        "cod_vendedor",
+        "nome_vendedor",
+        "cod_material",
+        "desc_material",
+        "grupo_material",
+        "quantidade",
+        "unidade",
+        "vlr_receita_liquida",
+        "valor_custo_total",
+        "centro",
+        "uf",
+        "canal"
+      ]
+    },
+    {
+      "file_name": "faturamento_export_20261105.csv",
+      "file_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\entrada\\faturamento_export_20261105.csv",
+      "encoding": "latin1",
+      "delimiter": ";",
+      "row_count": 2222,
+      "column_count": 19,
+      "columns": [
+        "nr_documento",
+        "item",
+        "tipo_documento",
+        "data_emissao",
+        "data_lancamento",
+        "nf_origem",
+        "cod_cliente",
+        "cod_vendedor",
+        "nome_vendedor",
+        "cod_material",
+        "desc_material",
+        "grupo_material",
+        "quantidade",
+        "unidade",
+        "vlr_receita_liquida",
+        "valor_custo_total",
+        "centro",
+        "uf",
+        "canal"
+      ]
+    }
+  ],
+  "schema_differences": {
+    "faturamento_export_20260902.csv": [
+      "ausentes: ['cod_vendedor_atual', 'cpf_cnpj', 'data_atribuicao_vendedor', 'municipio', 'nome_cliente', 'segmento', 'tipo_pessoa']",
+      "adicionadas: ['centro', 'cod_material', 'cod_vendedor', 'data_emissao', 'data_lancamento', 'desc_material', 'grupo_material', 'item', 'nf_origem', 'nome_vendedor', 'nr_documento', 'quantidade', 'tipo_documento', 'unidade', 'vlr_custo', 'vlr_receita_liquida']"
+    ],
+    "faturamento_export_20261002.csv": [
+      "ausentes: ['cod_vendedor_atual', 'cpf_cnpj', 'data_atribuicao_vendedor', 'municipio', 'nome_cliente', 'segmento', 'tipo_pessoa']",
+      "adicionadas: ['centro', 'cod_material', 'cod_vendedor', 'data_emissao', 'data_lancamento', 'desc_material', 'grupo_material', 'item', 'nf_origem', 'nome_vendedor', 'nr_documento', 'quantidade', 'tipo_documento', 'unidade', 'vlr_custo', 'vlr_receita_liquida']"
+    ],
+    "faturamento_export_20261103.csv": [
+      "ausentes: ['cod_vendedor_atual', 'cpf_cnpj', 'data_atribuicao_vendedor', 'municipio', 'nome_cliente', 'segmento', 'tipo_pessoa']",
+      "adicionadas: ['canal', 'centro', 'cod_material', 'cod_vendedor', 'data_emissao', 'data_lancamento', 'desc_material', 'grupo_material', 'item', 'nf_origem', 'nome_vendedor', 'nr_documento', 'quantidade', 'tipo_documento', 'unidade', 'valor_custo_total', 'vlr_receita_liquida']"
+    ],
+    "faturamento_export_20261105.csv": [
+      "ausentes: ['cod_vendedor_atual', 'cpf_cnpj', 'data_atribuicao_vendedor', 'municipio', 'nome_cliente', 'segmento', 'tipo_pessoa']",
+      "adicionadas: ['canal', 'centro', 'cod_material', 'cod_vendedor', 'data_emissao', 'data_lancamento', 'desc_material', 'grupo_material', 'item', 'nf_origem', 'nome_vendedor', 'nr_documento', 'quantidade', 'tipo_documento', 'unidade', 'valor_custo_total', 'vlr_receita_liquida']"
+    ]
+  }
+}

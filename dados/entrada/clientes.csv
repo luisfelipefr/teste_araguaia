@@ -1,0 +1,358 @@
+cod_cliente;nome_cliente;tipo_pessoa;cpf_cnpj;municipio;uf;segmento;cod_vendedor_atual;data_atribuicao_vendedor
+C00001;Terramais Insumos 001 Ltda;PJ;68.976.846/9788-00;Unai;MG;Revenda;V01;2023-11-29
+C00002;Agropecuária Santa Clara 002 Ltda;PJ;96.727.317/7848-00;Primavera do Leste;MT;Produtor;V01;2023-12-07
+C00003;Agropecuária Ipê 003 Ltda;PJ;66.344.002/9787-00;Maracaju;MS;Produtor;V01;2023-09-10
+C00004;Agropecuária Ipê 004 Ltda;PJ;68.045.717/8472-00;Maracaju;MS;Produtor;V01;2023-07-04
+C00005;Agropecuária Ipê 005 Ltda;PJ;51.362.701/0798-00;Unai;MG;Produtor;V01;2023-02-20
+C00006;Agropecuária Bela Vista 006 Ltda;PJ;52.059.972/8379-00;Sinop;MT;Produtor;V01;2023-11-21
+C00007;Ruralforte Insumos 007 Ltda;PJ;94.866.283/6016-00;Dourados;MS;Revenda;V01;2025-05-31
+C00008;Agropecuária Boa Vista 008 Ltda;PJ;08.754.751/7799-00;Dourados;MS;Produtor;V01;2023-08-18
+C00009;Produtor Rural 0009;PF;931.860.320-11;Sorriso;MT;Produtor;V01;2024-08-08
+C00010;Agropecuária Boa Vista 010 Ltda;PJ;28.382.226/4686-00;Sorriso;MT;Produtor;V01;2023-04-24
+C00011;Produtor Rural 0011;PF;764.725.877-00;Sorriso;MT;Produtor;V01;2024-11-04
+C00012;Agropecuária Rio Claro 012 Ltda;PJ;01.756.820/5258-00;Chapadao do Sul;MS;Produtor;V01;2023-03-31
+C00013;Campovale Insumos 013 Ltda;PJ;93.949.482/1416-00;Sinop;MT;Revenda;V01;2023-03-04
+C00014;Agropecuária Serra Alta 014 Ltda;PJ;18.549.145/2441-00;Rio Verde;GO;Produtor;V01;2023-10-14
+C00015;Produtor Rural 0015;PF;130.411.895-00;Maracaju;MS;Produtor;V01;2023-11-19
+C00016;Produtor Rural 0016;PF;397.615.846-00;Mineiros;GO;Produtor;V01;2024-04-04
+C00017;Terramais Insumos 017 Ltda;PJ;45.414.659/0853-00;Chapadao do Sul;MS;Revenda;V01;2023-11-20
+C00018;Produtor Rural 0018;PF;028.594.069-00;Jatai;GO;Produtor;V01;2023-12-22
+C00019;Agropecuária Rio Claro 019 Ltda;PJ;22.808.864/2300-11;Patos de Minas;MG;Produtor;V01;2024-02-11
+C00020;Produtor Rural 0020;PF;912.808.458-00;Uberaba;MG;Produtor;V01;2023-01-20
+C00021;Produtor Rural 0021;PF;038.265.384-00;Mineiros;GO;Produtor;V01;2024-05-15
+C00022;Agropecuária Ipê 022 Ltda;PJ;94.326.270/5860-11;Chapadao do Sul;MS;Produtor;V01;2024-09-15
+C00023;Agropecuária Serra Alta 023 Ltda;PJ;10.839.490/6688-00;Chapadao do Sul;MS;Produtor;V01;2025-02-27
+C00024;Terrasul Insumos 024 Ltda;PJ;84.409.324/4845-00;Jatai;GO;Revenda;V01;2023-12-31
+C00025;Agropecuária Ipê 025 Ltda;PJ;65.828.025/8220-11;Sorriso;MT;Produtor;V01;2023-10-08
+C00026;Produtor Rural 0026;PF;438.299.321-00;Mineiros;GO;Produtor;V01;2023-04-13
+C00027;Agropecuária Santa Clara 027 Ltda;PJ;57.718.835/7951-00;Rio Verde;GO;Produtor;V01;2024-05-31
+C00028;Agropecuária Bela Vista 028 Ltda;PJ;32.568.855/7652-00;Jatai;GO;Produtor;V01;2023-07-05
+C00029;Agropecuária São José 029 Ltda;PJ;69.632.792/6451-00;Lucas do Rio Verde;MT;Produtor;V01;2023-02-19
+C00030;Agropecuária Bela Vista 030 Ltda;PJ;35.281.449/7660-11;Uberaba;MG;Produtor;V01;2023-03-12
+C00031;Agropecuária Ipê 031 Ltda;PJ;88.365.506/2048-00;Uberaba;MG;Produtor;V01;2023-05-29
+C00032;Agropecuária Ipê 032 Ltda;PJ;75.003.145/0378-00;Maracaju;MS;Produtor;V01;2024-03-29
+C00033;Ruralvale Insumos 033 Ltda;PJ;01.253.739/2419-00;Maracaju;MS;Revenda;V01;2023-10-28
+C00034;Camponorte Insumos 034 Ltda;PJ;02.883.755/5597-00;Lucas do Rio Verde;MT;Revenda;V01;2023-08-26
+C00035;Produtor Rural 0035;PF;720.754.735-00;Maracaju;MS;Produtor;V01;2024-01-13
+C00036;Agropecuária Três Irmãos 036 Ltda;PJ;18.847.918/8957-00;Patos de Minas;MG;Produtor;V01;2025-04-27
+C00037;Agropecuária Serra Alta 037 Ltda;PJ;48.861.930/7336-00;Chapadao do Sul;MS;Produtor;V01;2023-10-20
+C00038;Agropecuária Bela Vista 038 Ltda;PJ;72.855.689/8329-00;Sinop;MT;Produtor;V01;2025-04-08
+C00039;Agropecuária Boa Vista 039 Ltda;PJ;04.422.485/2722-00;Sorriso;MT;Produtor;V01;2025-03-23
+C00040;Agropecuária Boa Vista 040 Ltda;PJ;43.858.176/2528-00;Sorriso;MT;Produtor;V01;2023-10-22
+C00041;Camposul Insumos 041 Ltda;PJ;02.831.663/2337-00;Jatai;GO;Revenda;V01;2023-05-06
+C00042;Agropecuária São José 042 Ltda;PJ;34.789.713/3115-00;Uberaba;MG;Produtor;V01;2024-02-08
+C00043;Ruralnorte Insumos 043 Ltda;PJ;36.082.445/6078-00;Primavera do Leste;MT;Revenda;V01;2024-02-09
+C00044;Produtor Rural 0044;PF;283.576.990-11;Chapadao do Sul;MS;Produtor;V01;2023-09-08
+C00045;Agropecuária Santa Clara 045 Ltda;PJ;77.588.814/4019-00;Dourados;MS;Produtor;V01;2025-01-27
+C00046;Produtor Rural 0046;PF;979.780.252-00;Unai;MG;Produtor;V01;2024-05-28
+C00047;Agropecuária Boa Vista 047 Ltda;PJ;01.981.524/7357-00;Jatai;GO;Produtor;V01;2024-11-19
+C00048;Agropecuária Serra Alta 048 Ltda;PJ;73.197.967/8073-00;Maracaju;MS;Produtor;V01;2023-01-23
+C00049;Produtor Rural 0049;PF;854.690.598-00;Unai;MG;Produtor;V02;2025-01-03
+C00050;Agropecuária Santa Clara 050 Ltda;PJ;82.761.166/0330-11;Mineiros;GO;Produtor;V02;2025-05-10
+C00051;Agropecuária Santa Clara 051 Ltda;PJ;42.038.178/0578-00;Sorriso;MT;Produtor;V02;2024-10-06
+C00052;Agropecuária Boa Vista 052 Ltda;PJ;41.214.304/9074-00;Sorriso;MT;Produtor;V02;2024-09-25
+C00053;Agropecuária Rio Claro 053 Ltda;PJ;70.853.867/1300-11;Primavera do Leste;MT;Produtor;V02;2025-04-06
+C00054;Agropecuária Serra Alta 054 Ltda;PJ;32.838.564/2710-11;Mineiros;GO;Produtor;V02;2025-06-01
+C00055;Agropecuária Rio Claro 055 Ltda;PJ;72.527.812/0617-00;Primavera do Leste;MT;Produtor;V02;2024-09-28
+C00056;Produtor Rural 0056;PF;904.316.349-00;Chapadao do Sul;MS;Produtor;V02;2023-03-09
+C00057;Agropecuária Boa Vista 057 Ltda;PJ;52.791.372/9871-00;Sorriso;MT;Produtor;V02;2023-06-28
+C00058;Agropecuária Boa Vista 058 Ltda;PJ;79.426.079/1135-00;Maracaju;MS;Produtor;V02;2025-06-09
+C00059;Produtor Rural 0059;PF;744.796.745-00;Unai;MG;Produtor;V02;2023-11-22
+C00060;Agropecuária Bela Vista 060 Ltda;PJ;63.521.362/9586-00;Jatai;GO;Produtor;V02;2023-04-28
+C00061;Agropecuária Três Irmãos 061 Ltda;PJ;45.732.840/9342-00;Maracaju;MS;Produtor;V02;2023-03-16
+C00062;Produtor Rural 0062;PF;709.409.858-00;Lucas do Rio Verde;MT;Produtor;V02;2024-05-07
+C00063;Agropecuária Bela Vista 063 Ltda;PJ;98.556.830/6866-00;Lucas do Rio Verde;MT;Produtor;V02;2024-11-29
+C00064;Produtor Rural 0064;PF;013.327.967-00;Sinop;MT;Produtor;V02;2023-06-11
+C00065;Agropecuária Santa Clara 065 Ltda;PJ;13.617.958/1635-00;Lucas do Rio Verde;MT;Produtor;V02;2024-12-23
+C00066;Agropecuária Serra Alta 066 Ltda;PJ;76.113.875/9211-00;Mineiros;GO;Produtor;V02;2025-05-23
+C00067;Agropecuária Santa Clara 067 Ltda;PJ;86.210.761/7707-00;Patos de Minas;MG;Produtor;V02;2023-09-10
+C00068;Produtor Rural 0068;PF;614.883.615-00;Jatai;GO;Produtor;V02;2024-01-14
+C00069;Agropecuária Bela Vista 069 Ltda;PJ;61.351.619/9456-00;Lucas do Rio Verde;MT;Produtor;V02;2023-03-27
+C00070;Produtor Rural 0070;PF;894.874.643-00;Primavera do Leste;MT;Produtor;V02;2024-01-29
+C00071;Produtor Rural 0071;PF;930.399.551-00;Chapadao do Sul;MS;Produtor;V02;2024-05-08
+C00072;Agropecuária Santa Clara 072 Ltda;PJ;56.795.965/0565-00;Patos de Minas;MG;Produtor;V02;2024-05-04
+C00073;Agropecuária Boa Vista 073 Ltda;PJ;48.801.564/6440-11;Jatai;GO;Produtor;V02;2025-05-13
+C00074;Produtor Rural 0074;PF;598.719.889-00;Rio Verde;GO;Produtor;V02;2024-08-24
+C00075;Produtor Rural 0075;PF;111.960.278-00;Rio Verde;GO;Produtor;V02;2024-08-31
+C00076;Produtor Rural 0076;PF;730.642.482-00;Chapadao do Sul;MS;Produtor;V02;2024-02-23
+C00077;Terranorte Insumos 077 Ltda;PJ;72.041.263/4789-00;Jatai;GO;Revenda;V02;2025-01-17
+C00078;Agropecuária Boa Vista 078 Ltda;PJ;13.761.561/0591-00;Lucas do Rio Verde;MT;Produtor;V02;2024-07-31
+C00079;Produtor Rural 0079;PF;881.813.785-00;Sinop;MT;Produtor;V02;2023-08-28
+C00080;Agropecuária Três Irmãos 080 Ltda;PJ;49.753.325/7192-00;Lucas do Rio Verde;MT;Produtor;V02;2023-07-19
+C00081;Produtor Rural 0081;PF;347.042.476-00;Rio Verde;GO;Produtor;V02;2024-03-22
+C00082;Agropecuária Três Irmãos 082 Ltda;PJ;17.544.201/4613-00;Jatai;GO;Produtor;V02;2023-12-18
+C00083;Campoforte Insumos 083 Ltda;PJ;05.147.865/8930-11;Mineiros;GO;Revenda;V02;2025-01-18
+C00084;Agropecuária Três Irmãos 084 Ltda;PJ;05.538.488/5681-00;Uberaba;MG;Produtor;V02;2023-02-03
+C00085;Agropecuária Boa Vista 085 Ltda;PJ;90.727.615/1413-00;Cristalina;GO;Produtor;V02;2025-06-03
+C00086;Produtor Rural 0086;PF;010.875.262-00;Sinop;MT;Produtor;V02;2025-04-06
+C00087;Agropecuária Bela Vista 087 Ltda;PJ;66.863.166/5398-00;Chapadao do Sul;MS;Produtor;V02;2024-02-18
+C00088;Produtor Rural 0088;PF;358.134.217-00;Unai;MG;Produtor;V02;2023-05-04
+C00089;Agropecuária Ipê 089 Ltda;PJ;70.441.047/5168-00;Primavera do Leste;MT;Produtor;V02;2023-08-26
+C00090;Campomais Insumos 090 Ltda;PJ;08.235.953/4940-11;Uberaba;MG;Revenda;V02;2023-07-06
+C00091;Produtor Rural 0091;PF;747.818.244-00;Primavera do Leste;MT;Produtor;V02;2023-02-27
+C00092;Agropecuária Três Irmãos 092 Ltda;PJ;80.801.000/5200-11;Patos de Minas;MG;Produtor;V02;2024-03-31
+C00093;Produtor Rural 0093;PF;039.273.305-00;Cristalina;GO;Produtor;V02;2024-03-19
+C00094;Agropecuária Ipê 094 Ltda;PJ;78.166.114/6351-00;Rio Verde;GO;Produtor;V03;2023-10-22
+C00095;Produtor Rural 0095;PF;004.030.042-00;Cristalina;GO;Produtor;V03;2023-04-18
+C00096;Agropecuária Ipê 096 Ltda;PJ;15.529.301/2670-11;Uberaba;MG;Produtor;V03;2024-04-04
+C00097;Agropecuária Ipê 097 Ltda;PJ;70.579.299/2398-00;Sorriso;MT;Produtor;V03;2023-07-14
+C00098;Produtor Rural 0098;PF;271.861.581-00;Sinop;MT;Produtor;V03;2024-10-08
+C00099;Agropecuária Boa Vista 099 Ltda;PJ;67.554.850/6635-00;Rio Verde;GO;Produtor;V03;2024-06-25
+C00100;Agropecuária São José 100 Ltda;PJ;97.348.124/1726-00;Patos de Minas;MG;Produtor;V03;2023-07-30
+C00101;Produtor Rural 0101;PF;290.920.824-00;Unai;MG;Produtor;V03;2025-02-22
+C00102;Produtor Rural 0102;PF;283.709.506-00;Rio Verde;GO;Produtor;V03;2023-03-07
+C00103;Agropecuária Ipê 103 Ltda;PJ;04.151.780/1332-00;Mineiros;GO;Produtor;V03;2023-12-05
+C00104;Agropecuária Três Irmãos 104 Ltda;PJ;37.827.608/2196-00;Uberaba;MG;Produtor;V03;2023-09-26
+C00105;Agropecuária Três Irmãos 105 Ltda;PJ;07.002.238/6969-00;Mineiros;GO;Produtor;V03;2025-03-11
+C00106;Produtor Rural 0106;PF;655.013.510-11;Sorriso;MT;Produtor;V03;2024-02-25
+C00107;Agropecuária Ipê 107 Ltda;PJ;11.243.351/6585-00;Unai;MG;Produtor;V03;2023-05-12
+C00108;Produtor Rural 0108;PF;154.316.103-00;Uberaba;MG;Produtor;V03;2025-02-01
+C00109;Produtor Rural 0109;PF;152.051.148-00;Sinop;MT;Produtor;V03;2023-08-12
+C00110;Agropecuária Rio Claro 110 Ltda;PJ;41.908.238/6135-00;Dourados;MS;Produtor;V03;2024-04-16
+C00111;Agropecuária Três Irmãos 111 Ltda;PJ;37.877.604/0542-00;Lucas do Rio Verde;MT;Produtor;V03;2023-10-30
+C00112;Produtor Rural 0112;PF;276.412.974-00;Maracaju;MS;Produtor;V03;2024-02-07
+C00113;Produtor Rural 0113;PF;713.936.055-00;Unai;MG;Produtor;V03;2024-04-16
+C00114;Agropecuária Três Irmãos 114 Ltda;PJ;05.643.338/7926-00;Uberaba;MG;Produtor;V03;2024-02-18
+C00115;Terrasul Insumos 115 Ltda;PJ;44.694.037/2056-00;Uberaba;MG;Revenda;V03;2024-01-15
+C00116;Produtor Rural 0116;PF;075.689.651-00;Primavera do Leste;MT;Produtor;V03;2023-03-16
+C00117;Agropecuária Boa Vista 117 Ltda;PJ;39.622.098/7695-00;Jatai;GO;Produtor;V03;2024-11-07
+C00118;Agromais Insumos 118 Ltda;PJ;98.976.002/8220-11;Patos de Minas;MG;Revenda;V03;2024-09-03
+C00119;Agropecuária Serra Alta 119 Ltda;PJ;98.442.782/0624-00;Mineiros;GO;Produtor;V03;2023-11-11
+C00120;Produtor Rural 0120;PF;643.231.677-00;Patos de Minas;MG;Produtor;V03;2023-07-04
+C00121;Agropecuária Rio Claro 121 Ltda;PJ;44.796.725/2189-00;Rio Verde;GO;Produtor;V03;2024-12-04
+C00122;Produtor Rural 0122;PF;668.692.271-00;Sinop;MT;Produtor;V03;2025-02-17
+C00123;Agropecuária Ipê 123 Ltda;PJ;15.029.529/2074-00;Jatai;GO;Produtor;V03;2023-08-01
+C00124;Agropecuária Ipê 124 Ltda;PJ;17.634.526/0645-00;Dourados;MS;Produtor;V03;2024-05-08
+C00125;Campovale Insumos 125 Ltda;PJ;46.096.584/5007-00;Mineiros;GO;Revenda;V03;2023-07-18
+C00126;Campovale Insumos 126 Ltda;PJ;10.133.156/0408-00;Chapadao do Sul;MS;Revenda;V03;2024-12-20
+C00127;Agropecuária São José 127 Ltda;PJ;96.101.019/5444-00;Patos de Minas;MG;Produtor;V03;2025-05-13
+C00128;Agropecuária São José 128 Ltda;PJ;39.210.254/9092-00;Rio Verde;GO;Produtor;V03;2024-11-03
+C00129;Agropecuária Rio Claro 129 Ltda;PJ;14.237.336/9795-00;Rio Verde;GO;Produtor;V03;2023-02-06
+C00130;Produtor Rural 0130;PF;474.480.594-00;Chapadao do Sul;MS;Produtor;V03;2024-01-02
+C00131;Agropecuária São José 131 Ltda;PJ;62.528.456/1863-00;Patos de Minas;MG;Produtor;V03;2024-06-22
+C00132;Produtor Rural 0132;PF;750.694.266-00;Chapadao do Sul;MS;Produtor;V03;2024-07-08
+C00133;Agropecuária Rio Claro 133 Ltda;PJ;17.914.307/4777-00;Cristalina;GO;Produtor;V03;2025-05-31
+C00134;Produtor Rural 0134;PF;044.186.134-00;Unai;MG;Produtor;V03;2023-07-04
+C00135;Produtor Rural 0135;PF;314.395.461-00;Uberaba;MG;Produtor;V03;2024-08-07
+C00136;Produtor Rural 0136;PF;781.724.664-00;Unai;MG;Produtor;V04;2025-02-28
+C00137;Agropecuária Boa Vista 137 Ltda;PJ;28.485.258/0257-00;Primavera do Leste;MT;Produtor;V04;2025-01-23
+C00138;Agropecuária Bela Vista 138 Ltda;PJ;99.961.797/8557-00;Patos de Minas;MG;Produtor;V04;2025-03-09
+C00139;Produtor Rural 0139;PF;483.670.887-00;Mineiros;GO;Produtor;V04;2025-04-21
+C00140;Produtor Rural 0140;PF;487.177.483-00;Patos de Minas;MG;Produtor;V04;2024-01-23
+C00141;Produtor Rural 0141;PF;191.722.903-00;Mineiros;GO;Produtor;V04;2025-04-01
+C00142;Produtor Rural 0142;PF;778.545.791-00;Rio Verde;GO;Produtor;V04;2024-07-30
+C00143;Agropecuária Rio Claro 143 Ltda;PJ;83.271.745/1435-00;Unai;MG;Produtor;V04;2024-02-02
+C00144;Agropecuária Rio Claro 144 Ltda;PJ;66.747.147/3231-00;Sinop;MT;Produtor;V04;2024-03-03
+C00145;Agropecuária Ipê 145 Ltda;PJ;71.327.440/4309-00;Maracaju;MS;Produtor;V04;2024-02-17
+C00146;Agropecuária Rio Claro 146 Ltda;PJ;14.335.918/3814-00;Lucas do Rio Verde;MT;Produtor;V04;2023-08-21
+C00147;Agropecuária Santa Clara 147 Ltda;PJ;58.662.712/5204-00;Chapadao do Sul;MS;Produtor;V04;2025-03-12
+C00148;Produtor Rural 0148;PF;626.958.359-00;Dourados;MS;Produtor;V04;2024-03-16
+C00149;Campoforte Insumos 149 Ltda;PJ;86.594.605/5183-00;Rio Verde;GO;Revenda;V04;2025-05-10
+C00150;Produtor Rural 0150;PF;655.572.234-00;Jatai;GO;Produtor;V04;2024-10-05
+C00151;Agropecuária Bela Vista 151 Ltda;PJ;90.898.233/8430-11;Lucas do Rio Verde;MT;Produtor;V04;2025-05-06
+C00152;Produtor Rural 0152;PF;922.755.354-00;Jatai;GO;Produtor;V04;2023-10-03
+C00153;Produtor Rural 0153;PF;519.955.939-00;Dourados;MS;Produtor;V04;2025-03-03
+C00154;Agropecuária Rio Claro 154 Ltda;PJ;61.387.303/7526-00;Rio Verde;GO;Produtor;V04;2024-01-30
+C00155;Agrovale Insumos 155 Ltda;PJ;37.612.539/8257-00;Patos de Minas;MG;Revenda;V04;2025-04-05
+C00156;Terraforte Insumos 156 Ltda;PJ;08.090.862/7732-00;Patos de Minas;MG;Revenda;V04;2024-08-22
+C00157;Agropecuária Rio Claro 157 Ltda;PJ;68.043.104/1726-00;Dourados;MS;Produtor;V04;2025-01-15
+C00158;Agropecuária Santa Clara 158 Ltda;PJ;52.165.767/5260-11;Lucas do Rio Verde;MT;Produtor;V04;2025-04-01
+C00159;Agropecuária São José 159 Ltda;PJ;89.383.299/0770-11;Rio Verde;GO;Produtor;V04;2025-03-23
+C00160;Agropecuária Três Irmãos 160 Ltda;PJ;01.696.764/4797-00;Jatai;GO;Produtor;V04;2024-12-08
+C00161;Agropecuária Três Irmãos 161 Ltda;PJ;03.423.659/6602-00;Cristalina;GO;Produtor;V04;2023-02-03
+C00162;Produtor Rural 0162;PF;741.547.733-00;Sinop;MT;Produtor;V04;2024-05-09
+C00163;Agropecuária Rio Claro 163 Ltda;PJ;04.461.811/8331-00;Primavera do Leste;MT;Produtor;V04;2023-02-07
+C00164;Produtor Rural 0164;PF;491.532.168-00;Cristalina;GO;Produtor;V04;2023-11-05
+C00165;Agropecuária Rio Claro 165 Ltda;PJ;17.367.512/7255-00;Chapadao do Sul;MS;Produtor;V04;2024-07-02
+C00166;Produtor Rural 0166;PF;726.001.202-00;Patos de Minas;MG;Produtor;V04;2024-04-27
+C00167;Agropecuária Três Irmãos 167 Ltda;PJ;76.669.716/9731-00;Primavera do Leste;MT;Produtor;V04;2023-10-25
+C00168;Agropecuária Boa Vista 168 Ltda;PJ;99.379.749/6224-00;Mineiros;GO;Produtor;V04;2025-03-17
+C00169;Terramais Insumos 169 Ltda;PJ;84.807.826/9550-11;Mineiros;GO;Revenda;V04;2025-03-11
+C00170;Agropecuária Bela Vista 170 Ltda;PJ;02.521.960/7638-00;Patos de Minas;MG;Produtor;V04;2023-04-30
+C00171;Agrosul Insumos 171 Ltda;PJ;70.876.137/5049-00;Chapadao do Sul;MS;Revenda;V04;2025-05-02
+C00172;Agropecuária Serra Alta 172 Ltda;PJ;62.492.170/7887-00;Mineiros;GO;Produtor;V04;2024-06-21
+C00173;Agropecuária Bela Vista 173 Ltda;PJ;52.225.043/5197-00;Maracaju;MS;Produtor;V04;2023-08-17
+C00174;Produtor Rural 0174;PF;172.168.399-00;Maracaju;MS;Produtor;V04;2024-01-12
+C00175;Agropecuária Serra Alta 175 Ltda;PJ;10.481.035/2478-00;Cristalina;GO;Produtor;V04;2023-01-25
+C00176;Agroforte Insumos 176 Ltda;PJ;97.757.488/7810-11;Rio Verde;GO;Revenda;V04;2024-06-12
+C00177;Ruralforte Insumos 177 Ltda;PJ;09.306.547/7123-00;Cristalina;GO;Revenda;V04;2023-04-29
+C00178;Agropecuária Ipê 178 Ltda;PJ;20.453.316/1881-00;Lucas do Rio Verde;MT;Produtor;V04;2024-11-14
+C00179;Produtor Rural 0179;PF;600.121.206-00;Maracaju;MS;Produtor;V04;2024-07-31
+C00180;Produtor Rural 0180;PF;559.328.250-11;Cristalina;GO;Produtor;V04;2025-03-05
+C00181;Terrasul Insumos 181 Ltda;PJ;76.126.524/9138-00;Rio Verde;GO;Revenda;V04;2024-11-09
+C00182;Agropecuária Serra Alta 182 Ltda;PJ;03.258.832/7163-00;Unai;MG;Produtor;V04;2024-05-14
+C00183;Produtor Rural 0183;PF;029.492.442-00;Sorriso;MT;Produtor;V04;2024-10-13
+C00184;Produtor Rural 0184;PF;772.108.357-00;Primavera do Leste;MT;Produtor;V04;2025-06-09
+C00185;Agropecuária São José 185 Ltda;PJ;52.111.168/7285-00;Maracaju;MS;Produtor;V04;2024-10-08
+C00186;Agropecuária Santa Clara 186 Ltda;PJ;61.121.168/4455-00;Chapadao do Sul;MS;Produtor;V05;2023-02-21
+C00187;Agropecuária Ipê 187 Ltda;PJ;08.340.983/9439-00;Maracaju;MS;Produtor;V05;2025-04-23
+C00188;Agropecuária Boa Vista 188 Ltda;PJ;70.147.849/9204-00;Rio Verde;GO;Produtor;V05;2023-05-20
+C00189;Agropecuária Boa Vista 189 Ltda;PJ;53.501.919/6520-11;Dourados;MS;Produtor;V05;2024-02-29
+C00190;Produtor Rural 0190;PF;034.076.415-00;Dourados;MS;Produtor;V05;2023-06-03
+C00191;Produtor Rural 0191;PF;336.562.001-00;Unai;MG;Produtor;V05;2024-10-10
+C00192;Produtor Rural 0192;PF;700.153.791-00;Unai;MG;Produtor;V05;2024-04-20
+C00193;Produtor Rural 0193;PF;722.459.949-00;Sorriso;MT;Produtor;V05;2024-12-10
+C00194;Produtor Rural 0194;PF;131.390.026-00;Lucas do Rio Verde;MT;Produtor;V05;2025-01-25
+C00195;Produtor Rural 0195;PF;695.360.661-00;Jatai;GO;Produtor;V05;2025-06-18
+C00196;Agropecuária Três Irmãos 196 Ltda;PJ;56.799.517/9464-00;Dourados;MS;Produtor;V05;2023-06-22
+C00197;Agropecuária Ipê 197 Ltda;PJ;25.755.090/0830-11;Jatai;GO;Produtor;V05;2025-02-18
+C00198;Produtor Rural 0198;PF;975.077.739-00;Maracaju;MS;Produtor;V05;2024-03-31
+C00199;Produtor Rural 0199;PF;381.596.410-11;Jatai;GO;Produtor;V05;2025-05-17
+C00200;Produtor Rural 0200;PF;280.856.903-00;Cristalina;GO;Produtor;V05;2023-11-06
+C00201;Produtor Rural 0201;PF;268.572.130-11;Maracaju;MS;Produtor;V05;2025-01-16
+C00202;Produtor Rural 0202;PF;505.265.170-11;Jatai;GO;Produtor;V05;2024-01-04
+C00203;Agropecuária Três Irmãos 203 Ltda;PJ;53.864.823/7685-00;Uberaba;MG;Produtor;V05;2025-04-17
+C00204;Produtor Rural 0204;PF;755.603.496-00;Sorriso;MT;Produtor;V05;2025-06-14
+C00205;Agropecuária Três Irmãos 205 Ltda;PJ;13.178.571/0424-00;Sorriso;MT;Produtor;V05;2023-02-04
+C00206;Produtor Rural 0206;PF;228.539.598-00;Chapadao do Sul;MS;Produtor;V05;2023-11-03
+C00207;Produtor Rural 0207;PF;310.951.179-00;Sorriso;MT;Produtor;V05;2024-10-24
+C00208;Produtor Rural 0208;PF;216.214.461-00;Unai;MG;Produtor;V05;2025-04-12
+C00209;Agropecuária São José 209 Ltda;PJ;96.546.205/5489-00;Lucas do Rio Verde;MT;Produtor;V05;2024-10-10
+C00210;Produtor Rural 0210;PF;386.162.589-00;Patos de Minas;MG;Produtor;V05;2024-06-05
+C00211;Agropecuária Boa Vista 211 Ltda;PJ;71.353.493/6863-00;Maracaju;MS;Produtor;V05;2023-12-20
+C00212;Agropecuária Boa Vista 212 Ltda;PJ;06.417.359/6485-00;Unai;MG;Produtor;V05;2024-01-01
+C00213;Agropecuária Santa Clara 213 Ltda;PJ;20.641.971/1005-00;Jatai;GO;Produtor;V05;2025-05-28
+C00214;Produtor Rural 0214;PF;514.293.092-00;Maracaju;MS;Produtor;V05;2024-01-18
+C00215;Produtor Rural 0215;PF;444.860.719-00;Cristalina;GO;Produtor;V05;2023-02-19
+C00216;Agropecuária Rio Claro 216 Ltda;PJ;18.453.145/3025-00;Patos de Minas;MG;Produtor;V05;2024-09-11
+C00217;Agronorte Insumos 217 Ltda;PJ;40.554.589/2042-00;Sorriso;MT;Revenda;V05;2024-02-29
+C00218;Agropecuária Santa Clara 218 Ltda;PJ;12.515.789/7948-00;Patos de Minas;MG;Produtor;V05;2023-10-10
+C00219;Produtor Rural 0219;PF;186.841.685-00;Cristalina;GO;Produtor;V05;2023-12-29
+C00220;Agropecuária Bela Vista 220 Ltda;PJ;89.919.795/1005-00;Mineiros;GO;Produtor;V05;2025-03-05
+C00221;Agropecuária Bela Vista 221 Ltda;PJ;61.957.348/1327-00;Uberaba;MG;Produtor;V05;2024-09-23
+C00222;Agropecuária Três Irmãos 222 Ltda;PJ;34.769.860/4014-00;Primavera do Leste;MT;Produtor;V05;2024-09-20
+C00223;Agropecuária Santa Clara 223 Ltda;PJ;57.438.903/2706-00;Sinop;MT;Produtor;V05;2023-01-16
+C00224;Produtor Rural 0224;PF;271.927.243-00;Jatai;GO;Produtor;V05;2023-07-25
+C00225;Agropecuária Três Irmãos 225 Ltda;PJ;70.364.270/5755-00;Patos de Minas;MG;Produtor;V05;2025-02-08
+C00226;Agropecuária São José 226 Ltda;PJ;07.392.923/9113-00;Rio Verde;GO;Produtor;V05;2024-06-23
+C00227;Agropecuária São José 227 Ltda;PJ;74.719.668/3149-00;Mineiros;GO;Produtor;V05;2023-12-21
+C00228;Produtor Rural 0228;PF;304.054.187-00;Sinop;MT;Produtor;V05;2023-05-29
+C00229;Agropecuária Três Irmãos 229 Ltda;PJ;31.212.779/2627-00;Sorriso;MT;Produtor;V05;2023-12-17
+C00230;Agropecuária Bela Vista 230 Ltda;PJ;46.512.292/5790-11;Uberaba;MG;Produtor;V06;2024-06-21
+C00231;Produtor Rural 0231;PF;841.554.860-11;Sorriso;MT;Produtor;V06;2023-10-08
+C00232;Agropecuária Serra Alta 232 Ltda;PJ;32.456.505/4344-00;Sinop;MT;Produtor;V06;2025-03-16
+C00233;Produtor Rural 0233;PF;141.294.321-00;Mineiros;GO;Produtor;V06;2024-08-29
+C00234;Agropecuária Rio Claro 234 Ltda;PJ;82.328.377/4850-11;Unai;MG;Produtor;V06;2023-12-05
+C00235;Agropecuária Bela Vista 235 Ltda;PJ;98.073.046/5239-00;Sorriso;MT;Produtor;V06;2023-11-08
+C00236;Agropecuária São José 236 Ltda;PJ;54.790.845/4338-00;Chapadao do Sul;MS;Produtor;V06;2023-06-24
+C00237;Produtor Rural 0237;PF;644.132.076-00;Mineiros;GO;Produtor;V06;2023-08-12
+C00238;Produtor Rural 0238;PF;889.617.840-11;Patos de Minas;MG;Produtor;V06;2023-05-02
+C00239;Agropecuária São José 239 Ltda;PJ;42.681.735/3161-00;Maracaju;MS;Produtor;V06;2025-03-06
+C00240;Agropecuária São José 240 Ltda;PJ;06.021.331/1145-00;Mineiros;GO;Produtor;V06;2023-12-03
+C00241;Agropecuária Ipê 241 Ltda;PJ;18.164.733/0869-00;Maracaju;MS;Produtor;V06;2023-06-02
+C00242;Produtor Rural 0242;PF;370.500.620-11;Dourados;MS;Produtor;V06;2023-07-10
+C00243;Produtor Rural 0243;PF;325.017.832-00;Cristalina;GO;Produtor;V06;2024-03-08
+C00244;Agropecuária Três Irmãos 244 Ltda;PJ;87.648.076/1342-00;Sorriso;MT;Produtor;V06;2024-06-24
+C00245;Agropecuária Bela Vista 245 Ltda;PJ;16.557.285/4766-00;Uberaba;MG;Produtor;V06;2023-07-26
+C00246;Produtor Rural 0246;PF;488.102.393-00;Patos de Minas;MG;Produtor;V06;2024-12-02
+C00247;Agropecuária Três Irmãos 247 Ltda;PJ;35.446.443/3294-00;Jatai;GO;Produtor;V06;2023-05-31
+C00248;Campomais Insumos 248 Ltda;PJ;73.572.071/0136-00;Sinop;MT;Revenda;V06;2025-04-24
+C00249;Agropecuária Bela Vista 249 Ltda;PJ;61.866.941/5536-00;Sinop;MT;Produtor;V06;2023-01-30
+C00250;Produtor Rural 0250;PF;862.154.771-00;Sinop;MT;Produtor;V06;2023-12-11
+C00251;Agropecuária Serra Alta 251 Ltda;PJ;10.229.858/8895-00;Dourados;MS;Produtor;V06;2024-12-08
+C00252;Produtor Rural 0252;PF;594.893.549-00;Sorriso;MT;Produtor;V06;2023-05-06
+C00253;Agropecuária Rio Claro 253 Ltda;PJ;24.363.184/7684-00;Dourados;MS;Produtor;V06;2024-08-31
+C00254;Agropecuária Santa Clara 254 Ltda;PJ;81.906.377/1172-00;Mineiros;GO;Produtor;V06;2024-04-17
+C00255;Agropecuária Rio Claro 255 Ltda;PJ;35.455.620/7337-00;Patos de Minas;MG;Produtor;V06;2024-01-04
+C00256;Produtor Rural 0256;PF;932.583.851-00;Lucas do Rio Verde;MT;Produtor;V06;2024-01-16
+C00257;Produtor Rural 0257;PF;642.894.298-00;Primavera do Leste;MT;Produtor;V06;2023-07-07
+C00258;Produtor Rural 0258;PF;202.292.002-00;Primavera do Leste;MT;Produtor;V06;2024-12-15
+C00259;Agropecuária São José 259 Ltda;PJ;04.210.377/8597-00;Jatai;GO;Produtor;V06;2023-07-04
+C00260;Agropecuária Boa Vista 260 Ltda;PJ;01.715.846/8350-11;Lucas do Rio Verde;MT;Produtor;V06;2025-06-04
+C00261;Terraforte Insumos 261 Ltda;PJ;52.406.863/0374-00;Uberaba;MG;Revenda;V06;2025-04-29
+C00262;Produtor Rural 0262;PF;598.134.170-11;Dourados;MS;Produtor;V06;2023-06-23
+C00263;Agropecuária Bela Vista 263 Ltda;PJ;93.279.603/0857-00;Primavera do Leste;MT;Produtor;V06;2023-01-22
+C00264;Agropecuária São José 264 Ltda;PJ;78.970.285/2413-00;Sinop;MT;Produtor;V06;2023-10-31
+C00265;Agropecuária Bela Vista 265 Ltda;PJ;07.834.241/5468-00;Dourados;MS;Produtor;V06;2025-03-19
+C00266;Produtor Rural 0266;PF;537.374.002-00;Lucas do Rio Verde;MT;Produtor;V06;2024-12-19
+C00267;Agropecuária Ipê 267 Ltda;PJ;41.139.741/5050-11;Dourados;MS;Produtor;V06;2024-01-03
+C00268;Agropecuária Três Irmãos 268 Ltda;PJ;59.014.494/2552-00;Cristalina;GO;Produtor;V06;2023-08-06
+C00269;Ruralnorte Insumos 269 Ltda;PJ;08.396.488/2857-00;Dourados;MS;Revenda;V06;2024-12-21
+C00270;Produtor Rural 0270;PF;702.654.324-00;Maracaju;MS;Produtor;V06;2024-02-05
+C00271;Agropecuária Boa Vista 271 Ltda;PJ;49.642.775/1519-00;Chapadao do Sul;MS;Produtor;V06;2023-05-17
+C00272;Produtor Rural 0272;PF;785.932.269-00;Maracaju;MS;Produtor;V06;2023-01-11
+C00273;Agropecuária Ipê 273 Ltda;PJ;23.873.355/3431-00;Sinop;MT;Produtor;V06;2024-07-11
+C00274;Agropecuária Boa Vista 274 Ltda;PJ;22.297.779/7656-00;Maracaju;MS;Produtor;V06;2023-07-22
+C00275;Produtor Rural 0275;PF;567.218.787-00;Dourados;MS;Produtor;V06;2023-02-01
+C00276;Agropecuária Serra Alta 276 Ltda;PJ;99.335.177/6874-00;Lucas do Rio Verde;MT;Produtor;V06;2023-10-29
+C00277;Campomais Insumos 277 Ltda;PJ;01.853.976/9981-00;Uberaba;MG;Revenda;V03;2026-10-15
+C00278;Agroforte Insumos 278 Ltda;PJ;79.931.531/1305-00;Cristalina;GO;Revenda;V03;2026-10-15
+C00279;Camponorte Insumos 279 Ltda;PJ;10.066.233/4551-00;Unai;MG;Revenda;V03;2026-10-15
+C00280;Agroforte Insumos 280 Ltda;PJ;02.325.708/7407-00;Lucas do Rio Verde;MT;Revenda;V03;2026-10-15
+C00281;Ruralvale Insumos 281 Ltda;PJ;28.572.397/3312-00;Unai;MG;Revenda;V03;2026-10-15
+C00282;Agroforte Insumos 282 Ltda;PJ;40.457.656/8854-00;Cristalina;GO;Revenda;V03;2026-10-15
+C00283;Terranorte Insumos 283 Ltda;PJ;80.576.418/0034-00;Uberaba;MG;Revenda;V03;2026-10-15
+C00284;Terraforte Insumos 284 Ltda;PJ;56.915.175/0757-00;Unai;MG;Revenda;V03;2026-10-15
+C00285;Campoforte Insumos 285 Ltda;PJ;66.745.370/8672-00;Sinop;MT;Revenda;V03;2026-10-15
+C00286;Ruralvale Insumos 286 Ltda;PJ;17.760.399/7246-00;Unai;MG;Revenda;V03;2026-10-15
+C00287;Terraforte Insumos 287 Ltda;PJ;78.530.427/7209-00;Uberaba;MG;Revenda;V03;2026-10-15
+C00288;Ruralnorte Insumos 288 Ltda;PJ;41.035.170/4355-00;Primavera do Leste;MT;Revenda;V03;2026-10-15
+C00289;Agrovale Insumos 289 Ltda;PJ;01.125.006/5308-00;Sinop;MT;Revenda;V03;2026-10-15
+C00290;Campoforte Insumos 290 Ltda;PJ;11.526.352/3180-11;Patos de Minas;MG;Revenda;V03;2026-10-15
+C00291;Agronorte Insumos 291 Ltda;PJ;37.420.617/6675-00;Dourados;MS;Revenda;V03;2026-10-15
+C00292;Agronorte Insumos 292 Ltda;PJ;17.641.157/7631-00;Dourados;MS;Revenda;V03;2026-10-15
+C00293;Agroforte Insumos 293 Ltda;PJ;62.946.533/8795-00;Dourados;MS;Revenda;V03;2026-10-15
+C00294;Terranorte Insumos 294 Ltda;PJ;77.288.420/6205-00;Jatai;GO;Revenda;V03;2026-10-15
+C00295;Terramais Insumos 295 Ltda;PJ;11.125.736/0735-00;Maracaju;MS;Revenda;V03;2026-10-15
+C00296;Ruralmais Insumos 296 Ltda;PJ;80.833.323/1967-00;Rio Verde;GO;Revenda;V03;2026-10-15
+C00297;Campomais Insumos 297 Ltda;PJ;18.785.970/2940-11;Dourados;MS;Revenda;V03;2026-10-15
+C00298;Ruralforte Insumos 298 Ltda;PJ;89.987.676/3406-00;Dourados;MS;Revenda;V03;2026-10-15
+C00299;Terrasul Insumos 299 Ltda;PJ;87.287.900/5925-00;Cristalina;GO;Revenda;V03;2026-10-15
+C00300;Campoforte Insumos 300 Ltda;PJ;95.415.374/1837-00;Rio Verde;GO;Revenda;V03;2026-10-15
+C00301;Ruralforte Insumos 301 Ltda;PJ;93.207.116/6447-00;Jatai;GO;Revenda;V03;2026-10-15
+C00302;Ruralvale Insumos 302 Ltda;PJ;40.608.041/9325-00;Jatai;GO;Revenda;V03;2026-10-15
+C00303;Agrosul Insumos 303 Ltda;PJ;78.394.256/7769-00;Maracaju;MS;Revenda;V03;2026-10-15
+C00304;Agroforte Insumos 304 Ltda;PJ;51.610.895/8781-00;Dourados;MS;Revenda;V03;2026-10-15
+C00305;Terramais Insumos 305 Ltda;PJ;52.252.704/0264-00;Maracaju;MS;Revenda;V03;2026-10-15
+C00306;Campomais Insumos 306 Ltda;PJ;49.505.493/0330-11;Chapadao do Sul;MS;Revenda;V03;2026-10-15
+C00307;Ruralvale Insumos 307 Ltda;PJ;32.669.757/9737-00;Sorriso;MT;Revenda;V03;2026-10-15
+C00308;Campoforte Insumos 308 Ltda;PJ;17.065.644/9491-00;Lucas do Rio Verde;MT;Revenda;V03;2026-10-15
+C00309;Agrosul Insumos 309 Ltda;PJ;89.375.678/2247-00;Patos de Minas;MG;Revenda;V03;2026-10-15
+C00310;Agromais Insumos 310 Ltda;PJ;12.083.114/0423-00;Cristalina;GO;Revenda;V03;2026-10-15
+C00311;Camposul Insumos 311 Ltda;PJ;71.532.327/9474-00;Patos de Minas;MG;Revenda;V03;2026-10-15
+C00312;Agropecuária Bela Vista 312 Ltda;PJ;62.972.184/3861-00;Patos de Minas;MG;Produtor;V08;2025-05-18
+C00313;Ruralmais Insumos 313 Ltda;PJ;49.654.079/2112-00;Uberaba;MG;Revenda;V08;2023-04-25
+C00314;Agropecuária Boa Vista 314 Ltda;PJ;01.258.348/8510-11;Mineiros;GO;Produtor;V08;2023-05-30
+C00315;Produtor Rural 0315;PF;702.119.749-00;Primavera do Leste;MT;Produtor;V08;2024-05-11
+C00316;Produtor Rural 0316;PF;565.846.402-00;Lucas do Rio Verde;MT;Produtor;V08;2024-03-30
+C00317;Agropecuária Serra Alta 317 Ltda;PJ;45.732.147/5531-00;Unai;MG;Produtor;V08;2023-08-14
+C00318;Agromais Insumos 318 Ltda;PJ;31.615.969/9813-00;Uberaba;MG;Revenda;V08;2023-01-16
+C00319;Produtor Rural 0319;PF;401.640.501-00;Dourados;MS;Produtor;V08;2024-04-05
+C00320;Agropecuária São José 320 Ltda;PJ;40.950.259/2565-00;Maracaju;MS;Produtor;V08;2023-07-14
+C00321;Agropecuária Três Irmãos 321 Ltda;PJ;33.558.835/1055-00;Maracaju;MS;Produtor;V08;2025-03-25
+C00322;Produtor Rural 0322;PF;325.671.042-00;Sorriso;MT;Produtor;V08;2023-12-02
+C00323;Agropecuária Ipê 323 Ltda;PJ;43.848.714/5776-00;Dourados;MS;Produtor;V08;2024-04-01
+C00324;Agropecuária Serra Alta 324 Ltda;PJ;16.526.860/5280-11;Sorriso;MT;Produtor;V08;2024-04-28
+C00325;Agropecuária Bela Vista 325 Ltda;PJ;13.454.074/3293-00;Lucas do Rio Verde;MT;Produtor;V08;2025-04-20
+C00326;Agropecuária São José 326 Ltda;PJ;12.221.049/7998-00;Sorriso;MT;Produtor;V08;2023-05-03
+C00327;Agropecuária Ipê 327 Ltda;PJ;00.347.107/2501-00;Sorriso;MT;Produtor;V08;2025-02-11
+C00328;Produtor Rural 0328;PF;973.213.944-00;Jatai;GO;Produtor;V08;2023-12-15
+C00329;Produtor Rural 0329;PF;061.718.617-00;Unai;MG;Produtor;V08;2024-01-20
+C00330;Agropecuária Ipê 330 Ltda;PJ;45.950.610/8181-00;Cristalina;GO;Produtor;V08;2025-05-06
+C00331;Produtor Rural 0331;PF;341.393.655-00;Primavera do Leste;MT;Produtor;V08;2025-04-01
+C00332;Produtor Rural 0332;PF;899.143.461-00;Chapadao do Sul;MS;Produtor;V08;2024-02-09
+C00333;Agropecuária Rio Claro 333 Ltda;PJ;62.770.091/7296-00;Rio Verde;GO;Produtor;V08;2023-06-20
+C00334;Agropecuária São José 334 Ltda;PJ;86.070.448/1499-00;Rio Verde;GO;Produtor;V08;2023-09-14
+C00335;Produtor Rural 0335;PF;526.536.954-00;Sorriso;MT;Produtor;V08;2024-11-09
+C00336;Campoforte Insumos 336 Ltda;PJ;95.914.251/0597-00;Uberaba;MG;Revenda;V08;2024-06-20
+C00337;Agropecuária Bela Vista 337 Ltda;PJ;33.977.432/9883-00;Mineiros;GO;Produtor;V08;2024-01-22
+C00338;Agropecuária Rio Claro 338 Ltda;PJ;62.740.738/6634-00;Primavera do Leste;MT;Produtor;V08;2025-05-02
+C00339;Terranorte Insumos 339 Ltda;PJ;19.001.672/1852-00;Jatai;GO;Revenda;V08;2023-08-10
+C00340;Agropecuária Três Irmãos 340 Ltda;PJ;51.185.808/5404-00;Lucas do Rio Verde;MT;Produtor;V08;2025-05-19
+C00341;Produtor Rural 0341;PF;480.200.862-00;Rio Verde;GO;Produtor;V08;2023-08-25
+C00342;Produtor Rural 0342;PF;426.930.102-00;Lucas do Rio Verde;MT;Produtor;V08;2025-04-08
+C00343;Produtor Rural 0343;PF;771.772.110-11;Maracaju;MS;Produtor;V08;2024-11-20
+C00344;Agropecuária Boa Vista 344 Ltda;PJ;19.304.073/3601-00;Jatai;GO;Produtor;V08;2024-11-25
+C00345;Agropecuária Rio Claro 345 Ltda;PJ;95.977.338/6617-00;Primavera do Leste;MT;Produtor;V08;2023-01-13
+C00346;Agropecuária Bela Vista 346 Ltda;PJ;86.521.265/0062-00;Chapadao do Sul;MS;Produtor;V08;2023-06-16
+C00347;Produtor Rural 0347;PF;514.958.212-00;Chapadao do Sul;MS;Produtor;V08;2023-05-20
+C00348;Produtor Rural 0348;PF;351.896.023-00;Sinop;MT;Produtor;V08;2023-01-01
+C00349;Produtor Rural 0349;PF;503.270.873-00;Primavera do Leste;MT;Produtor;V08;2024-05-27
+C00350;Agropecuária Serra Alta 350 Ltda;PJ;89.173.462/5200-11;Sinop;MT;Produtor;V08;2024-05-25
+C00351;Agropecuária Rio Claro 351 Ltda;PJ;10.832.495/7556-00;Cristalina;GO;Produtor;V08;2024-11-02
+C00352;Produtor Rural 0352;PF;604.008.793-00;Unai;MG;Produtor;V08;2023-09-24
+C00353;Produtor Rural 0353;PF;648.740.208-00;Patos de Minas;MG;Produtor;V08;2025-06-01
+C00354;Agropecuária São José 354 Ltda;PJ;19.382.610/3471-00;Dourados;MS;Produtor;V08;2024-04-10
+C00355;Produtor Rural 0355;PF;462.096.838-00;Cristalina;GO;Produtor;V08;2023-02-19
+C00356;Produtor Rural 0356;PF;536.021.673-00;Rio Verde;GO;Produtor;V08;2023-04-05
+C00357;Produtor Rural 0357;PF;574.906.817-00;Chapadao do Sul;MS;Produtor;V08;2024-09-25

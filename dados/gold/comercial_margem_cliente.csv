@@ -1,0 +1,970 @@
+competencia;cod_vendedor;nome_vendedor;cod_cliente;nome_cliente;segmento;receita_total;custo_total;margem;linhas_processadas;vendas;devolucoes;estornos
+2026-08;V01;Ana Ribeiro;C00001;Terramais Insumos 001 Ltda;Revenda;413925.27;311952.87;0.24635461;4;4;0;0
+2026-08;V01;Ana Ribeiro;C00002;Agropecuária Santa Clara 002 Ltda;Produtor;268523.94;221043.77;0.17681913;6;5;1;0
+2026-08;V01;Ana Ribeiro;C00003;Agropecuária Ipê 003 Ltda;Produtor;551495.20;406193.36;0.26346891;13;13;0;0
+2026-08;V01;Ana Ribeiro;C00004;Agropecuária Ipê 004 Ltda;Produtor;147371.44;110909.97;0.24741205;4;4;0;0
+2026-08;V01;Ana Ribeiro;C00005;Agropecuária Ipê 005 Ltda;Produtor;185447.48;136716.63;0.26277440;7;7;0;0
+2026-08;V01;Ana Ribeiro;C00006;Agropecuária Bela Vista 006 Ltda;Produtor;110269.61;88926.79;0.19355124;1;1;0;0
+2026-08;V01;Ana Ribeiro;C00007;Ruralforte Insumos 007 Ltda;Revenda;652997.71;581502.56;0.10948760;5;5;0;0
+2026-08;V01;Ana Ribeiro;C00009;Produtor Rural 0009;Produtor;318281.96;276060.30;0.13265490;4;4;0;0
+2026-08;V01;Ana Ribeiro;C00010;Agropecuária Boa Vista 010 Ltda;Produtor;31226.18;23482.89;0.24797430;1;1;0;0
+2026-08;V01;Ana Ribeiro;C00011;Produtor Rural 0011;Produtor;500527.48;387158.15;0.22649971;11;11;0;0
+2026-08;V01;Ana Ribeiro;C00012;Agropecuária Rio Claro 012 Ltda;Produtor;572425.71;491982.64;0.14053015;10;10;0;0
+2026-08;V01;Ana Ribeiro;C00013;Campovale Insumos 013 Ltda;Revenda;49685.61;35728.25;0.28091353;2;1;1;0
+2026-08;V01;Ana Ribeiro;C00014;Agropecuária Serra Alta 014 Ltda;Produtor;112062.89;84079.44;0.24971201;4;4;0;0
+2026-08;V01;Ana Ribeiro;C00015;Produtor Rural 0015;Produtor;415748.48;341541.40;0.17849032;6;6;0;0
+2026-08;V01;Ana Ribeiro;C00016;Produtor Rural 0016;Produtor;747475.68;583933.12;0.21879315;15;15;0;0
+2026-08;V01;Ana Ribeiro;C00017;Terramais Insumos 017 Ltda;Revenda;571474.07;416980.81;0.27034168;6;6;0;0
+2026-08;V01;Ana Ribeiro;C00018;Produtor Rural 0018;Produtor;34124.39;26758.74;0.21584708;2;2;0;0
+2026-08;V01;Ana Ribeiro;C00019;Agropecuária Rio Claro 019 Ltda;Produtor;489035.90;358284.61;0.26736542;12;12;0;0
+2026-08;V01;Ana Ribeiro;C00020;Produtor Rural 0020;Produtor;197847.66;153648.23;0.22340133;7;7;0;0
+2026-08;V01;Ana Ribeiro;C00021;Produtor Rural 0021;Produtor;649695.41;499681.65;0.23089860;12;12;0;0
+2026-08;V01;Ana Ribeiro;C00022;Agropecuária Ipê 022 Ltda;Produtor;574560.81;454473.02;0.20900797;14;14;0;0
+2026-08;V01;Ana Ribeiro;C00023;Agropecuária Serra Alta 023 Ltda;Produtor;362638.76;254030.67;0.29949388;8;8;0;0
+2026-08;V01;Ana Ribeiro;C00024;Terrasul Insumos 024 Ltda;Revenda;1866613.23;1619014.42;0.13264602;11;11;0;0
+2026-08;V01;Ana Ribeiro;C00025;Agropecuária Ipê 025 Ltda;Produtor;834946.74;650556.47;0.22084076;15;15;0;0
+2026-08;V01;Ana Ribeiro;C00026;Produtor Rural 0026;Produtor;867120.31;682229.75;0.21322365;17;17;0;0
+2026-08;V01;Ana Ribeiro;C00027;Agropecuária Santa Clara 027 Ltda;Produtor;589540.59;425755.85;0.27781758;11;11;0;0
+2026-08;V01;Ana Ribeiro;C00028;Agropecuária Bela Vista 028 Ltda;Produtor;1005464.48;893497.49;0.11135847;6;6;0;0
+2026-08;V01;Ana Ribeiro;C00029;Agropecuária São José 029 Ltda;Produtor;609380.63;502870.61;0.17478406;9;9;0;0
+2026-08;V01;Ana Ribeiro;C00030;Agropecuária Bela Vista 030 Ltda;Produtor;373490.16;319195.24;0.14537175;10;10;0;0
+2026-08;V01;Ana Ribeiro;C00031;Agropecuária Ipê 031 Ltda;Produtor;146852.07;113007.47;0.23046730;3;3;0;0
+2026-08;V01;Ana Ribeiro;C00032;Agropecuária Ipê 032 Ltda;Produtor;202290.87;154545.73;0.23602222;5;5;0;0
+2026-08;V01;Ana Ribeiro;C00033;Ruralvale Insumos 033 Ltda;Revenda;790875.97;659071.92;0.16665578;7;7;0;0
+2026-08;V01;Ana Ribeiro;C00034;Camponorte Insumos 034 Ltda;Revenda;1637560.45;1310750.25;0.19957138;11;11;0;0
+2026-08;V01;Ana Ribeiro;C00035;Produtor Rural 0035;Produtor;128338.29;93817.47;0.26898301;2;2;0;0
+2026-08;V01;Ana Ribeiro;C00036;Agropecuária Três Irmãos 036 Ltda;Produtor;643314.29;524233.82;0.18510466;13;13;0;0
+2026-08;V01;Ana Ribeiro;C00037;Agropecuária Serra Alta 037 Ltda;Produtor;199686.96;166615.60;0.16561602;6;6;0;0
+2026-08;V01;Ana Ribeiro;C00038;Agropecuária Bela Vista 038 Ltda;Produtor;403590.58;324702.77;0.19546494;8;8;0;0
+2026-08;V01;Ana Ribeiro;C00039;Agropecuária Boa Vista 039 Ltda;Produtor;963913.85;776486.57;0.19444402;14;14;0;0
+2026-08;V01;Ana Ribeiro;C00040;Agropecuária Boa Vista 040 Ltda;Produtor;388935.54;303329.77;0.22010272;6;5;1;0
+2026-08;V01;Ana Ribeiro;C00041;Camposul Insumos 041 Ltda;Revenda;490360.99;415160.00;0.15335843;8;8;0;0
+2026-08;V01;Ana Ribeiro;C00042;Agropecuária São José 042 Ltda;Produtor;1529289.39;1276844.30;0.16507346;17;17;0;0
+2026-08;V01;Ana Ribeiro;C00043;Ruralnorte Insumos 043 Ltda;Revenda;874131.39;742438.41;0.15065582;6;6;0;0
+2026-08;V01;Ana Ribeiro;C00044;Produtor Rural 0044;Produtor;748889.45;618195.31;0.17451727;13;13;0;0
+2026-08;V01;Ana Ribeiro;C00045;Agropecuária Santa Clara 045 Ltda;Produtor;179250.34;125227.70;0.30138096;4;4;0;0
+2026-08;V01;Ana Ribeiro;C00047;Agropecuária Boa Vista 047 Ltda;Produtor;525288.79;403216.70;0.23239043;13;13;0;0
+2026-08;V01;Ana Ribeiro;C00048;Agropecuária Serra Alta 048 Ltda;Produtor;120598.58;85659.93;0.28971029;2;2;0;0
+2026-08;V02;Bruno Teixeira;C00049;Produtor Rural 0049;Produtor;219608.04;165186.79;0.24781083;5;5;0;0
+2026-08;V02;Bruno Teixeira;C00050;Agropecuária Santa Clara 050 Ltda;Produtor;473727.33;414406.09;0.12522233;5;5;0;0
+2026-08;V02;Bruno Teixeira;C00051;Agropecuária Santa Clara 051 Ltda;Produtor;640370.63;518153.83;0.19085323;12;12;0;0
+2026-08;V02;Bruno Teixeira;C00052;Agropecuária Boa Vista 052 Ltda;Produtor;129514.52;109781.29;0.15236307;2;2;0;0
+2026-08;V02;Bruno Teixeira;C00053;Agropecuária Rio Claro 053 Ltda;Produtor;1363.35;894.22;0.34410093;1;1;0;0
+2026-08;V02;Bruno Teixeira;C00055;Agropecuária Rio Claro 055 Ltda;Produtor;324950.01;234088.36;0.27961732;8;8;0;0
+2026-08;V02;Bruno Teixeira;C00056;Produtor Rural 0056;Produtor;53385.29;39886.18;0.25286198;13;8;0;5
+2026-08;V02;Bruno Teixeira;C00057;Agropecuária Boa Vista 057 Ltda;Produtor;171416.59;131610.66;0.23221749;3;3;0;0
+2026-08;V02;Bruno Teixeira;C00058;Agropecuária Boa Vista 058 Ltda;Produtor;810895.28;655045.19;0.19219509;14;14;0;0
+2026-08;V02;Bruno Teixeira;C00059;Produtor Rural 0059;Produtor;0.00;0.00;;4;2;0;2
+2026-08;V02;Bruno Teixeira;C00060;Agropecuária Bela Vista 060 Ltda;Produtor;780784.25;629829.54;0.19333729;12;12;0;0
+2026-08;V02;Bruno Teixeira;C00061;Agropecuária Três Irmãos 061 Ltda;Produtor;1183087.08;968594.44;0.18129911;15;15;0;0
+2026-08;V02;Bruno Teixeira;C00062;Produtor Rural 0062;Produtor;910179.48;748113.87;0.17805896;10;10;0;0
+2026-08;V02;Bruno Teixeira;C00063;Agropecuária Bela Vista 063 Ltda;Produtor;248861.60;214406.02;0.13845278;5;5;0;0
+2026-08;V02;Bruno Teixeira;C00065;Agropecuária Santa Clara 065 Ltda;Produtor;197364.01;147908.19;0.25058176;4;4;0;0
+2026-08;V02;Bruno Teixeira;C00066;Agropecuária Serra Alta 066 Ltda;Produtor;725927.14;588285.80;0.18960765;12;12;0;0
+2026-08;V02;Bruno Teixeira;C00067;Agropecuária Santa Clara 067 Ltda;Produtor;694412.88;579641.54;0.16527824;17;13;0;4
+2026-08;V02;Bruno Teixeira;C00069;Agropecuária Bela Vista 069 Ltda;Produtor;490803.81;422021.28;0.14014262;7;7;0;0
+2026-08;V02;Bruno Teixeira;C00070;Produtor Rural 0070;Produtor;67776.65;61279.80;0.09585676;7;4;0;3
+2026-08;V02;Bruno Teixeira;C00071;Produtor Rural 0071;Produtor;221976.40;166815.86;0.24849732;6;6;0;0
+2026-08;V02;Bruno Teixeira;C00072;Agropecuária Santa Clara 072 Ltda;Produtor;385101.80;300360.80;0.22004831;10;10;0;0
+2026-08;V02;Bruno Teixeira;C00073;Agropecuária Boa Vista 073 Ltda;Produtor;75217.52;57346.25;0.23759451;1;1;0;0
+2026-08;V02;Bruno Teixeira;C00075;Produtor Rural 0075;Produtor;955950.96;784904.53;0.17892804;14;14;0;0
+2026-08;V02;Bruno Teixeira;C00076;Produtor Rural 0076;Produtor;172784.44;134704.20;0.22039160;3;3;0;0
+2026-08;V02;Bruno Teixeira;C00077;Terranorte Insumos 077 Ltda;Revenda;551304.49;481680.83;0.12628894;3;3;0;0
+2026-08;V02;Bruno Teixeira;C00078;Agropecuária Boa Vista 078 Ltda;Produtor;230733.47;185597.69;0.19561869;7;7;0;0
+2026-08;V02;Bruno Teixeira;C00079;Produtor Rural 0079;Produtor;546653.64;491003.81;0.10180090;5;5;0;0
+2026-08;V02;Bruno Teixeira;C00080;Agropecuária Três Irmãos 080 Ltda;Produtor;463980.87;396207.47;0.14606938;5;5;0;0
+2026-08;V02;Bruno Teixeira;C00082;Agropecuária Três Irmãos 082 Ltda;Produtor;623283.61;541938.38;0.13051078;6;6;0;0
+2026-08;V02;Bruno Teixeira;C00083;Campoforte Insumos 083 Ltda;Revenda;2112121.67;1759890.97;0.16676629;17;17;0;0
+2026-08;V02;Bruno Teixeira;C00084;Agropecuária Três Irmãos 084 Ltda;Produtor;1527742.06;1351779.61;0.11517811;13;13;0;0
+2026-08;V02;Bruno Teixeira;C00085;Agropecuária Boa Vista 085 Ltda;Produtor;232214.38;180543.07;0.22251555;5;5;0;0
+2026-08;V02;Bruno Teixeira;C00086;Produtor Rural 0086;Produtor;427664.00;360481.43;0.15709195;10;10;0;0
+2026-08;V02;Bruno Teixeira;C00087;Agropecuária Bela Vista 087 Ltda;Produtor;288133.19;259126.16;0.10067230;5;5;0;0
+2026-08;V02;Bruno Teixeira;C00088;Produtor Rural 0088;Produtor;455265.27;379725.84;0.16592399;9;9;0;0
+2026-08;V02;Bruno Teixeira;C00089;Agropecuária Ipê 089 Ltda;Produtor;560464.01;450105.46;0.19690569;11;11;0;0
+2026-08;V02;Bruno Teixeira;C00090;Campomais Insumos 090 Ltda;Revenda;236576.26;183151.05;0.22582659;4;4;0;0
+2026-08;V02;Bruno Teixeira;C00091;Produtor Rural 0091;Produtor;504315.02;460706.79;0.08647022;6;6;0;0
+2026-08;V02;Bruno Teixeira;C00092;Agropecuária Três Irmãos 092 Ltda;Produtor;81851.18;71117.65;0.13113470;2;2;0;0
+2026-08;V03;Pedro Alves;C00094;Agropecuária Ipê 094 Ltda;Produtor;4447530.93;3068796.33;0.31000000;4;4;0;0
+2026-08;V03;Pedro Alves;C00095;Produtor Rural 0095;Produtor;94965.68;72415.98;0.23745105;3;3;0;0
+2026-08;V03;Pedro Alves;C00096;Agropecuária Ipê 096 Ltda;Produtor;186930.82;136480.19;0.26988931;7;7;0;0
+2026-08;V03;Pedro Alves;C00097;Agropecuária Ipê 097 Ltda;Produtor;377248.24;312921.96;0.17051446;9;9;0;0
+2026-08;V03;Pedro Alves;C00098;Produtor Rural 0098;Produtor;525453.22;388600.41;0.26044718;12;12;0;0
+2026-08;V03;Pedro Alves;C00099;Agropecuária Boa Vista 099 Ltda;Produtor;227769.32;170158.76;0.25293380;7;7;0;0
+2026-08;V03;Pedro Alves;C00100;Agropecuária São José 100 Ltda;Produtor;638958.79;510823.34;0.20053789;6;6;0;0
+2026-08;V03;Pedro Alves;C00101;Produtor Rural 0101;Produtor;514308.30;396721.57;0.22863082;12;12;0;0
+2026-08;V03;Pedro Alves;C00102;Produtor Rural 0102;Produtor;126031.14;92315.77;0.26751619;4;4;0;0
+2026-08;V03;Pedro Alves;C00103;Agropecuária Ipê 103 Ltda;Produtor;924714.74;727776.89;0.21297146;18;18;0;0
+2026-08;V03;Pedro Alves;C00106;Produtor Rural 0106;Produtor;282153.91;213945.05;0.24174345;10;9;1;0
+2026-08;V03;Pedro Alves;C00107;Agropecuária Ipê 107 Ltda;Produtor;682142.89;513864.77;0.24669043;14;14;0;0
+2026-08;V03;Pedro Alves;C00108;Produtor Rural 0108;Produtor;288466.09;209668.26;0.27316150;15;11;0;4
+2026-08;V03;Pedro Alves;C00109;Produtor Rural 0109;Produtor;637037.72;506166.41;0.20543730;8;8;0;0
+2026-08;V03;Pedro Alves;C00110;Agropecuária Rio Claro 110 Ltda;Produtor;203478.13;154151.34;0.24241814;9;9;0;0
+2026-08;V03;Pedro Alves;C00111;Agropecuária Três Irmãos 111 Ltda;Produtor;325586.24;234147.67;0.28084286;7;7;0;0
+2026-08;V03;Pedro Alves;C00112;Produtor Rural 0112;Produtor;408227.40;336248.83;0.17631979;7;7;0;0
+2026-08;V03;Pedro Alves;C00113;Produtor Rural 0113;Produtor;18603.26;12665.66;0.31916987;2;2;0;0
+2026-08;V03;Pedro Alves;C00114;Agropecuária Três Irmãos 114 Ltda;Produtor;354929.29;286490.72;0.19282311;6;6;0;0
+2026-08;V03;Pedro Alves;C00115;Terrasul Insumos 115 Ltda;Revenda;1094671.46;817819.26;0.25290894;15;15;0;0
+2026-08;V03;Pedro Alves;C00116;Produtor Rural 0116;Produtor;467348.79;346952.37;0.25761577;19;16;0;3
+2026-08;V03;Pedro Alves;C00117;Agropecuária Boa Vista 117 Ltda;Produtor;204722.46;148874.39;0.27279894;6;6;0;0
+2026-08;V03;Pedro Alves;C00119;Agropecuária Serra Alta 119 Ltda;Produtor;343171.93;250656.38;0.26958950;6;6;0;0
+2026-08;V03;Pedro Alves;C00120;Produtor Rural 0120;Produtor;50051.66;34606.73;0.30857978;10;6;0;4
+2026-08;V03;Pedro Alves;C00121;Agropecuária Rio Claro 121 Ltda;Produtor;563764.93;410991.43;0.27098795;13;13;0;0
+2026-08;V03;Pedro Alves;C00122;Produtor Rural 0122;Produtor;241346.03;188744.65;0.21795005;7;7;0;0
+2026-08;V03;Pedro Alves;C00123;Agropecuária Ipê 123 Ltda;Produtor;551748.35;458298.16;0.16937104;9;9;0;0
+2026-08;V03;Pedro Alves;C00124;Agropecuária Ipê 124 Ltda;Produtor;133183.06;98927.33;0.25720786;3;3;0;0
+2026-08;V03;Pedro Alves;C00125;Campovale Insumos 125 Ltda;Revenda;875848.00;739210.59;0.15600585;5;5;0;0
+2026-08;V03;Pedro Alves;C00126;Campovale Insumos 126 Ltda;Revenda;617236.11;482428.77;0.21840482;16;11;0;5
+2026-08;V03;Pedro Alves;C00127;Agropecuária São José 127 Ltda;Produtor;145391.41;107506.81;0.26056973;6;5;0;1
+2026-08;V03;Pedro Alves;C00128;Agropecuária São José 128 Ltda;Produtor;635359.52;469360.65;0.26126762;17;17;0;0
+2026-08;V03;Pedro Alves;C00129;Agropecuária Rio Claro 129 Ltda;Produtor;250446.19;188985.20;0.24540597;5;5;0;0
+2026-08;V03;Pedro Alves;C00130;Produtor Rural 0130;Produtor;302118.24;224002.85;0.25855900;9;9;0;0
+2026-08;V03;Pedro Alves;C00131;Agropecuária São José 131 Ltda;Produtor;18557.97;12879.96;0.30596073;1;1;0;0
+2026-08;V03;Pedro Alves;C00133;Agropecuária Rio Claro 133 Ltda;Produtor;596611.79;447636.61;0.24970204;12;12;0;0
+2026-08;V03;Pedro Alves;C00134;Produtor Rural 0134;Produtor;271952.75;206495.20;0.24069457;6;6;0;0
+2026-08;V03;Pedro Alves;C00135;Produtor Rural 0135;Produtor;616359.21;453781.40;0.26377120;16;16;0;0
+2026-08;V04;Carla Mendes;C00136;Produtor Rural 0136;Produtor;835128.44;717341.89;0.14104004;13;13;0;0
+2026-08;V04;Carla Mendes;C00137;Agropecuária Boa Vista 137 Ltda;Produtor;148059.07;134264.66;0.09316829;2;2;0;0
+2026-08;V04;Carla Mendes;C00138;Agropecuária Bela Vista 138 Ltda;Produtor;464892.75;385413.84;0.17096182;8;8;0;0
+2026-08;V04;Carla Mendes;C00139;Produtor Rural 0139;Produtor;298782.15;268791.24;0.10037718;3;3;0;0
+2026-08;V04;Carla Mendes;C00140;Produtor Rural 0140;Produtor;477545.92;387729.61;0.18807890;10;10;0;0
+2026-08;V04;Carla Mendes;C00141;Produtor Rural 0141;Produtor;494214.25;412768.39;0.16479869;7;7;0;0
+2026-08;V04;Carla Mendes;C00142;Produtor Rural 0142;Produtor;632294.78;548549.39;0.13244675;6;6;0;0
+2026-08;V04;Carla Mendes;C00143;Agropecuária Rio Claro 143 Ltda;Produtor;531515.89;452151.89;0.14931633;5;5;0;0
+2026-08;V04;Carla Mendes;C00144;Agropecuária Rio Claro 144 Ltda;Produtor;1014237.83;879914.08;0.13243812;13;13;0;0
+2026-08;V04;Carla Mendes;C00145;Agropecuária Ipê 145 Ltda;Produtor;62214.79;44796.92;0.27996349;3;3;0;0
+2026-08;V04;Carla Mendes;C00147;Agropecuária Santa Clara 147 Ltda;Produtor;591078.79;535296.79;0.09437321;4;4;0;0
+2026-08;V04;Carla Mendes;C00148;Produtor Rural 0148;Produtor;617154.10;545224.88;0.11654985;6;6;0;0
+2026-08;V04;Carla Mendes;C00149;Campoforte Insumos 149 Ltda;Revenda;491054.33;404667.24;0.17592165;3;3;0;0
+2026-08;V04;Carla Mendes;C00150;Produtor Rural 0150;Produtor;632753.31;513945.31;0.18776354;8;8;0;0
+2026-08;V04;Carla Mendes;C00151;Agropecuária Bela Vista 151 Ltda;Produtor;610697.01;528944.19;0.13386805;7;7;0;0
+2026-08;V04;Carla Mendes;C00152;Produtor Rural 0152;Produtor;391118.97;319789.38;0.18237313;10;10;0;0
+2026-08;V04;Carla Mendes;C00153;Produtor Rural 0153;Produtor;316126.18;214375.52;0.32186724;9;8;1;0
+2026-08;V04;Carla Mendes;C00155;Agrovale Insumos 155 Ltda;Revenda;1228930.00;1033756.78;0.15881557;12;12;0;0
+2026-08;V04;Carla Mendes;C00156;Terraforte Insumos 156 Ltda;Revenda;348013.80;264304.47;0.24053451;3;3;0;0
+2026-08;V04;Carla Mendes;C00157;Agropecuária Rio Claro 157 Ltda;Produtor;62845.29;43586.65;0.30644524;4;4;0;0
+2026-08;V04;Carla Mendes;C00158;Agropecuária Santa Clara 158 Ltda;Produtor;371531.63;319451.07;0.14017800;7;7;0;0
+2026-08;V04;Carla Mendes;C00159;Agropecuária São José 159 Ltda;Produtor;26856.59;19082.45;0.28946862;1;1;0;0
+2026-08;V04;Carla Mendes;C00160;Agropecuária Três Irmãos 160 Ltda;Produtor;1187969.74;988765.38;0.16768471;11;11;0;0
+2026-08;V04;Carla Mendes;C00161;Agropecuária Três Irmãos 161 Ltda;Produtor;798879.23;678055.50;0.15124155;10;10;0;0
+2026-08;V04;Carla Mendes;C00162;Produtor Rural 0162;Produtor;550409.67;440377.85;0.19990895;7;7;0;0
+2026-08;V04;Carla Mendes;C00163;Agropecuária Rio Claro 163 Ltda;Produtor;136080.26;114170.90;0.16100322;4;4;0;0
+2026-08;V04;Carla Mendes;C00164;Produtor Rural 0164;Produtor;244362.13;188606.30;0.22816887;5;5;0;0
+2026-08;V04;Carla Mendes;C00166;Produtor Rural 0166;Produtor;1132346.42;926545.27;0.18174752;15;15;0;0
+2026-08;V04;Carla Mendes;C00168;Agropecuária Boa Vista 168 Ltda;Produtor;683211.91;551169.53;0.19326709;18;18;0;0
+2026-08;V04;Carla Mendes;C00169;Terramais Insumos 169 Ltda;Revenda;1513516.81;1296381.99;0.14346377;5;5;0;0
+2026-08;V04;Carla Mendes;C00170;Agropecuária Bela Vista 170 Ltda;Produtor;456912.24;400620.12;0.12320116;5;5;0;0
+2026-08;V04;Carla Mendes;C00171;Agrosul Insumos 171 Ltda;Revenda;1625948.06;1346118.40;0.17210246;14;14;0;0
+2026-08;V04;Carla Mendes;C00172;Agropecuária Serra Alta 172 Ltda;Produtor;115737.08;104359.73;0.09830341;2;2;0;0
+2026-08;V04;Carla Mendes;C00173;Agropecuária Bela Vista 173 Ltda;Produtor;162032.85;126377.07;0.22005279;4;4;0;0
+2026-08;V04;Carla Mendes;C00175;Agropecuária Serra Alta 175 Ltda;Produtor;677731.68;550175.05;0.18821111;12;12;0;0
+2026-08;V04;Carla Mendes;C00176;Agroforte Insumos 176 Ltda;Revenda;664492.76;540398.82;0.18674988;6;6;0;0
+2026-08;V04;Carla Mendes;C00177;Ruralforte Insumos 177 Ltda;Revenda;708614.76;641621.43;0.09454126;5;4;0;1
+2026-08;V04;Carla Mendes;C00178;Agropecuária Ipê 178 Ltda;Produtor;904434.21;773292.45;0.14499867;12;12;0;0
+2026-08;V04;Carla Mendes;C00179;Produtor Rural 0179;Produtor;127576.01;88791.09;0.30401421;5;5;0;0
+2026-08;V04;Carla Mendes;C00180;Produtor Rural 0180;Produtor;1207450.62;993879.12;0.17687804;17;17;0;0
+2026-08;V04;Carla Mendes;C00181;Terrasul Insumos 181 Ltda;Revenda;118007.39;82463.20;0.30120309;1;1;0;0
+2026-08;V04;Carla Mendes;C00182;Agropecuária Serra Alta 182 Ltda;Produtor;749723.70;645213.16;0.13939874;9;9;0;0
+2026-08;V04;Carla Mendes;C00183;Produtor Rural 0183;Produtor;280630.77;215849.59;0.23084133;7;7;0;0
+2026-08;V04;Carla Mendes;C00185;Agropecuária São José 185 Ltda;Produtor;395604.59;300357.13;0.24076429;10;10;0;0
+2026-08;V05;Diego Rocha;C00186;Agropecuária Santa Clara 186 Ltda;Produtor;213514.45;172474.40;0.19221205;4;4;0;0
+2026-08;V05;Diego Rocha;C00187;Agropecuária Ipê 187 Ltda;Produtor;1091372.25;975604.55;0.10607536;9;9;0;0
+2026-08;V05;Diego Rocha;C00188;Agropecuária Boa Vista 188 Ltda;Produtor;72416.08;54760.48;0.24380773;2;2;0;0
+2026-08;V05;Diego Rocha;C00192;Produtor Rural 0192;Produtor;928519.93;743805.99;0.19893374;10;10;0;0
+2026-08;V05;Diego Rocha;C00194;Produtor Rural 0194;Produtor;1060774.95;913337.08;0.13899072;14;14;0;0
+2026-08;V05;Diego Rocha;C00196;Agropecuária Três Irmãos 196 Ltda;Produtor;887644.52;749890.53;0.15519049;8;8;0;0
+2026-08;V05;Diego Rocha;C00197;Agropecuária Ipê 197 Ltda;Produtor;452205.32;407376.32;0.09913417;4;4;0;0
+2026-08;V05;Diego Rocha;C00198;Produtor Rural 0198;Produtor;434381.97;365637.24;0.15825871;6;6;0;0
+2026-08;V05;Diego Rocha;C00200;Produtor Rural 0200;Produtor;971120.25;845175.78;0.12968988;15;13;0;2
+2026-08;V05;Diego Rocha;C00203;Agropecuária Três Irmãos 203 Ltda;Produtor;849650.59;726816.85;0.14456971;11;11;0;0
+2026-08;V05;Diego Rocha;C00204;Produtor Rural 0204;Produtor;1164500.64;1041082.50;0.10598375;11;11;0;0
+2026-08;V05;Diego Rocha;C00205;Agropecuária Três Irmãos 205 Ltda;Produtor;1126885.60;1005381.41;0.10782300;10;10;0;0
+2026-08;V05;Diego Rocha;C00206;Produtor Rural 0206;Produtor;811430.19;703843.08;0.13258948;9;9;0;0
+2026-08;V05;Diego Rocha;C00207;Produtor Rural 0207;Produtor;1068867.14;953679.69;0.10776592;8;8;0;0
+2026-08;V05;Diego Rocha;C00208;Produtor Rural 0208;Produtor;849955.69;731490.28;0.13937834;10;10;0;0
+2026-08;V05;Diego Rocha;C00209;Agropecuária São José 209 Ltda;Produtor;804484.88;703322.97;0.12574743;6;6;0;0
+2026-08;V05;Diego Rocha;C00210;Produtor Rural 0210;Produtor;205586.44;175496.52;0.14636140;4;4;0;0
+2026-08;V05;Diego Rocha;C00211;Agropecuária Boa Vista 211 Ltda;Produtor;717309.71;617236.55;0.13951179;9;9;0;0
+2026-08;V05;Diego Rocha;C00213;Agropecuária Santa Clara 213 Ltda;Produtor;748571.91;663012.23;0.11429721;14;10;0;4
+2026-08;V05;Diego Rocha;C00214;Produtor Rural 0214;Produtor;99305.94;74134.73;0.25347134;2;2;0;0
+2026-08;V05;Diego Rocha;C00215;Produtor Rural 0215;Produtor;12989.67;9368.10;0.27880385;1;1;0;0
+2026-08;V05;Diego Rocha;C00216;Agropecuária Rio Claro 216 Ltda;Produtor;664182.23;559416.74;0.15773606;13;13;0;0
+2026-08;V05;Diego Rocha;C00217;Agronorte Insumos 217 Ltda;Revenda;1614864.38;1402376.42;0.13158254;10;10;0;0
+2026-08;V05;Diego Rocha;C00218;Agropecuária Santa Clara 218 Ltda;Produtor;655415.99;542911.50;0.17165356;7;7;0;0
+2026-08;V05;Diego Rocha;C00219;Produtor Rural 0219;Produtor;581267.06;481136.88;0.17226192;9;9;0;0
+2026-08;V05;Diego Rocha;C00220;Agropecuária Bela Vista 220 Ltda;Produtor;155020.50;131261.29;0.15326496;4;4;0;0
+2026-08;V05;Diego Rocha;C00221;Agropecuária Bela Vista 221 Ltda;Produtor;1717771.98;1515870.66;0.11753674;14;14;0;0
+2026-08;V05;Diego Rocha;C00222;Agropecuária Três Irmãos 222 Ltda;Produtor;946846.55;851705.76;0.10048174;9;9;0;0
+2026-08;V05;Diego Rocha;C00223;Agropecuária Santa Clara 223 Ltda;Produtor;1070458.59;939814.51;0.12204496;10;10;0;0
+2026-08;V05;Diego Rocha;C00224;Produtor Rural 0224;Produtor;1211828.71;1032045.00;0.14835736;12;12;0;0
+2026-08;V05;Diego Rocha;C00226;Agropecuária São José 226 Ltda;Produtor;331933.46;275808.66;0.16908449;4;4;0;0
+2026-08;V05;Diego Rocha;C00227;Agropecuária São José 227 Ltda;Produtor;250277.81;228363.15;0.08756134;3;3;0;0
+2026-08;V05;Diego Rocha;C00228;Produtor Rural 0228;Produtor;260420.29;215430.98;0.17275655;4;4;0;0
+2026-08;V05;Diego Rocha;C00229;Agropecuária Três Irmãos 229 Ltda;Produtor;226319.97;201143.32;0.11124361;2;2;0;0
+2026-08;V06;Elisa Prado;C00230;Agropecuária Bela Vista 230 Ltda;Produtor;405198.57;291120.52;0.28153616;14;14;0;0
+2026-08;V06;Elisa Prado;C00231;Produtor Rural 0231;Produtor;397105.23;325662.32;0.17990926;10;10;0;0
+2026-08;V06;Elisa Prado;C00232;Agropecuária Serra Alta 232 Ltda;Produtor;108337.69;76879.28;0.29037365;3;3;0;0
+2026-08;V06;Elisa Prado;C00234;Agropecuária Rio Claro 234 Ltda;Produtor;191731.56;149792.92;0.21873624;8;6;0;2
+2026-08;V06;Elisa Prado;C00235;Agropecuária Bela Vista 235 Ltda;Produtor;16083.94;11734.75;0.27040576;2;2;0;0
+2026-08;V06;Elisa Prado;C00236;Agropecuária São José 236 Ltda;Produtor;189066.93;157358.06;0.16771241;4;4;0;0
+2026-08;V06;Elisa Prado;C00237;Produtor Rural 0237;Produtor;413497.04;354497.88;0.14268339;9;9;0;0
+2026-08;V06;Elisa Prado;C00238;Produtor Rural 0238;Produtor;520107.04;388705.42;0.25264342;9;9;0;0
+2026-08;V06;Elisa Prado;C00239;Agropecuária São José 239 Ltda;Produtor;728583.41;605948.14;0.16832015;13;13;0;0
+2026-08;V06;Elisa Prado;C00240;Agropecuária São José 240 Ltda;Produtor;666515.10;602805.78;0.09558571;5;5;0;0
+2026-08;V06;Elisa Prado;C00241;Agropecuária Ipê 241 Ltda;Produtor;77625.00;54557.12;0.29717076;4;4;0;0
+2026-08;V06;Elisa Prado;C00243;Produtor Rural 0243;Produtor;612396.31;511349.64;0.16500209;8;8;0;0
+2026-08;V06;Elisa Prado;C00245;Agropecuária Bela Vista 245 Ltda;Produtor;61112.72;41438.66;0.32193069;1;1;0;0
+2026-08;V06;Elisa Prado;C00246;Produtor Rural 0246;Produtor;525568.80;408768.34;0.22223629;12;12;0;0
+2026-08;V06;Elisa Prado;C00247;Agropecuária Três Irmãos 247 Ltda;Produtor;396727.44;322186.34;0.18788995;11;11;0;0
+2026-08;V06;Elisa Prado;C00248;Campomais Insumos 248 Ltda;Revenda;621350.45;513608.19;0.17340015;10;10;0;0
+2026-08;V06;Elisa Prado;C00249;Agropecuária Bela Vista 249 Ltda;Produtor;122149.26;87488.83;0.28375473;4;4;0;0
+2026-08;V06;Elisa Prado;C00250;Produtor Rural 0250;Produtor;746375.55;602670.36;0.19253738;13;13;0;0
+2026-08;V06;Elisa Prado;C00252;Produtor Rural 0252;Produtor;376314.96;309311.38;0.17805186;9;9;0;0
+2026-08;V06;Elisa Prado;C00254;Agropecuária Santa Clara 254 Ltda;Produtor;269148.07;229700.26;0.14656546;4;4;0;0
+2026-08;V06;Elisa Prado;C00255;Agropecuária Rio Claro 255 Ltda;Produtor;208822.02;156131.65;0.25232191;6;6;0;0
+2026-08;V06;Elisa Prado;C00256;Produtor Rural 0256;Produtor;158883.31;118486.76;0.25425295;5;5;0;0
+2026-08;V06;Elisa Prado;C00257;Produtor Rural 0257;Produtor;450120.05;391711.67;0.12976178;7;7;0;0
+2026-08;V06;Elisa Prado;C00258;Produtor Rural 0258;Produtor;701704.23;555151.22;0.20885297;15;15;0;0
+2026-08;V06;Elisa Prado;C00259;Agropecuária São José 259 Ltda;Produtor;249783.19;186431.71;0.25362587;6;6;0;0
+2026-08;V06;Elisa Prado;C00261;Terraforte Insumos 261 Ltda;Revenda;1036489.23;810419.39;0.21811113;12;12;0;0
+2026-08;V06;Elisa Prado;C00262;Produtor Rural 0262;Produtor;606289.42;481714.69;0.20547073;12;12;0;0
+2026-08;V06;Elisa Prado;C00263;Agropecuária Bela Vista 263 Ltda;Produtor;621651.64;482806.82;0.22334827;13;13;0;0
+2026-08;V06;Elisa Prado;C00264;Agropecuária São José 264 Ltda;Produtor;365998.64;274288.54;0.25057497;7;7;0;0
+2026-08;V06;Elisa Prado;C00265;Agropecuária Bela Vista 265 Ltda;Produtor;226622.56;175433.43;0.22587835;5;5;0;0
+2026-08;V06;Elisa Prado;C00266;Produtor Rural 0266;Produtor;11272.72;7827.44;0.30562987;2;2;0;0
+2026-08;V06;Elisa Prado;C00267;Agropecuária Ipê 267 Ltda;Produtor;272419.31;206804.82;0.24085844;7;7;0;0
+2026-08;V06;Elisa Prado;C00268;Agropecuária Três Irmãos 268 Ltda;Produtor;128709.44;97083.57;0.24571523;6;6;0;0
+2026-08;V06;Elisa Prado;C00270;Produtor Rural 0270;Produtor;63931.57;41995.58;0.34311671;3;3;0;0
+2026-08;V06;Elisa Prado;C00271;Agropecuária Boa Vista 271 Ltda;Produtor;262516.08;213488.59;0.18675995;7;7;0;0
+2026-08;V06;Elisa Prado;C00273;Agropecuária Ipê 273 Ltda;Produtor;399840.67;290365.03;0.27379816;15;15;0;0
+2026-08;V06;Elisa Prado;C00274;Agropecuária Boa Vista 274 Ltda;Produtor;304416.02;230547.44;0.24265668;8;8;0;0
+2026-08;V06;Elisa Prado;C00276;Agropecuária Serra Alta 276 Ltda;Produtor;391624.82;313271.82;0.20007159;9;9;0;0
+2026-08;V07;Marina Costa;C00277;Campomais Insumos 277 Ltda;Revenda;509308.08;449705.19;0.11702718;9;9;0;0
+2026-08;V07;Marina Costa;C00278;Agroforte Insumos 278 Ltda;Revenda;70285.32;63745.22;0.09305073;3;3;0;0
+2026-08;V07;Marina Costa;C00279;Camponorte Insumos 279 Ltda;Revenda;456960.95;420556.82;0.07966574;9;9;0;0
+2026-08;V07;Marina Costa;C00280;Agroforte Insumos 280 Ltda;Revenda;397818.65;364992.70;0.08251486;7;7;0;0
+2026-08;V07;Marina Costa;C00281;Ruralvale Insumos 281 Ltda;Revenda;225213.35;198503.12;0.11859967;6;6;0;0
+2026-08;V07;Marina Costa;C00283;Terranorte Insumos 283 Ltda;Revenda;377509.76;337362.30;0.10634814;8;8;0;0
+2026-08;V07;Marina Costa;C00286;Ruralvale Insumos 286 Ltda;Revenda;163392.10;148441.44;0.09150173;5;5;0;0
+2026-08;V07;Marina Costa;C00287;Terraforte Insumos 287 Ltda;Revenda;731613.01;664771.81;0.09136142;18;18;0;0
+2026-08;V07;Marina Costa;C00288;Ruralnorte Insumos 288 Ltda;Revenda;19513.58;17330.83;0.11185800;2;2;0;0
+2026-08;V07;Marina Costa;C00289;Agrovale Insumos 289 Ltda;Revenda;325726.07;292712.67;0.10135326;6;6;0;0
+2026-08;V07;Marina Costa;C00290;Campoforte Insumos 290 Ltda;Revenda;125386.04;108194.72;0.13710713;5;5;0;0
+2026-08;V07;Marina Costa;C00291;Agronorte Insumos 291 Ltda;Revenda;667389.09;600475.29;0.10026205;13;13;0;0
+2026-08;V07;Marina Costa;C00292;Agronorte Insumos 292 Ltda;Revenda;286800.81;255455.82;0.10929185;5;5;0;0
+2026-08;V07;Marina Costa;C00293;Agroforte Insumos 293 Ltda;Revenda;551927.32;511140.48;0.07389893;9;9;0;0
+2026-08;V07;Marina Costa;C00294;Terranorte Insumos 294 Ltda;Revenda;287058.83;268750.67;0.06377842;5;5;0;0
+2026-08;V07;Marina Costa;C00295;Terramais Insumos 295 Ltda;Revenda;420494.99;374211.57;0.11006890;9;9;0;0
+2026-08;V07;Marina Costa;C00296;Ruralmais Insumos 296 Ltda;Revenda;231978.27;213785.82;0.07842308;7;7;0;0
+2026-08;V07;Marina Costa;C00297;Campomais Insumos 297 Ltda;Revenda;569090.23;511414.95;0.10134646;13;13;0;0
+2026-08;V07;Marina Costa;C00298;Ruralforte Insumos 298 Ltda;Revenda;335890.96;301772.68;0.10157546;7;7;0;0
+2026-08;V07;Marina Costa;C00299;Terrasul Insumos 299 Ltda;Revenda;311385.53;284689.70;0.08573240;10;10;0;0
+2026-08;V07;Marina Costa;C00300;Campoforte Insumos 300 Ltda;Revenda;488575.09;433913.14;0.11188035;10;10;0;0
+2026-08;V07;Marina Costa;C00301;Ruralforte Insumos 301 Ltda;Revenda;447294.24;404720.24;0.09518119;8;8;0;0
+2026-08;V07;Marina Costa;C00303;Agrosul Insumos 303 Ltda;Revenda;88713.72;78986.64;0.10964572;3;3;0;0
+2026-08;V07;Marina Costa;C00304;Agroforte Insumos 304 Ltda;Revenda;173056.89;154169.81;0.10913798;7;5;0;2
+2026-08;V07;Marina Costa;C00305;Terramais Insumos 305 Ltda;Revenda;490771.00;445638.98;0.09196146;15;13;0;2
+2026-08;V07;Marina Costa;C00306;Campomais Insumos 306 Ltda;Revenda;554468.72;495988.51;0.10547071;11;11;0;0
+2026-08;V07;Marina Costa;C00307;Ruralvale Insumos 307 Ltda;Revenda;313431.06;275522.97;0.12094554;7;7;0;0
+2026-08;V07;Marina Costa;C00308;Campoforte Insumos 308 Ltda;Revenda;238991.30;219810.00;0.08025941;5;5;0;0
+2026-08;V07;Marina Costa;C00309;Agrosul Insumos 309 Ltda;Revenda;162720.94;148239.52;0.08899543;5;4;1;0
+2026-08;V07;Marina Costa;C00310;Agromais Insumos 310 Ltda;Revenda;328146.60;291874.34;0.11053675;9;9;0;0
+2026-08;V07;Marina Costa;C00311;Camposul Insumos 311 Ltda;Revenda;622001.15;561236.09;0.09769284;12;12;0;0
+2026-08;V08;Tiago Moura;C00313;Ruralmais Insumos 313 Ltda;Revenda;1200723.58;987553.25;0.17753489;10;10;0;0
+2026-08;V08;Tiago Moura;C00314;Agropecuária Boa Vista 314 Ltda;Produtor;74408.93;53341.64;0.28312852;2;2;0;0
+2026-08;V08;Tiago Moura;C00315;Produtor Rural 0315;Produtor;369563.79;320760.10;0.13205755;6;6;0;0
+2026-08;V08;Tiago Moura;C00316;Produtor Rural 0316;Produtor;13326.28;9389.22;0.29543579;1;1;0;0
+2026-08;V08;Tiago Moura;C00317;Agropecuária Serra Alta 317 Ltda;Produtor;125931.59;96202.10;0.23607651;4;4;0;0
+2026-08;V08;Tiago Moura;C00319;Produtor Rural 0319;Produtor;500008.55;416550.23;0.16691379;8;8;0;0
+2026-08;V08;Tiago Moura;C00320;Agropecuária São José 320 Ltda;Produtor;493394.09;398552.53;0.19222273;5;5;0;0
+2026-08;V08;Tiago Moura;C00321;Agropecuária Três Irmãos 321 Ltda;Produtor;10306.41;7817.69;0.24147303;1;1;0;0
+2026-08;V08;Tiago Moura;C00322;Produtor Rural 0322;Produtor;409855.51;336315.09;0.17943011;6;6;0;0
+2026-08;V08;Tiago Moura;C00323;Agropecuária Ipê 323 Ltda;Produtor;645424.65;523655.53;0.18866512;10;10;0;0
+2026-08;V08;Tiago Moura;C00324;Agropecuária Serra Alta 324 Ltda;Produtor;190488.00;145590.22;0.23569873;4;4;0;0
+2026-08;V08;Tiago Moura;C00326;Agropecuária São José 326 Ltda;Produtor;1713535.21;1456704.50;0.14988353;20;20;0;0
+2026-08;V08;Tiago Moura;C00327;Agropecuária Ipê 327 Ltda;Produtor;554775.32;425254.85;0.23346473;12;12;0;0
+2026-08;V08;Tiago Moura;C00328;Produtor Rural 0328;Produtor;1442274.42;1233014.27;0.14509038;22;21;1;0
+2026-08;V08;Tiago Moura;C00329;Produtor Rural 0329;Produtor;277198.51;242127.41;0.12651980;6;6;0;0
+2026-08;V08;Tiago Moura;C00330;Agropecuária Ipê 330 Ltda;Produtor;493418.37;409084.13;0.17091832;6;6;0;0
+2026-08;V08;Tiago Moura;C00332;Produtor Rural 0332;Produtor;349824.51;301459.22;0.13825586;9;9;0;0
+2026-08;V08;Tiago Moura;C00333;Agropecuária Rio Claro 333 Ltda;Produtor;236529.45;203930.84;0.13782051;4;4;0;0
+2026-08;V08;Tiago Moura;C00334;Agropecuária São José 334 Ltda;Produtor;681951.57;579218.35;0.15064592;7;7;0;0
+2026-08;V08;Tiago Moura;C00335;Produtor Rural 0335;Produtor;387617.59;318106.99;0.17932778;7;7;0;0
+2026-08;V08;Tiago Moura;C00336;Campoforte Insumos 336 Ltda;Revenda;978262.52;860065.21;0.12082371;4;4;0;0
+2026-08;V08;Tiago Moura;C00337;Agropecuária Bela Vista 337 Ltda;Produtor;249681.90;175663.00;0.29645281;6;6;0;0
+2026-08;V08;Tiago Moura;C00338;Agropecuária Rio Claro 338 Ltda;Produtor;306933.86;265777.02;0.13409026;4;4;0;0
+2026-08;V08;Tiago Moura;C00339;Terranorte Insumos 339 Ltda;Revenda;2345790.45;1954064.51;0.16699102;22;19;0;3
+2026-08;V08;Tiago Moura;C00341;Produtor Rural 0341;Produtor;111294.71;84941.47;0.23678789;4;4;0;0
+2026-08;V08;Tiago Moura;C00342;Produtor Rural 0342;Produtor;568816.93;424394.24;0.25390013;11;11;0;0
+2026-08;V08;Tiago Moura;C00343;Produtor Rural 0343;Produtor;340673.97;292316.59;0.14194621;5;5;0;0
+2026-08;V08;Tiago Moura;C00344;Agropecuária Boa Vista 344 Ltda;Produtor;676288.95;552640.18;0.18283423;11;11;0;0
+2026-08;V08;Tiago Moura;C00345;Agropecuária Rio Claro 345 Ltda;Produtor;160399.73;143219.32;0.10710997;2;2;0;0
+2026-08;V08;Tiago Moura;C00346;Agropecuária Bela Vista 346 Ltda;Produtor;500045.68;410988.64;0.17809781;9;9;0;0
+2026-08;V08;Tiago Moura;C00348;Produtor Rural 0348;Produtor;741711.98;598720.42;0.19278583;12;12;0;0
+2026-08;V08;Tiago Moura;C00349;Produtor Rural 0349;Produtor;176332.63;146819.74;0.16737055;4;4;0;0
+2026-08;V08;Tiago Moura;C00350;Agropecuária Serra Alta 350 Ltda;Produtor;550094.66;490381.92;0.10854994;4;4;0;0
+2026-08;V08;Tiago Moura;C00352;Produtor Rural 0352;Produtor;114841.04;91179.64;0.20603610;3;3;0;0
+2026-08;V08;Tiago Moura;C00353;Produtor Rural 0353;Produtor;685476.15;546446.03;0.20282269;12;12;0;0
+2026-08;V08;Tiago Moura;C00355;Produtor Rural 0355;Produtor;582926.36;459765.48;0.21128034;13;13;0;0
+2026-08;V08;Tiago Moura;C00357;Produtor Rural 0357;Produtor;508423.47;390187.02;0.23255506;12;12;0;0
+2026-09;V01;Ana Ribeiro;C00001;Terramais Insumos 001 Ltda;Revenda;1053694.02;797033.77;0.24358139;11;11;0;0
+2026-09;V01;Ana Ribeiro;C00002;Agropecuária Santa Clara 002 Ltda;Produtor;361415.57;286416.92;0.20751361;6;6;0;0
+2026-09;V01;Ana Ribeiro;C00003;Agropecuária Ipê 003 Ltda;Produtor;818908.31;654027.79;0.20134186;18;18;0;0
+2026-09;V01;Ana Ribeiro;C00004;Agropecuária Ipê 004 Ltda;Produtor;125488.90;101132.51;0.19409199;2;2;0;0
+2026-09;V01;Ana Ribeiro;C00005;Agropecuária Ipê 005 Ltda;Produtor;934374.42;721513.63;0.22781102;20;20;0;0
+2026-09;V01;Ana Ribeiro;C00006;Agropecuária Bela Vista 006 Ltda;Produtor;310340.84;231502.77;0.25403705;8;8;0;0
+2026-09;V01;Ana Ribeiro;C00007;Ruralforte Insumos 007 Ltda;Revenda;0.00;0.00;;2;1;0;1
+2026-09;V01;Ana Ribeiro;C00008;Agropecuária Boa Vista 008 Ltda;Produtor;320676.90;270732.96;0.15574536;8;8;0;0
+2026-09;V01;Ana Ribeiro;C00010;Agropecuária Boa Vista 010 Ltda;Produtor;46882.57;34448.51;0.26521712;3;3;0;0
+2026-09;V01;Ana Ribeiro;C00011;Produtor Rural 0011;Produtor;144853.46;105647.56;0.27065905;4;4;0;0
+2026-09;V01;Ana Ribeiro;C00012;Agropecuária Rio Claro 012 Ltda;Produtor;443592.07;347603.26;0.21638982;8;8;0;0
+2026-09;V01;Ana Ribeiro;C00014;Agropecuária Serra Alta 014 Ltda;Produtor;124088.07;90382.52;0.27162603;2;2;0;0
+2026-09;V01;Ana Ribeiro;C00015;Produtor Rural 0015;Produtor;155611.59;138216.56;0.11178493;5;5;0;0
+2026-09;V01;Ana Ribeiro;C00016;Produtor Rural 0016;Produtor;744440.46;580244.49;0.22056293;11;11;0;0
+2026-09;V01;Ana Ribeiro;C00017;Terramais Insumos 017 Ltda;Revenda;1081316.11;925690.01;0.14392285;9;9;0;0
+2026-09;V01;Ana Ribeiro;C00018;Produtor Rural 0018;Produtor;202609.73;165954.54;0.18091525;5;5;0;0
+2026-09;V01;Ana Ribeiro;C00019;Agropecuária Rio Claro 019 Ltda;Produtor;529194.90;465638.95;0.12009932;7;7;0;0
+2026-09;V01;Ana Ribeiro;C00020;Produtor Rural 0020;Produtor;87227.20;78683.23;0.09795075;2;2;0;0
+2026-09;V01;Ana Ribeiro;C00021;Produtor Rural 0021;Produtor;171011.82;125162.82;0.26810427;4;4;0;0
+2026-09;V01;Ana Ribeiro;C00023;Agropecuária Serra Alta 023 Ltda;Produtor;605876.39;487142.77;0.19597004;11;11;0;0
+2026-09;V01;Ana Ribeiro;C00024;Terrasul Insumos 024 Ltda;Revenda;856865.23;669218.05;0.21899264;10;9;1;0
+2026-09;V01;Ana Ribeiro;C00025;Agropecuária Ipê 025 Ltda;Produtor;710870.05;590158.19;0.16980862;19;19;0;0
+2026-09;V01;Ana Ribeiro;C00027;Agropecuária Santa Clara 027 Ltda;Produtor;259949.16;228707.59;0.12018339;11;7;0;4
+2026-09;V01;Ana Ribeiro;C00028;Agropecuária Bela Vista 028 Ltda;Produtor;170113.07;129360.58;0.23956119;3;3;0;0
+2026-09;V01;Ana Ribeiro;C00029;Agropecuária São José 029 Ltda;Produtor;256046.14;191090.07;0.25368892;7;7;0;0
+2026-09;V01;Ana Ribeiro;C00030;Agropecuária Bela Vista 030 Ltda;Produtor;1038757.14;892472.37;0.14082673;9;9;0;0
+2026-09;V01;Ana Ribeiro;C00032;Agropecuária Ipê 032 Ltda;Produtor;168232.12;126342.55;0.24899865;4;4;0;0
+2026-09;V01;Ana Ribeiro;C00033;Ruralvale Insumos 033 Ltda;Revenda;1438198.96;1169985.32;0.18649272;13;13;0;0
+2026-09;V01;Ana Ribeiro;C00034;Camponorte Insumos 034 Ltda;Revenda;1026849.73;831145.13;0.19058738;10;10;0;0
+2026-09;V01;Ana Ribeiro;C00035;Produtor Rural 0035;Produtor;988241.31;795368.74;0.19516748;12;12;0;0
+2026-09;V01;Ana Ribeiro;C00036;Agropecuária Três Irmãos 036 Ltda;Produtor;372539.05;289870.77;0.22190501;10;10;0;0
+2026-09;V01;Ana Ribeiro;C00037;Agropecuária Serra Alta 037 Ltda;Produtor;912751.36;783292.55;0.14183360;12;12;0;0
+2026-09;V01;Ana Ribeiro;C00038;Agropecuária Bela Vista 038 Ltda;Produtor;208900.34;153613.56;0.26465625;4;4;0;0
+2026-09;V01;Ana Ribeiro;C00039;Agropecuária Boa Vista 039 Ltda;Produtor;405714.79;340422.21;0.16093222;6;6;0;0
+2026-09;V01;Ana Ribeiro;C00040;Agropecuária Boa Vista 040 Ltda;Produtor;425826.26;319937.91;0.24866562;11;11;0;0
+2026-09;V01;Ana Ribeiro;C00041;Camposul Insumos 041 Ltda;Revenda;1144156.90;896190.49;0.21672413;10;10;0;0
+2026-09;V01;Ana Ribeiro;C00042;Agropecuária São José 042 Ltda;Produtor;761301.54;601761.68;0.20956198;10;10;0;0
+2026-09;V01;Ana Ribeiro;C00043;Ruralnorte Insumos 043 Ltda;Revenda;1294511.01;972719.19;0.24858176;16;15;1;0
+2026-09;V01;Ana Ribeiro;C00044;Produtor Rural 0044;Produtor;391834.46;347883.01;0.11216841;5;5;0;0
+2026-09;V01;Ana Ribeiro;C00045;Agropecuária Santa Clara 045 Ltda;Produtor;255960.97;227779.02;0.11010253;6;6;0;0
+2026-09;V01;Ana Ribeiro;C00046;Produtor Rural 0046;Produtor;95526.48;73799.94;0.22743997;3;3;0;0
+2026-09;V01;Ana Ribeiro;C00047;Agropecuária Boa Vista 047 Ltda;Produtor;325417.59;239037.73;0.26544312;8;8;0;0
+2026-09;V01;Ana Ribeiro;C00048;Agropecuária Serra Alta 048 Ltda;Produtor;698815.94;595827.86;0.14737512;12;12;0;0
+2026-09;V02;Bruno Teixeira;C00049;Produtor Rural 0049;Produtor;520095.93;435624.02;0.16241602;12;12;0;0
+2026-09;V02;Bruno Teixeira;C00050;Agropecuária Santa Clara 050 Ltda;Produtor;940456.29;771941.69;0.17918387;15;15;0;0
+2026-09;V02;Bruno Teixeira;C00051;Agropecuária Santa Clara 051 Ltda;Produtor;684265.33;573884.19;0.16131336;10;10;0;0
+2026-09;V02;Bruno Teixeira;C00052;Agropecuária Boa Vista 052 Ltda;Produtor;988682.82;804015.22;0.18678144;14;14;0;0
+2026-09;V02;Bruno Teixeira;C00053;Agropecuária Rio Claro 053 Ltda;Produtor;325914.18;255077.33;0.21734817;9;9;0;0
+2026-09;V02;Bruno Teixeira;C00054;Agropecuária Serra Alta 054 Ltda;Produtor;737346.29;635492.52;0.13813560;8;8;0;0
+2026-09;V02;Bruno Teixeira;C00055;Agropecuária Rio Claro 055 Ltda;Produtor;961920.95;845609.91;0.12091538;11;11;0;0
+2026-09;V02;Bruno Teixeira;C00056;Produtor Rural 0056;Produtor;366751.13;281557.72;0.23229215;8;8;0;0
+2026-09;V02;Bruno Teixeira;C00058;Agropecuária Boa Vista 058 Ltda;Produtor;438574.07;331075.59;0.24510906;12;12;0;0
+2026-09;V02;Bruno Teixeira;C00059;Produtor Rural 0059;Produtor;57806.49;44940.85;0.22256394;1;1;0;0
+2026-09;V02;Bruno Teixeira;C00060;Agropecuária Bela Vista 060 Ltda;Produtor;347039.96;257971.80;0.25665102;12;10;0;2
+2026-09;V02;Bruno Teixeira;C00061;Agropecuária Três Irmãos 061 Ltda;Produtor;118362.10;88572.11;0.25168521;5;5;0;0
+2026-09;V02;Bruno Teixeira;C00062;Produtor Rural 0062;Produtor;671690.18;564851.95;0.15905879;10;10;0;0
+2026-09;V02;Bruno Teixeira;C00063;Agropecuária Bela Vista 063 Ltda;Produtor;673103.28;570063.72;0.15308135;8;8;0;0
+2026-09;V02;Bruno Teixeira;C00064;Produtor Rural 0064;Produtor;593660.90;480454.78;0.19069155;8;8;0;0
+2026-09;V02;Bruno Teixeira;C00065;Agropecuária Santa Clara 065 Ltda;Produtor;537301.70;481254.27;0.10431277;6;6;0;0
+2026-09;V02;Bruno Teixeira;C00066;Agropecuária Serra Alta 066 Ltda;Produtor;300819.04;263038.88;0.12559099;4;4;0;0
+2026-09;V02;Bruno Teixeira;C00067;Agropecuária Santa Clara 067 Ltda;Produtor;788601.68;651133.81;0.17431851;10;10;0;0
+2026-09;V02;Bruno Teixeira;C00068;Produtor Rural 0068;Produtor;469845.36;413061.35;0.12085681;4;4;0;0
+2026-09;V02;Bruno Teixeira;C00069;Agropecuária Bela Vista 069 Ltda;Produtor;467211.58;370132.22;0.20778458;8;8;0;0
+2026-09;V02;Bruno Teixeira;C00070;Produtor Rural 0070;Produtor;162643.22;145053.53;0.10814893;1;1;0;0
+2026-09;V02;Bruno Teixeira;C00071;Produtor Rural 0071;Produtor;251455.77;220563.79;0.12285254;4;4;0;0
+2026-09;V02;Bruno Teixeira;C00072;Agropecuária Santa Clara 072 Ltda;Produtor;226114.45;169222.16;0.25160838;5;5;0;0
+2026-09;V02;Bruno Teixeira;C00073;Agropecuária Boa Vista 073 Ltda;Produtor;281073.17;221399.54;0.21230639;4;4;0;0
+2026-09;V02;Bruno Teixeira;C00074;Produtor Rural 0074;Produtor;406813.25;334370.10;0.17807471;8;8;0;0
+2026-09;V02;Bruno Teixeira;C00075;Produtor Rural 0075;Produtor;312487.80;268412.27;0.14104720;5;5;0;0
+2026-09;V02;Bruno Teixeira;C00076;Produtor Rural 0076;Produtor;426303.71;351510.68;0.17544541;6;6;0;0
+2026-09;V02;Bruno Teixeira;C00077;Terranorte Insumos 077 Ltda;Revenda;1839090.28;1456887.56;0.20782162;15;15;0;0
+2026-09;V02;Bruno Teixeira;C00078;Agropecuária Boa Vista 078 Ltda;Produtor;131730.17;116494.58;0.11565756;2;2;0;0
+2026-09;V02;Bruno Teixeira;C00079;Produtor Rural 0079;Produtor;637172.64;544892.12;0.14482813;8;8;0;0
+2026-09;V02;Bruno Teixeira;C00080;Agropecuária Três Irmãos 080 Ltda;Produtor;625488.72;514578.02;0.17731847;11;11;0;0
+2026-09;V02;Bruno Teixeira;C00081;Produtor Rural 0081;Produtor;130785.46;122453.44;0.06370754;2;1;1;0
+2026-09;V02;Bruno Teixeira;C00082;Agropecuária Três Irmãos 082 Ltda;Produtor;97212.13;87678.43;0.09807109;1;1;0;0
+2026-09;V02;Bruno Teixeira;C00083;Campoforte Insumos 083 Ltda;Revenda;661564.08;605054.63;0.08541795;3;3;0;0
+2026-09;V02;Bruno Teixeira;C00084;Agropecuária Três Irmãos 084 Ltda;Produtor;217802.26;170596.66;0.21673604;5;5;0;0
+2026-09;V02;Bruno Teixeira;C00086;Produtor Rural 0086;Produtor;558113.52;482958.52;0.13465898;7;7;0;0
+2026-09;V02;Bruno Teixeira;C00087;Agropecuária Bela Vista 087 Ltda;Produtor;478832.51;395848.64;0.17330459;8;8;0;0
+2026-09;V02;Bruno Teixeira;C00088;Produtor Rural 0088;Produtor;604930.90;504663.91;0.16574949;6;6;0;0
+2026-09;V02;Bruno Teixeira;C00089;Agropecuária Ipê 089 Ltda;Produtor;682229.21;606950.60;0.11034211;8;8;0;0
+2026-09;V02;Bruno Teixeira;C00090;Campomais Insumos 090 Ltda;Revenda;640431.79;541120.76;0.15506886;7;7;0;0
+2026-09;V02;Bruno Teixeira;C00091;Produtor Rural 0091;Produtor;743456.03;626706.52;0.15703620;13;13;0;0
+2026-09;V03;Pedro Alves;C00095;Produtor Rural 0095;Produtor;513721.76;378607.71;0.26301018;12;12;0;0
+2026-09;V03;Pedro Alves;C00096;Agropecuária Ipê 096 Ltda;Produtor;242430.59;206188.75;0.14949368;3;3;0;0
+2026-09;V03;Pedro Alves;C00097;Agropecuária Ipê 097 Ltda;Produtor;172581.37;126312.84;0.26809690;4;4;0;0
+2026-09;V03;Pedro Alves;C00098;Produtor Rural 0098;Produtor;906508.26;736329.09;0.18773041;16;15;1;0
+2026-09;V03;Pedro Alves;C00099;Agropecuária Boa Vista 099 Ltda;Produtor;476202.48;343823.51;0.27798883;16;16;0;0
+2026-09;V03;Pedro Alves;C00101;Produtor Rural 0101;Produtor;1245671.69;965956.80;0.22454945;18;18;0;0
+2026-09;V03;Pedro Alves;C00102;Produtor Rural 0102;Produtor;9537.28;7081.45;0.25749794;1;1;0;0
+2026-09;V03;Pedro Alves;C00103;Agropecuária Ipê 103 Ltda;Produtor;209902.17;154575.69;0.26358222;4;4;0;0
+2026-09;V03;Pedro Alves;C00104;Agropecuária Três Irmãos 104 Ltda;Produtor;186620.34;140591.65;0.24664348;6;6;0;0
+2026-09;V03;Pedro Alves;C00105;Agropecuária Três Irmãos 105 Ltda;Produtor;608187.83;459159.47;0.24503673;9;9;0;0
+2026-09;V03;Pedro Alves;C00106;Produtor Rural 0106;Produtor;223171.01;160962.24;0.27874933;6;6;0;0
+2026-09;V03;Pedro Alves;C00107;Agropecuária Ipê 107 Ltda;Produtor;25168.97;18517.25;0.26428257;1;1;0;0
+2026-09;V03;Pedro Alves;C00108;Produtor Rural 0108;Produtor;590678.13;426450.16;0.27803293;9;9;0;0
+2026-09;V03;Pedro Alves;C00109;Produtor Rural 0109;Produtor;320915.99;247009.02;0.23030005;10;10;0;0
+2026-09;V03;Pedro Alves;C00110;Agropecuária Rio Claro 110 Ltda;Produtor;230561.18;169166.69;0.26628286;7;6;1;0
+2026-09;V03;Pedro Alves;C00111;Agropecuária Três Irmãos 111 Ltda;Produtor;380099.00;284006.17;0.25281000;8;8;0;0
+2026-09;V03;Pedro Alves;C00112;Produtor Rural 0112;Produtor;367253.03;268193.35;0.26973142;10;10;0;0
+2026-09;V03;Pedro Alves;C00113;Produtor Rural 0113;Produtor;190157.26;141220.61;0.25734831;6;6;0;0
+2026-09;V03;Pedro Alves;C00114;Agropecuária Três Irmãos 114 Ltda;Produtor;123670.47;95761.83;0.22566939;2;2;0;0
+2026-09;V03;Pedro Alves;C00115;Terrasul Insumos 115 Ltda;Revenda;993638.04;810528.04;0.18428240;7;7;0;0
+2026-09;V03;Pedro Alves;C00116;Produtor Rural 0116;Produtor;558340.40;449847.09;0.19431392;14;14;0;0
+2026-09;V03;Pedro Alves;C00117;Agropecuária Boa Vista 117 Ltda;Produtor;307034.57;223456.60;0.27221029;12;12;0;0
+2026-09;V03;Pedro Alves;C00118;Agromais Insumos 118 Ltda;Revenda;360836.67;263229.94;0.27050114;4;4;0;0
+2026-09;V03;Pedro Alves;C00119;Agropecuária Serra Alta 119 Ltda;Produtor;262053.38;197427.18;0.24661464;8;8;0;0
+2026-09;V03;Pedro Alves;C00120;Produtor Rural 0120;Produtor;504080.82;370345.14;0.26530603;10;10;0;0
+2026-09;V03;Pedro Alves;C00121;Agropecuária Rio Claro 121 Ltda;Produtor;614899.02;469005.80;0.23726371;13;13;0;0
+2026-09;V03;Pedro Alves;C00122;Produtor Rural 0122;Produtor;234763.09;175840.70;0.25098660;8;8;0;0
+2026-09;V03;Pedro Alves;C00124;Agropecuária Ipê 124 Ltda;Produtor;533813.49;391508.28;0.26658227;11;11;0;0
+2026-09;V03;Pedro Alves;C00125;Campovale Insumos 125 Ltda;Revenda;791822.62;607915.10;0.23225848;6;6;0;0
+2026-09;V03;Pedro Alves;C00126;Campovale Insumos 126 Ltda;Revenda;820938.87;675488.76;0.17717532;9;7;0;2
+2026-09;V03;Pedro Alves;C00127;Agropecuária São José 127 Ltda;Produtor;442014.10;330781.38;0.25164971;10;10;0;0
+2026-09;V03;Pedro Alves;C00128;Agropecuária São José 128 Ltda;Produtor;99670.87;79219.05;0.20519355;2;2;0;0
+2026-09;V03;Pedro Alves;C00129;Agropecuária Rio Claro 129 Ltda;Produtor;250045.95;190380.82;0.23861666;10;10;0;0
+2026-09;V03;Pedro Alves;C00130;Produtor Rural 0130;Produtor;425823.86;316438.97;0.25687825;12;12;0;0
+2026-09;V03;Pedro Alves;C00132;Produtor Rural 0132;Produtor;23968.27;17738.93;0.25989944;1;1;0;0
+2026-09;V03;Pedro Alves;C00133;Agropecuária Rio Claro 133 Ltda;Produtor;128902.78;97636.59;0.24255637;4;4;0;0
+2026-09;V03;Pedro Alves;C00134;Produtor Rural 0134;Produtor;561383.82;414112.46;0.26233631;9;9;0;0
+2026-09;V03;Pedro Alves;C00135;Produtor Rural 0135;Produtor;267870.26;243536.58;0.09084129;1;1;0;0
+2026-09;V04;Carla Mendes;C00136;Produtor Rural 0136;Produtor;502400.22;443114.86;0.11800425;12;8;0;4
+2026-09;V04;Carla Mendes;C00137;Agropecuária Boa Vista 137 Ltda;Produtor;609587.30;533741.21;0.12442203;6;6;0;0
+2026-09;V04;Carla Mendes;C00138;Agropecuária Bela Vista 138 Ltda;Produtor;243292.56;191452.20;0.21307828;6;6;0;0
+2026-09;V04;Carla Mendes;C00140;Produtor Rural 0140;Produtor;572710.53;453419.11;0.20829270;12;12;0;0
+2026-09;V04;Carla Mendes;C00141;Produtor Rural 0141;Produtor;209477.42;168752.05;0.19441413;4;4;0;0
+2026-09;V04;Carla Mendes;C00142;Produtor Rural 0142;Produtor;226935.00;192333.04;0.15247520;5;5;0;0
+2026-09;V04;Carla Mendes;C00143;Agropecuária Rio Claro 143 Ltda;Produtor;246787.09;210769.73;0.14594507;6;6;0;0
+2026-09;V04;Carla Mendes;C00144;Agropecuária Rio Claro 144 Ltda;Produtor;947705.47;821005.78;0.13369100;11;11;0;0
+2026-09;V04;Carla Mendes;C00145;Agropecuária Ipê 145 Ltda;Produtor;694431.79;615162.16;0.11415035;7;7;0;0
+2026-09;V04;Carla Mendes;C00146;Agropecuária Rio Claro 146 Ltda;Produtor;529892.35;451027.89;0.14883110;6;6;0;0
+2026-09;V04;Carla Mendes;C00147;Agropecuária Santa Clara 147 Ltda;Produtor;131027.55;99285.60;0.24225401;3;3;0;0
+2026-09;V04;Carla Mendes;C00148;Produtor Rural 0148;Produtor;264732.60;225039.68;0.14993590;2;2;0;0
+2026-09;V04;Carla Mendes;C00149;Campoforte Insumos 149 Ltda;Revenda;788028.63;699784.40;0.11198099;5;4;1;0
+2026-09;V04;Carla Mendes;C00151;Agropecuária Bela Vista 151 Ltda;Produtor;702078.06;561396.34;0.20037903;11;11;0;0
+2026-09;V04;Carla Mendes;C00152;Produtor Rural 0152;Produtor;207560.49;155975.74;0.24852875;4;4;0;0
+2026-09;V04;Carla Mendes;C00153;Produtor Rural 0153;Produtor;328831.17;285296.43;0.13239238;4;4;0;0
+2026-09;V04;Carla Mendes;C00154;Agropecuária Rio Claro 154 Ltda;Produtor;277506.19;212311.66;0.23493000;8;8;0;0
+2026-09;V04;Carla Mendes;C00155;Agrovale Insumos 155 Ltda;Revenda;1853850.02;1588518.12;0.14312479;12;12;0;0
+2026-09;V04;Carla Mendes;C00157;Agropecuária Rio Claro 157 Ltda;Produtor;101621.48;73538.61;0.27634778;1;1;0;0
+2026-09;V04;Carla Mendes;C00158;Agropecuária Santa Clara 158 Ltda;Produtor;679976.94;552695.26;0.18718529;10;10;0;0
+2026-09;V04;Carla Mendes;C00159;Agropecuária São José 159 Ltda;Produtor;910478.22;795656.35;0.12611161;9;9;0;0
+2026-09;V04;Carla Mendes;C00160;Agropecuária Três Irmãos 160 Ltda;Produtor;152702.63;127772.10;0.16326196;4;4;0;0
+2026-09;V04;Carla Mendes;C00161;Agropecuária Três Irmãos 161 Ltda;Produtor;437338.48;364128.91;0.16739796;6;6;0;0
+2026-09;V04;Carla Mendes;C00162;Produtor Rural 0162;Produtor;266166.29;239859.10;0.09883742;3;3;0;0
+2026-09;V04;Carla Mendes;C00163;Agropecuária Rio Claro 163 Ltda;Produtor;346832.40;268787.48;0.22502200;7;7;0;0
+2026-09;V04;Carla Mendes;C00164;Produtor Rural 0164;Produtor;4145.91;2975.29;0.28235538;1;1;0;0
+2026-09;V04;Carla Mendes;C00165;Agropecuária Rio Claro 165 Ltda;Produtor;244690.74;180082.30;0.26404121;7;7;0;0
+2026-09;V04;Carla Mendes;C00166;Produtor Rural 0166;Produtor;838719.71;714812.92;0.14773325;10;10;0;0
+2026-09;V04;Carla Mendes;C00167;Agropecuária Três Irmãos 167 Ltda;Produtor;156521.17;132147.82;0.15571919;4;4;0;0
+2026-09;V04;Carla Mendes;C00168;Agropecuária Boa Vista 168 Ltda;Produtor;679493.56;566494.23;0.16629934;12;12;0;0
+2026-09;V04;Carla Mendes;C00169;Terramais Insumos 169 Ltda;Revenda;602378.38;452117.21;0.24944649;5;5;0;0
+2026-09;V04;Carla Mendes;C00170;Agropecuária Bela Vista 170 Ltda;Produtor;409649.19;334396.29;0.18370084;7;7;0;0
+2026-09;V04;Carla Mendes;C00171;Agrosul Insumos 171 Ltda;Revenda;1172621.05;1005804.99;0.14225914;8;8;0;0
+2026-09;V04;Carla Mendes;C00172;Agropecuária Serra Alta 172 Ltda;Produtor;28025.71;19836.84;0.29219135;3;3;0;0
+2026-09;V04;Carla Mendes;C00173;Agropecuária Bela Vista 173 Ltda;Produtor;220417.06;192637.16;0.12603335;2;2;0;0
+2026-09;V04;Carla Mendes;C00174;Produtor Rural 0174;Produtor;166688.52;114267.10;0.31448728;5;5;0;0
+2026-09;V04;Carla Mendes;C00175;Agropecuária Serra Alta 175 Ltda;Produtor;376640.41;318220.70;0.15510739;15;11;0;4
+2026-09;V04;Carla Mendes;C00177;Ruralforte Insumos 177 Ltda;Revenda;1042097.12;824246.84;0.20904988;13;12;1;0
+2026-09;V04;Carla Mendes;C00178;Agropecuária Ipê 178 Ltda;Produtor;420989.63;330200.96;0.21565536;7;7;0;0
+2026-09;V04;Carla Mendes;C00179;Produtor Rural 0179;Produtor;552213.75;439415.00;0.20426646;8;8;0;0
+2026-09;V04;Carla Mendes;C00180;Produtor Rural 0180;Produtor;48246.01;34753.58;0.27965898;3;3;0;0
+2026-09;V04;Carla Mendes;C00181;Terrasul Insumos 181 Ltda;Revenda;329768.63;293313.77;0.11054678;2;2;0;0
+2026-09;V04;Carla Mendes;C00182;Agropecuária Serra Alta 182 Ltda;Produtor;782194.64;646058.45;0.17404388;11;11;0;0
+2026-09;V04;Carla Mendes;C00183;Produtor Rural 0183;Produtor;31432.99;21663.81;0.31079385;2;2;0;0
+2026-09;V04;Carla Mendes;C00185;Agropecuária São José 185 Ltda;Produtor;647267.71;512758.29;0.20781111;10;10;0;0
+2026-09;V05;Diego Rocha;C00186;Agropecuária Santa Clara 186 Ltda;Produtor;465050.31;377873.43;0.18745688;6;6;0;0
+2026-09;V05;Diego Rocha;C00187;Agropecuária Ipê 187 Ltda;Produtor;834934.10;716516.64;0.14182851;9;9;0;0
+2026-09;V05;Diego Rocha;C00188;Agropecuária Boa Vista 188 Ltda;Produtor;458719.23;375478.16;0.18146410;8;6;2;0
+2026-09;V05;Diego Rocha;C00189;Agropecuária Boa Vista 189 Ltda;Produtor;56869.77;38449.58;0.32390126;1;1;0;0
+2026-09;V05;Diego Rocha;C00190;Produtor Rural 0190;Produtor;47274.63;33792.92;0.28517854;1;1;0;0
+2026-09;V05;Diego Rocha;C00191;Produtor Rural 0191;Produtor;174599.34;151510.26;0.13224036;3;3;0;0
+2026-09;V05;Diego Rocha;C00192;Produtor Rural 0192;Produtor;439372.69;407847.23;0.07175107;2;2;0;0
+2026-09;V05;Diego Rocha;C00193;Produtor Rural 0193;Produtor;353284.27;290456.07;0.17784036;7;7;0;0
+2026-09;V05;Diego Rocha;C00194;Produtor Rural 0194;Produtor;964025.20;856426.00;0.11161451;10;10;0;0
+2026-09;V05;Diego Rocha;C00195;Produtor Rural 0195;Produtor;142828.75;107910.17;0.24447865;8;6;0;2
+2026-09;V05;Diego Rocha;C00196;Agropecuária Três Irmãos 196 Ltda;Produtor;317162.15;283678.51;0.10557262;3;3;0;0
+2026-09;V05;Diego Rocha;C00197;Agropecuária Ipê 197 Ltda;Produtor;32471.03;26538.12;0.18271395;2;2;0;0
+2026-09;V05;Diego Rocha;C00198;Produtor Rural 0198;Produtor;282846.34;249335.21;0.11847822;5;5;0;0
+2026-09;V05;Diego Rocha;C00199;Produtor Rural 0199;Produtor;330780.61;290421.73;0.12201102;3;3;0;0
+2026-09;V05;Diego Rocha;C00200;Produtor Rural 0200;Produtor;1750847.45;1587821.13;0.09311281;18;17;1;0
+2026-09;V05;Diego Rocha;C00201;Produtor Rural 0201;Produtor;394082.80;334330.10;0.15162473;5;5;0;0
+2026-09;V05;Diego Rocha;C00202;Produtor Rural 0202;Produtor;1200868.59;1080240.08;0.10045105;9;9;0;0
+2026-09;V05;Diego Rocha;C00203;Agropecuária Três Irmãos 203 Ltda;Produtor;320573.94;275881.32;0.13941439;4;4;0;0
+2026-09;V05;Diego Rocha;C00204;Produtor Rural 0204;Produtor;992240.50;839528.07;0.15390667;12;12;0;0
+2026-09;V05;Diego Rocha;C00205;Agropecuária Três Irmãos 205 Ltda;Produtor;655751.43;561827.94;0.14323032;8;8;0;0
+2026-09;V05;Diego Rocha;C00206;Produtor Rural 0206;Produtor;253513.86;216837.27;0.14467292;5;5;0;0
+2026-09;V05;Diego Rocha;C00207;Produtor Rural 0207;Produtor;881505.42;755719.89;0.14269400;9;9;0;0
+2026-09;V05;Diego Rocha;C00209;Agropecuária São José 209 Ltda;Produtor;915771.21;838382.39;0.08450672;5;5;0;0
+2026-09;V05;Diego Rocha;C00210;Produtor Rural 0210;Produtor;439888.57;346014.03;0.21340527;7;7;0;0
+2026-09;V05;Diego Rocha;C00211;Agropecuária Boa Vista 211 Ltda;Produtor;475359.98;393522.04;0.17215993;9;9;0;0
+2026-09;V05;Diego Rocha;C00212;Agropecuária Boa Vista 212 Ltda;Produtor;323154.81;258957.17;0.19865909;6;6;0;0
+2026-09;V05;Diego Rocha;C00213;Agropecuária Santa Clara 213 Ltda;Produtor;978194.75;826236.50;0.15534560;10;10;0;0
+2026-09;V05;Diego Rocha;C00214;Produtor Rural 0214;Produtor;430995.57;386822.31;0.10249122;7;7;0;0
+2026-09;V05;Diego Rocha;C00215;Produtor Rural 0215;Produtor;404935.67;353313.88;0.12748146;5;5;0;0
+2026-09;V05;Diego Rocha;C00216;Agropecuária Rio Claro 216 Ltda;Produtor;771159.82;677222.65;0.12181284;6;6;0;0
+2026-09;V05;Diego Rocha;C00217;Agronorte Insumos 217 Ltda;Revenda;657948.01;578251.07;0.12112954;5;5;0;0
+2026-09;V05;Diego Rocha;C00218;Agropecuária Santa Clara 218 Ltda;Produtor;1054369.43;934770.03;0.11343216;6;6;0;0
+2026-09;V05;Diego Rocha;C00219;Produtor Rural 0219;Produtor;664883.19;580376.86;0.12709951;9;9;0;0
+2026-09;V05;Diego Rocha;C00220;Agropecuária Bela Vista 220 Ltda;Produtor;364969.11;334961.97;0.08221830;3;3;0;0
+2026-09;V05;Diego Rocha;C00221;Agropecuária Bela Vista 221 Ltda;Produtor;444109.47;375785.15;0.15384567;7;7;0;0
+2026-09;V05;Diego Rocha;C00223;Agropecuária Santa Clara 223 Ltda;Produtor;210480.19;153380.73;0.27128187;5;5;0;0
+2026-09;V05;Diego Rocha;C00224;Produtor Rural 0224;Produtor;353123.28;294226.14;0.16678917;5;5;0;0
+2026-09;V05;Diego Rocha;C00226;Agropecuária São José 226 Ltda;Produtor;334526.75;261395.77;0.21861026;8;7;1;0
+2026-09;V05;Diego Rocha;C00227;Agropecuária São José 227 Ltda;Produtor;360082.21;308203.11;0.14407571;6;6;0;0
+2026-09;V05;Diego Rocha;C00228;Produtor Rural 0228;Produtor;284404.48;259235.15;0.08849836;2;2;0;0
+2026-09;V05;Diego Rocha;C00229;Agropecuária Três Irmãos 229 Ltda;Produtor;72595.64;58403.83;0.19549122;1;1;0;0
+2026-09;V06;Elisa Prado;C00230;Agropecuária Bela Vista 230 Ltda;Produtor;127676.84;92982.71;0.27173393;6;6;0;0
+2026-09;V06;Elisa Prado;C00231;Produtor Rural 0231;Produtor;217497.19;197983.53;0.08971914;2;2;0;0
+2026-09;V06;Elisa Prado;C00232;Agropecuária Serra Alta 232 Ltda;Produtor;523566.22;405359.53;0.22577219;11;11;0;0
+2026-09;V06;Elisa Prado;C00233;Produtor Rural 0233;Produtor;121600.96;89392.57;0.26486954;6;6;0;0
+2026-09;V06;Elisa Prado;C00234;Agropecuária Rio Claro 234 Ltda;Produtor;418757.71;310380.74;0.25880591;8;8;0;0
+2026-09;V06;Elisa Prado;C00235;Agropecuária Bela Vista 235 Ltda;Produtor;275522.90;205453.86;0.25431294;7;7;0;0
+2026-09;V06;Elisa Prado;C00236;Agropecuária São José 236 Ltda;Produtor;221178.33;177502.47;0.19746898;6;6;0;0
+2026-09;V06;Elisa Prado;C00237;Produtor Rural 0237;Produtor;622924.29;528075.75;0.15226335;13;13;0;0
+2026-09;V06;Elisa Prado;C00238;Produtor Rural 0238;Produtor;377915.41;305917.15;0.19051422;5;5;0;0
+2026-09;V06;Elisa Prado;C00239;Agropecuária São José 239 Ltda;Produtor;19580.76;15002.80;0.23379889;1;1;0;0
+2026-09;V06;Elisa Prado;C00240;Agropecuária São José 240 Ltda;Produtor;436102.00;348793.37;0.20020232;6;6;0;0
+2026-09;V06;Elisa Prado;C00241;Agropecuária Ipê 241 Ltda;Produtor;372668.85;291001.90;0.21914080;8;8;0;0
+2026-09;V06;Elisa Prado;C00242;Produtor Rural 0242;Produtor;11690.75;8389.66;0.28236768;1;1;0;0
+2026-09;V06;Elisa Prado;C00243;Produtor Rural 0243;Produtor;758244.00;619294.18;0.18325212;11;11;0;0
+2026-09;V06;Elisa Prado;C00244;Agropecuária Três Irmãos 244 Ltda;Produtor;1304577.82;1014702.07;0.22219889;21;21;0;0
+2026-09;V06;Elisa Prado;C00245;Agropecuária Bela Vista 245 Ltda;Produtor;41007.03;30153.24;0.26468120;2;2;0;0
+2026-09;V06;Elisa Prado;C00246;Produtor Rural 0246;Produtor;712480.69;606746.28;0.14840319;12;11;1;0
+2026-09;V06;Elisa Prado;C00247;Agropecuária Três Irmãos 247 Ltda;Produtor;384293.88;304555.60;0.20749297;10;10;0;0
+2026-09;V06;Elisa Prado;C00248;Campomais Insumos 248 Ltda;Revenda;1156355.71;867918.17;0.24943669;15;15;0;0
+2026-09;V06;Elisa Prado;C00249;Agropecuária Bela Vista 249 Ltda;Produtor;499883.27;417377.35;0.16505037;7;7;0;0
+2026-09;V06;Elisa Prado;C00250;Produtor Rural 0250;Produtor;292450.38;243927.91;0.16591693;2;2;0;0
+2026-09;V06;Elisa Prado;C00251;Agropecuária Serra Alta 251 Ltda;Produtor;256197.27;205858.88;0.19648293;5;5;0;0
+2026-09;V06;Elisa Prado;C00252;Produtor Rural 0252;Produtor;369933.29;282927.83;0.23519230;9;9;0;0
+2026-09;V06;Elisa Prado;C00253;Agropecuária Rio Claro 253 Ltda;Produtor;110444.25;73531.91;0.33421695;2;2;0;0
+2026-09;V06;Elisa Prado;C00254;Agropecuária Santa Clara 254 Ltda;Produtor;568837.72;460787.70;0.18994876;8;8;0;0
+2026-09;V06;Elisa Prado;C00255;Agropecuária Rio Claro 255 Ltda;Produtor;120144.00;86933.08;0.27642596;2;2;0;0
+2026-09;V06;Elisa Prado;C00256;Produtor Rural 0256;Produtor;337099.58;277868.58;0.17570772;4;4;0;0
+2026-09;V06;Elisa Prado;C00257;Produtor Rural 0257;Produtor;230425.01;195975.97;0.14950217;4;4;0;0
+2026-09;V06;Elisa Prado;C00258;Produtor Rural 0258;Produtor;390099.43;292575.29;0.24999816;6;6;0;0
+2026-09;V06;Elisa Prado;C00259;Agropecuária São José 259 Ltda;Produtor;680322.03;582150.60;0.14430141;10;10;0;0
+2026-09;V06;Elisa Prado;C00260;Agropecuária Boa Vista 260 Ltda;Produtor;174267.99;125950.91;0.27725734;4;4;0;0
+2026-09;V06;Elisa Prado;C00261;Terraforte Insumos 261 Ltda;Revenda;1926482.26;1615865.54;0.16123518;13;13;0;0
+2026-09;V06;Elisa Prado;C00262;Produtor Rural 0262;Produtor;262004.83;199455.08;0.23873510;8;7;1;0
+2026-09;V06;Elisa Prado;C00263;Agropecuária Bela Vista 263 Ltda;Produtor;784321.70;606717.17;0.22644347;15;15;0;0
+2026-09;V06;Elisa Prado;C00264;Agropecuária São José 264 Ltda;Produtor;469884.12;392622.56;0.16442684;9;9;0;0
+2026-09;V06;Elisa Prado;C00265;Agropecuária Bela Vista 265 Ltda;Produtor;123925.00;88949.58;0.28223054;4;3;1;0
+2026-09;V06;Elisa Prado;C00266;Produtor Rural 0266;Produtor;40405.50;28775.77;0.28782542;2;2;0;0
+2026-09;V06;Elisa Prado;C00267;Agropecuária Ipê 267 Ltda;Produtor;264643.03;205865.73;0.22210031;4;4;0;0
+2026-09;V06;Elisa Prado;C00268;Agropecuária Três Irmãos 268 Ltda;Produtor;339957.10;268961.80;0.20883606;10;10;0;0
+2026-09;V06;Elisa Prado;C00269;Ruralnorte Insumos 269 Ltda;Revenda;400196.23;294233.75;0.26477631;6;6;0;0
+2026-09;V06;Elisa Prado;C00270;Produtor Rural 0270;Produtor;719023.24;597239.80;0.16937344;11;11;0;0
+2026-09;V06;Elisa Prado;C00271;Agropecuária Boa Vista 271 Ltda;Produtor;804293.07;651892.68;0.18948365;17;17;0;0
+2026-09;V06;Elisa Prado;C00272;Produtor Rural 0272;Produtor;308944.24;232040.90;0.24892304;7;7;0;0
+2026-09;V06;Elisa Prado;C00273;Agropecuária Ipê 273 Ltda;Produtor;76278.44;57707.10;0.24346775;6;6;0;0
+2026-09;V06;Elisa Prado;C00274;Agropecuária Boa Vista 274 Ltda;Produtor;630991.69;454085.72;0.28036181;11;11;0;0
+2026-09;V06;Elisa Prado;C00275;Produtor Rural 0275;Produtor;278177.14;222055.81;0.20174674;4;4;0;0
+2026-09;V06;Elisa Prado;C00276;Agropecuária Serra Alta 276 Ltda;Produtor;559133.41;446107.78;0.20214430;10;10;0;0
+2026-09;V07;Marina Costa;C00279;Camponorte Insumos 279 Ltda;Revenda;127646.63;116839.56;0.08466397;2;2;0;0
+2026-09;V07;Marina Costa;C00280;Agroforte Insumos 280 Ltda;Revenda;320368.55;291061.73;0.09147846;6;6;0;0
+2026-09;V07;Marina Costa;C00281;Ruralvale Insumos 281 Ltda;Revenda;173863.13;155281.95;0.10687246;5;5;0;0
+2026-09;V07;Marina Costa;C00283;Terranorte Insumos 283 Ltda;Revenda;743789.49;678878.36;0.08727084;15;15;0;0
+2026-09;V07;Marina Costa;C00286;Ruralvale Insumos 286 Ltda;Revenda;584503.93;528111.71;0.09647877;12;12;0;0
+2026-09;V07;Marina Costa;C00287;Terraforte Insumos 287 Ltda;Revenda;278787.51;254091.89;0.08858223;7;7;0;0
+2026-09;V07;Marina Costa;C00288;Ruralnorte Insumos 288 Ltda;Revenda;118248.97;107621.17;0.08987647;3;3;0;0
+2026-09;V07;Marina Costa;C00289;Agrovale Insumos 289 Ltda;Revenda;433138.24;396658.87;0.08422108;10;10;0;0
+2026-09;V07;Marina Costa;C00290;Campoforte Insumos 290 Ltda;Revenda;521488.28;474200.51;0.09067849;12;12;0;0
+2026-09;V07;Marina Costa;C00291;Agronorte Insumos 291 Ltda;Revenda;729610.41;661794.36;0.09294830;19;19;0;0
+2026-09;V07;Marina Costa;C00292;Agronorte Insumos 292 Ltda;Revenda;201379.42;183975.23;0.08642487;7;7;0;0
+2026-09;V07;Marina Costa;C00293;Agroforte Insumos 293 Ltda;Revenda;42779.55;38234.74;0.10623791;1;1;0;0
+2026-09;V07;Marina Costa;C00294;Terranorte Insumos 294 Ltda;Revenda;194923.96;178342.72;0.08506517;4;4;0;0
+2026-09;V07;Marina Costa;C00295;Terramais Insumos 295 Ltda;Revenda;400462.79;363766.43;0.09163488;9;9;0;0
+2026-09;V07;Marina Costa;C00296;Ruralmais Insumos 296 Ltda;Revenda;467650.49;423797.40;0.09377322;10;10;0;0
+2026-09;V07;Marina Costa;C00297;Campomais Insumos 297 Ltda;Revenda;95187.61;84201.51;0.11541523;3;3;0;0
+2026-09;V07;Marina Costa;C00298;Ruralforte Insumos 298 Ltda;Revenda;298288.23;270065.28;0.09461637;8;8;0;0
+2026-09;V07;Marina Costa;C00299;Terrasul Insumos 299 Ltda;Revenda;313079.57;279247.14;0.10806336;9;9;0;0
+2026-09;V07;Marina Costa;C00300;Campoforte Insumos 300 Ltda;Revenda;727274.05;658848.01;0.09408563;15;15;0;0
+2026-09;V07;Marina Costa;C00301;Ruralforte Insumos 301 Ltda;Revenda;474451.10;425253.33;0.10369408;8;8;0;0
+2026-09;V07;Marina Costa;C00302;Ruralvale Insumos 302 Ltda;Revenda;244175.09;217586.70;0.10889067;4;4;0;0
+2026-09;V07;Marina Costa;C00303;Agrosul Insumos 303 Ltda;Revenda;429169.01;395169.17;0.07922250;7;7;0;0
+2026-09;V07;Marina Costa;C00304;Agroforte Insumos 304 Ltda;Revenda;510134.16;461117.28;0.09608625;12;12;0;0
+2026-09;V07;Marina Costa;C00305;Terramais Insumos 305 Ltda;Revenda;713951.05;650164.05;0.08934366;17;17;0;0
+2026-09;V07;Marina Costa;C00306;Campomais Insumos 306 Ltda;Revenda;350272.67;319314.15;0.08838406;6;6;0;0
+2026-09;V07;Marina Costa;C00307;Ruralvale Insumos 307 Ltda;Revenda;274880.21;250413.96;0.08900695;7;7;0;0
+2026-09;V07;Marina Costa;C00308;Campoforte Insumos 308 Ltda;Revenda;213117.48;192390.27;0.09725720;4;4;0;0
+2026-09;V07;Marina Costa;C00309;Agrosul Insumos 309 Ltda;Revenda;318494.77;288522.73;0.09410528;5;5;0;0
+2026-09;V07;Marina Costa;C00310;Agromais Insumos 310 Ltda;Revenda;429650.76;387853.18;0.09728269;10;10;0;0
+2026-09;V07;Marina Costa;C00311;Camposul Insumos 311 Ltda;Revenda;322134.34;292705.14;0.09135692;9;9;0;0
+2026-09;V08;Tiago Moura;C00312;Agropecuária Bela Vista 312 Ltda;Produtor;271789.84;229328.48;0.15622865;5;5;0;0
+2026-09;V08;Tiago Moura;C00313;Ruralmais Insumos 313 Ltda;Revenda;276914.20;258046.96;0.06813388;2;2;0;0
+2026-09;V08;Tiago Moura;C00314;Agropecuária Boa Vista 314 Ltda;Produtor;549438.56;491575.52;0.10531303;7;7;0;0
+2026-09;V08;Tiago Moura;C00315;Produtor Rural 0315;Produtor;765409.23;616353.82;0.19473950;10;10;0;0
+2026-09;V08;Tiago Moura;C00316;Produtor Rural 0316;Produtor;234265.52;179053.44;0.23568163;3;3;0;0
+2026-09;V08;Tiago Moura;C00317;Agropecuária Serra Alta 317 Ltda;Produtor;396626.07;335257.99;0.15472528;5;5;0;0
+2026-09;V08;Tiago Moura;C00318;Agromais Insumos 318 Ltda;Revenda;1809594.74;1535979.27;0.15120262;24;19;0;5
+2026-09;V08;Tiago Moura;C00319;Produtor Rural 0319;Produtor;331644.82;254557.29;0.23244002;5;5;0;0
+2026-09;V08;Tiago Moura;C00320;Agropecuária São José 320 Ltda;Produtor;502392.56;424397.37;0.15524750;9;9;0;0
+2026-09;V08;Tiago Moura;C00321;Agropecuária Três Irmãos 321 Ltda;Produtor;634905.69;499622.76;0.21307563;16;16;0;0
+2026-09;V08;Tiago Moura;C00322;Produtor Rural 0322;Produtor;96006.79;76078.79;0.20756865;1;1;0;0
+2026-09;V08;Tiago Moura;C00323;Agropecuária Ipê 323 Ltda;Produtor;102913.50;73800.05;0.28289243;4;3;1;0
+2026-09;V08;Tiago Moura;C00324;Agropecuária Serra Alta 324 Ltda;Produtor;108149.17;78316.91;0.27584363;4;4;0;0
+2026-09;V08;Tiago Moura;C00325;Agropecuária Bela Vista 325 Ltda;Produtor;831163.21;706706.39;0.14973812;9;9;0;0
+2026-09;V08;Tiago Moura;C00326;Agropecuária São José 326 Ltda;Produtor;96393.58;73360.18;0.23895160;4;4;0;0
+2026-09;V08;Tiago Moura;C00327;Agropecuária Ipê 327 Ltda;Produtor;340126.32;268328.89;0.21109049;4;4;0;0
+2026-09;V08;Tiago Moura;C00328;Produtor Rural 0328;Produtor;280236.68;221697.75;0.20889103;6;6;0;0
+2026-09;V08;Tiago Moura;C00329;Produtor Rural 0329;Produtor;715983.14;580840.81;0.18875072;9;9;0;0
+2026-09;V08;Tiago Moura;C00330;Agropecuária Ipê 330 Ltda;Produtor;312450.98;269381.87;0.13784277;2;2;0;0
+2026-09;V08;Tiago Moura;C00331;Produtor Rural 0331;Produtor;327659.28;273837.28;0.16426210;3;3;0;0
+2026-09;V08;Tiago Moura;C00332;Produtor Rural 0332;Produtor;612880.72;523568.76;0.14572486;8;8;0;0
+2026-09;V08;Tiago Moura;C00333;Agropecuária Rio Claro 333 Ltda;Produtor;59816.13;42558.43;0.28851248;3;3;0;0
+2026-09;V08;Tiago Moura;C00334;Agropecuária São José 334 Ltda;Produtor;184944.18;134771.98;0.27128294;6;6;0;0
+2026-09;V08;Tiago Moura;C00335;Produtor Rural 0335;Produtor;204484.42;171736.26;0.16014990;4;4;0;0
+2026-09;V08;Tiago Moura;C00336;Campoforte Insumos 336 Ltda;Revenda;792770.38;666696.44;0.15902958;8;8;0;0
+2026-09;V08;Tiago Moura;C00337;Agropecuária Bela Vista 337 Ltda;Produtor;302149.13;224934.92;0.25555000;5;5;0;0
+2026-09;V08;Tiago Moura;C00338;Agropecuária Rio Claro 338 Ltda;Produtor;560599.35;494093.37;0.11863371;5;5;0;0
+2026-09;V08;Tiago Moura;C00339;Terranorte Insumos 339 Ltda;Revenda;2250781.64;1959067.26;0.12960581;13;13;0;0
+2026-09;V08;Tiago Moura;C00340;Agropecuária Três Irmãos 340 Ltda;Produtor;398799.08;306147.34;0.23232686;10;10;0;0
+2026-09;V08;Tiago Moura;C00341;Produtor Rural 0341;Produtor;153281.90;109922.46;0.28287384;6;6;0;0
+2026-09;V08;Tiago Moura;C00342;Produtor Rural 0342;Produtor;187844.58;154125.03;0.17950771;4;4;0;0
+2026-09;V08;Tiago Moura;C00344;Agropecuária Boa Vista 344 Ltda;Produtor;1185790.17;974471.55;0.17820912;17;17;0;0
+2026-09;V08;Tiago Moura;C00345;Agropecuária Rio Claro 345 Ltda;Produtor;711558.65;608413.79;0.14495623;8;8;0;0
+2026-09;V08;Tiago Moura;C00346;Agropecuária Bela Vista 346 Ltda;Produtor;367353.54;276153.45;0.24826245;9;9;0;0
+2026-09;V08;Tiago Moura;C00348;Produtor Rural 0348;Produtor;279996.05;218491.34;0.21966278;7;7;0;0
+2026-09;V08;Tiago Moura;C00349;Produtor Rural 0349;Produtor;552686.41;478358.27;0.13448520;8;8;0;0
+2026-09;V08;Tiago Moura;C00350;Agropecuária Serra Alta 350 Ltda;Produtor;737732.00;558938.00;0.24235630;15;15;0;0
+2026-09;V08;Tiago Moura;C00351;Agropecuária Rio Claro 351 Ltda;Produtor;566197.81;459446.94;0.18853989;12;11;0;1
+2026-09;V08;Tiago Moura;C00352;Produtor Rural 0352;Produtor;1060679.50;840590.46;0.20749816;15;15;0;0
+2026-09;V08;Tiago Moura;C00353;Produtor Rural 0353;Produtor;935093.72;728720.23;0.22069819;16;16;0;0
+2026-09;V08;Tiago Moura;C00355;Produtor Rural 0355;Produtor;1139770.96;944832.68;0.17103285;16;16;0;0
+2026-09;V08;Tiago Moura;C00356;Produtor Rural 0356;Produtor;914094.30;747255.29;0.18251838;10;10;0;0
+2026-09;V08;Tiago Moura;C00357;Produtor Rural 0357;Produtor;557176.56;470126.86;0.15623360;10;10;0;0
+2026-10;V01;Ana Ribeiro;C00001;Terramais Insumos 001 Ltda;Revenda;582145.23;434478.16;0.25366019;8;7;1;0
+2026-10;V01;Ana Ribeiro;C00002;Agropecuária Santa Clara 002 Ltda;Produtor;402714.05;336578.45;0.16422471;8;8;0;0
+2026-10;V01;Ana Ribeiro;C00003;Agropecuária Ipê 003 Ltda;Produtor;191910.27;139397.85;0.27363007;4;4;0;0
+2026-10;V01;Ana Ribeiro;C00004;Agropecuária Ipê 004 Ltda;Produtor;326225.93;258200.97;0.20852101;4;4;0;0
+2026-10;V01;Ana Ribeiro;C00005;Agropecuária Ipê 005 Ltda;Produtor;55910.55;42759.57;0.23521464;2;2;0;0
+2026-10;V01;Ana Ribeiro;C00006;Agropecuária Bela Vista 006 Ltda;Produtor;256737.37;201309.93;0.21589159;5;5;0;0
+2026-10;V01;Ana Ribeiro;C00007;Ruralforte Insumos 007 Ltda;Revenda;165198.05;111881.31;0.32274437;3;3;0;0
+2026-10;V01;Ana Ribeiro;C00008;Agropecuária Boa Vista 008 Ltda;Produtor;251649.18;192702.61;0.23424106;5;5;0;0
+2026-10;V01;Ana Ribeiro;C00009;Produtor Rural 0009;Produtor;188217.29;133270.67;0.29193184;5;5;0;0
+2026-10;V01;Ana Ribeiro;C00010;Agropecuária Boa Vista 010 Ltda;Produtor;236802.24;205308.31;0.13299676;5;5;0;0
+2026-10;V01;Ana Ribeiro;C00011;Produtor Rural 0011;Produtor;396850.24;314564.99;0.20734585;9;8;1;0
+2026-10;V01;Ana Ribeiro;C00012;Agropecuária Rio Claro 012 Ltda;Produtor;482418.18;395761.27;0.17963027;6;6;0;0
+2026-10;V01;Ana Ribeiro;C00013;Campovale Insumos 013 Ltda;Revenda;707481.79;588903.98;0.16760546;5;5;0;0
+2026-10;V01;Ana Ribeiro;C00014;Agropecuária Serra Alta 014 Ltda;Produtor;157747.19;116343.84;0.26246648;7;7;0;0
+2026-10;V01;Ana Ribeiro;C00015;Produtor Rural 0015;Produtor;679013.92;550884.87;0.18869871;9;9;0;0
+2026-10;V01;Ana Ribeiro;C00016;Produtor Rural 0016;Produtor;198812.05;150837.76;0.24130474;5;5;0;0
+2026-10;V01;Ana Ribeiro;C00017;Terramais Insumos 017 Ltda;Revenda;289578.47;222863.23;0.23038743;4;4;0;0
+2026-10;V01;Ana Ribeiro;C00018;Produtor Rural 0018;Produtor;645442.89;485337.95;0.24805439;11;11;0;0
+2026-10;V01;Ana Ribeiro;C00019;Agropecuária Rio Claro 019 Ltda;Produtor;42918.25;33240.00;0.22550430;1;1;0;0
+2026-10;V01;Ana Ribeiro;C00020;Produtor Rural 0020;Produtor;342070.26;269688.80;0.21159823;6;6;0;0
+2026-10;V01;Ana Ribeiro;C00021;Produtor Rural 0021;Produtor;141546.79;110397.88;0.22006087;2;2;0;0
+2026-10;V01;Ana Ribeiro;C00022;Agropecuária Ipê 022 Ltda;Produtor;90718.32;77782.55;0.14259270;2;2;0;0
+2026-10;V01;Ana Ribeiro;C00024;Terrasul Insumos 024 Ltda;Revenda;1202367.67;953296.37;0.20715070;10;10;0;0
+2026-10;V01;Ana Ribeiro;C00025;Agropecuária Ipê 025 Ltda;Produtor;1103041.82;922803.51;0.16340116;13;13;0;0
+2026-10;V01;Ana Ribeiro;C00026;Produtor Rural 0026;Produtor;230765.94;178349.13;0.22714275;8;8;0;0
+2026-10;V01;Ana Ribeiro;C00027;Agropecuária Santa Clara 027 Ltda;Produtor;254061.19;197909.18;0.22101766;10;10;0;0
+2026-10;V01;Ana Ribeiro;C00028;Agropecuária Bela Vista 028 Ltda;Produtor;223471.24;169222.29;0.24275585;4;4;0;0
+2026-10;V01;Ana Ribeiro;C00029;Agropecuária São José 029 Ltda;Produtor;279547.00;212027.13;0.24153316;7;7;0;0
+2026-10;V01;Ana Ribeiro;C00030;Agropecuária Bela Vista 030 Ltda;Produtor;299731.41;235632.82;0.21385343;8;8;0;0
+2026-10;V01;Ana Ribeiro;C00031;Agropecuária Ipê 031 Ltda;Produtor;467100.70;383728.74;0.17848819;8;7;0;1
+2026-10;V01;Ana Ribeiro;C00032;Agropecuária Ipê 032 Ltda;Produtor;186301.48;138896.95;0.25445064;7;7;0;0
+2026-10;V01;Ana Ribeiro;C00033;Ruralvale Insumos 033 Ltda;Revenda;958173.20;806827.56;0.15795228;5;5;0;0
+2026-10;V01;Ana Ribeiro;C00034;Camponorte Insumos 034 Ltda;Revenda;316145.16;235733.44;0.25435063;5;4;1;0
+2026-10;V01;Ana Ribeiro;C00036;Agropecuária Três Irmãos 036 Ltda;Produtor;126922.44;94702.76;0.25385330;6;6;0;0
+2026-10;V01;Ana Ribeiro;C00037;Agropecuária Serra Alta 037 Ltda;Produtor;511776.50;412116.21;0.19473401;7;7;0;0
+2026-10;V01;Ana Ribeiro;C00038;Agropecuária Bela Vista 038 Ltda;Produtor;319650.46;261010.12;0.18345145;7;7;0;0
+2026-10;V01;Ana Ribeiro;C00039;Agropecuária Boa Vista 039 Ltda;Produtor;79938.19;56988.98;0.28708694;4;3;0;1
+2026-10;V01;Ana Ribeiro;C00040;Agropecuária Boa Vista 040 Ltda;Produtor;314229.04;265149.25;0.15619113;3;3;0;0
+2026-10;V01;Ana Ribeiro;C00041;Camposul Insumos 041 Ltda;Revenda;629314.87;510439.78;0.18889604;6;6;0;0
+2026-10;V01;Ana Ribeiro;C00042;Agropecuária São José 042 Ltda;Produtor;1282638.49;1096140.00;0.14540222;14;14;0;0
+2026-10;V01;Ana Ribeiro;C00043;Ruralnorte Insumos 043 Ltda;Revenda;1116633.76;875051.86;0.21634838;14;14;0;0
+2026-10;V01;Ana Ribeiro;C00044;Produtor Rural 0044;Produtor;482241.40;433321.56;0.10144264;5;5;0;0
+2026-10;V01;Ana Ribeiro;C00046;Produtor Rural 0046;Produtor;331109.03;296058.98;0.10585652;3;3;0;0
+2026-10;V01;Ana Ribeiro;C00047;Agropecuária Boa Vista 047 Ltda;Produtor;172396.38;136683.85;0.20715360;5;5;0;0
+2026-10;V01;Ana Ribeiro;C00048;Agropecuária Serra Alta 048 Ltda;Produtor;173347.29;129963.28;0.25027221;3;3;0;0
+2026-10;V02;Bruno Teixeira;C00050;Agropecuária Santa Clara 050 Ltda;Produtor;121765.22;90119.13;0.25989433;5;5;0;0
+2026-10;V02;Bruno Teixeira;C00051;Agropecuária Santa Clara 051 Ltda;Produtor;700130.68;600501.94;0.14230021;7;7;0;0
+2026-10;V02;Bruno Teixeira;C00052;Agropecuária Boa Vista 052 Ltda;Produtor;369933.34;287683.10;0.22233800;7;7;0;0
+2026-10;V02;Bruno Teixeira;C00053;Agropecuária Rio Claro 053 Ltda;Produtor;668475.59;596072.58;0.10831063;7;7;0;0
+2026-10;V02;Bruno Teixeira;C00055;Agropecuária Rio Claro 055 Ltda;Produtor;728026.79;570859.57;0.21588109;14;14;0;0
+2026-10;V02;Bruno Teixeira;C00056;Produtor Rural 0056;Produtor;893023.35;788232.88;0.11734348;8;8;0;0
+2026-10;V02;Bruno Teixeira;C00058;Agropecuária Boa Vista 058 Ltda;Produtor;167559.43;143110.30;0.14591318;3;3;0;0
+2026-10;V02;Bruno Teixeira;C00059;Produtor Rural 0059;Produtor;221910.86;159423.87;0.28158599;4;4;0;0
+2026-10;V02;Bruno Teixeira;C00060;Agropecuária Bela Vista 060 Ltda;Produtor;614327.63;488544.95;0.20474853;9;9;0;0
+2026-10;V02;Bruno Teixeira;C00061;Agropecuária Três Irmãos 061 Ltda;Produtor;487646.57;410587.44;0.15802250;5;5;0;0
+2026-10;V02;Bruno Teixeira;C00062;Produtor Rural 0062;Produtor;978366.57;819797.16;0.16207566;14;14;0;0
+2026-10;V02;Bruno Teixeira;C00063;Agropecuária Bela Vista 063 Ltda;Produtor;767331.34;617297.57;0.19552671;10;10;0;0
+2026-10;V02;Bruno Teixeira;C00064;Produtor Rural 0064;Produtor;389089.87;326781.77;0.16013807;7;7;0;0
+2026-10;V02;Bruno Teixeira;C00065;Agropecuária Santa Clara 065 Ltda;Produtor;549750.71;465784.11;0.15273577;6;6;0;0
+2026-10;V02;Bruno Teixeira;C00066;Agropecuária Serra Alta 066 Ltda;Produtor;63854.87;47073.39;0.26280658;4;3;0;1
+2026-10;V02;Bruno Teixeira;C00067;Agropecuária Santa Clara 067 Ltda;Produtor;38092.58;32213.58;0.15433452;1;1;0;0
+2026-10;V02;Bruno Teixeira;C00071;Produtor Rural 0071;Produtor;1097402.43;927609.36;0.15472270;19;19;0;0
+2026-10;V02;Bruno Teixeira;C00072;Agropecuária Santa Clara 072 Ltda;Produtor;554718.56;484755.61;0.12612333;5;5;0;0
+2026-10;V02;Bruno Teixeira;C00073;Agropecuária Boa Vista 073 Ltda;Produtor;127392.13;97241.93;0.23667239;3;3;0;0
+2026-10;V02;Bruno Teixeira;C00074;Produtor Rural 0074;Produtor;25170.46;18682.78;0.25774976;2;2;0;0
+2026-10;V02;Bruno Teixeira;C00075;Produtor Rural 0075;Produtor;491482.15;385661.67;0.21530890;11;11;0;0
+2026-10;V02;Bruno Teixeira;C00077;Terranorte Insumos 077 Ltda;Revenda;697810.43;621187.35;0.10980501;4;4;0;0
+2026-10;V02;Bruno Teixeira;C00078;Agropecuária Boa Vista 078 Ltda;Produtor;687407.57;608005.95;0.11550879;7;7;0;0
+2026-10;V02;Bruno Teixeira;C00079;Produtor Rural 0079;Produtor;756571.74;585909.24;0.22557345;14;14;0;0
+2026-10;V02;Bruno Teixeira;C00080;Agropecuária Três Irmãos 080 Ltda;Produtor;85135.81;63045.71;0.25946896;3;3;0;0
+2026-10;V02;Bruno Teixeira;C00081;Produtor Rural 0081;Produtor;123999.21;91281.96;0.26385047;2;2;0;0
+2026-10;V02;Bruno Teixeira;C00082;Agropecuária Três Irmãos 082 Ltda;Produtor;1024515.93;871951.62;0.14891356;16;16;0;0
+2026-10;V02;Bruno Teixeira;C00083;Campoforte Insumos 083 Ltda;Revenda;1027164.10;956911.38;0.06839484;5;5;0;0
+2026-10;V02;Bruno Teixeira;C00084;Agropecuária Três Irmãos 084 Ltda;Produtor;317147.26;244475.24;0.22914283;5;5;0;0
+2026-10;V02;Bruno Teixeira;C00085;Agropecuária Boa Vista 085 Ltda;Produtor;260786.46;222485.68;0.14686644;4;4;0;0
+2026-10;V02;Bruno Teixeira;C00086;Produtor Rural 0086;Produtor;548398.10;475117.19;0.13362721;7;7;0;0
+2026-10;V02;Bruno Teixeira;C00087;Agropecuária Bela Vista 087 Ltda;Produtor;73416.45;51420.29;0.29960806;5;5;0;0
+2026-10;V02;Bruno Teixeira;C00088;Produtor Rural 0088;Produtor;131767.46;100931.49;0.23401810;2;2;0;0
+2026-10;V02;Bruno Teixeira;C00089;Agropecuária Ipê 089 Ltda;Produtor;538638.62;469378.38;0.12858387;6;6;0;0
+2026-10;V02;Bruno Teixeira;C00090;Campomais Insumos 090 Ltda;Revenda;896564.15;692473.65;0.22763625;7;7;0;0
+2026-10;V02;Bruno Teixeira;C00092;Agropecuária Três Irmãos 092 Ltda;Produtor;141880.91;116499.15;0.17889482;5;5;0;0
+2026-10;V02;Bruno Teixeira;C00093;Produtor Rural 0093;Produtor;584191.01;479826.06;0.17864868;8;8;0;0
+2026-10;V03;Pedro Alves;C00094;Agropecuária Ipê 094 Ltda;Produtor;-4256961.62;-2931277.09;0.31141566;8;4;4;0
+2026-10;V03;Pedro Alves;C00095;Produtor Rural 0095;Produtor;67651.58;51303.66;0.24164875;4;4;0;0
+2026-10;V03;Pedro Alves;C00096;Agropecuária Ipê 096 Ltda;Produtor;339534.98;248739.87;0.26741018;8;8;0;0
+2026-10;V03;Pedro Alves;C00097;Agropecuária Ipê 097 Ltda;Produtor;349768.04;273417.77;0.21828830;8;8;0;0
+2026-10;V03;Pedro Alves;C00098;Produtor Rural 0098;Produtor;931675.80;723478.48;0.22346542;16;16;0;0
+2026-10;V03;Pedro Alves;C00099;Agropecuária Boa Vista 099 Ltda;Produtor;170176.68;125333.39;0.26351019;3;3;0;0
+2026-10;V03;Pedro Alves;C00100;Agropecuária São José 100 Ltda;Produtor;238200.45;201028.93;0.15605143;5;5;0;0
+2026-10;V03;Pedro Alves;C00101;Produtor Rural 0101;Produtor;340519.19;293860.41;0.13702247;4;4;0;0
+2026-10;V03;Pedro Alves;C00102;Produtor Rural 0102;Produtor;12956.95;10267.32;0.20758203;1;1;0;0
+2026-10;V03;Pedro Alves;C00103;Agropecuária Ipê 103 Ltda;Produtor;537977.43;435757.12;0.19000855;13;13;0;0
+2026-10;V03;Pedro Alves;C00104;Agropecuária Três Irmãos 104 Ltda;Produtor;86037.29;66803.44;0.22355249;3;3;0;0
+2026-10;V03;Pedro Alves;C00105;Agropecuária Três Irmãos 105 Ltda;Produtor;61238.38;44160.50;0.27887544;4;4;0;0
+2026-10;V03;Pedro Alves;C00106;Produtor Rural 0106;Produtor;29277.85;20404.03;0.30308988;1;1;0;0
+2026-10;V03;Pedro Alves;C00107;Agropecuária Ipê 107 Ltda;Produtor;169294.58;128966.80;0.23821070;4;4;0;0
+2026-10;V03;Pedro Alves;C00108;Produtor Rural 0108;Produtor;425375.59;311716.87;0.26719615;9;9;0;0
+2026-10;V03;Pedro Alves;C00109;Produtor Rural 0109;Produtor;241047.02;176571.87;0.26747956;5;5;0;0
+2026-10;V03;Pedro Alves;C00110;Agropecuária Rio Claro 110 Ltda;Produtor;605225.19;473708.82;0.21730155;14;14;0;0
+2026-10;V03;Pedro Alves;C00111;Agropecuária Três Irmãos 111 Ltda;Produtor;619639.57;458302.25;0.26037285;12;12;0;0
+2026-10;V03;Pedro Alves;C00113;Produtor Rural 0113;Produtor;50534.19;38310.12;0.24189702;2;2;0;0
+2026-10;V03;Pedro Alves;C00114;Agropecuária Três Irmãos 114 Ltda;Produtor;157173.10;120326.56;0.23443286;5;5;0;0
+2026-10;V03;Pedro Alves;C00115;Terrasul Insumos 115 Ltda;Revenda;1232149.76;902496.82;0.26754292;13;13;0;0
+2026-10;V03;Pedro Alves;C00116;Produtor Rural 0116;Produtor;127002.42;92415.03;0.27233646;3;3;0;0
+2026-10;V03;Pedro Alves;C00117;Agropecuária Boa Vista 117 Ltda;Produtor;570581.84;458005.44;0.19730106;13;13;0;0
+2026-10;V03;Pedro Alves;C00118;Agromais Insumos 118 Ltda;Revenda;353429.37;239921.74;0.32116072;7;7;0;0
+2026-10;V03;Pedro Alves;C00119;Agropecuária Serra Alta 119 Ltda;Produtor;287868.53;230963.72;0.19767638;5;5;0;0
+2026-10;V03;Pedro Alves;C00121;Agropecuária Rio Claro 121 Ltda;Produtor;21545.96;15072.91;0.30042987;2;2;0;0
+2026-10;V03;Pedro Alves;C00122;Produtor Rural 0122;Produtor;110069.92;84199.17;0.23503924;5;5;0;0
+2026-10;V03;Pedro Alves;C00123;Agropecuária Ipê 123 Ltda;Produtor;444920.11;329733.45;0.25889291;8;8;0;0
+2026-10;V03;Pedro Alves;C00124;Agropecuária Ipê 124 Ltda;Produtor;420198.35;310211.62;0.26174955;10;10;0;0
+2026-10;V03;Pedro Alves;C00125;Campovale Insumos 125 Ltda;Revenda;1244073.32;943722.82;0.24142508;13;13;0;0
+2026-10;V03;Pedro Alves;C00126;Campovale Insumos 126 Ltda;Revenda;1113987.42;829619.33;0.25527047;10;10;0;0
+2026-10;V03;Pedro Alves;C00128;Agropecuária São José 128 Ltda;Produtor;397182.83;284802.58;0.28294337;10;9;1;0
+2026-10;V03;Pedro Alves;C00129;Agropecuária Rio Claro 129 Ltda;Produtor;128900.88;100216.96;0.22252695;2;2;0;0
+2026-10;V03;Pedro Alves;C00130;Produtor Rural 0130;Produtor;189973.65;144876.73;0.23738513;4;4;0;0
+2026-10;V03;Pedro Alves;C00132;Produtor Rural 0132;Produtor;411939.55;304531.82;0.26073663;8;8;0;0
+2026-10;V03;Pedro Alves;C00133;Agropecuária Rio Claro 133 Ltda;Produtor;140513.82;108213.81;0.22987070;5;4;1;0
+2026-10;V03;Pedro Alves;C00134;Produtor Rural 0134;Produtor;858572.48;689936.28;0.19641463;16;16;0;0
+2026-10;V03;Pedro Alves;C00135;Produtor Rural 0135;Produtor;344007.19;258467.24;0.24865745;8;8;0;0
+2026-10;V03;Pedro Alves;C00277;Campomais Insumos 277 Ltda;Revenda;167852.38;151515.85;0.09732677;5;5;0;0
+2026-10;V03;Pedro Alves;C00278;Agroforte Insumos 278 Ltda;Revenda;185388.41;165707.55;0.10616014;3;3;0;0
+2026-10;V03;Pedro Alves;C00280;Agroforte Insumos 280 Ltda;Revenda;188883.29;169553.87;0.10233526;4;4;0;0
+2026-10;V03;Pedro Alves;C00281;Ruralvale Insumos 281 Ltda;Revenda;29395.37;26484.18;0.09903566;2;2;0;0
+2026-10;V03;Pedro Alves;C00283;Terranorte Insumos 283 Ltda;Revenda;43222.18;39772.82;0.07980532;2;2;0;0
+2026-10;V03;Pedro Alves;C00286;Ruralvale Insumos 286 Ltda;Revenda;196175.85;176166.13;0.10199890;3;3;0;0
+2026-10;V03;Pedro Alves;C00287;Terraforte Insumos 287 Ltda;Revenda;472260.39;429370.99;0.09081727;9;9;0;0
+2026-10;V03;Pedro Alves;C00288;Ruralnorte Insumos 288 Ltda;Revenda;63997.62;59568.25;0.06921148;1;1;0;0
+2026-10;V03;Pedro Alves;C00290;Campoforte Insumos 290 Ltda;Revenda;540413.85;494548.35;0.08487107;9;9;0;0
+2026-10;V03;Pedro Alves;C00291;Agronorte Insumos 291 Ltda;Revenda;382762.53;345119.01;0.09834693;10;10;0;0
+2026-10;V03;Pedro Alves;C00293;Agroforte Insumos 293 Ltda;Revenda;316655.75;281590.90;0.11073492;5;5;0;0
+2026-10;V03;Pedro Alves;C00297;Campomais Insumos 297 Ltda;Revenda;219216.81;195906.67;0.10633373;7;7;0;0
+2026-10;V03;Pedro Alves;C00298;Ruralforte Insumos 298 Ltda;Revenda;111819.18;94199.74;0.15757082;2;2;0;0
+2026-10;V03;Pedro Alves;C00299;Terrasul Insumos 299 Ltda;Revenda;226380.29;201257.63;0.11097547;4;4;0;0
+2026-10;V03;Pedro Alves;C00300;Campoforte Insumos 300 Ltda;Revenda;352413.56;314562.75;0.10740452;9;9;0;0
+2026-10;V03;Pedro Alves;C00302;Ruralvale Insumos 302 Ltda;Revenda;262630.89;233097.60;0.11245170;5;5;0;0
+2026-10;V03;Pedro Alves;C00303;Agrosul Insumos 303 Ltda;Revenda;274237.23;249538.78;0.09006235;5;5;0;0
+2026-10;V03;Pedro Alves;C00304;Agroforte Insumos 304 Ltda;Revenda;171633.58;156753.62;0.08669609;6;6;0;0
+2026-10;V03;Pedro Alves;C00305;Terramais Insumos 305 Ltda;Revenda;495412.43;442573.72;0.10665600;16;16;0;0
+2026-10;V03;Pedro Alves;C00306;Campomais Insumos 306 Ltda;Revenda;199737.35;181982.82;0.08888938;4;4;0;0
+2026-10;V03;Pedro Alves;C00308;Campoforte Insumos 308 Ltda;Revenda;125261.16;114172.33;0.08852569;3;3;0;0
+2026-10;V04;Carla Mendes;C00137;Agropecuária Boa Vista 137 Ltda;Produtor;126106.26;88985.81;0.29435850;4;4;0;0
+2026-10;V04;Carla Mendes;C00138;Agropecuária Bela Vista 138 Ltda;Produtor;507396.83;419557.57;0.17311748;7;7;0;0
+2026-10;V04;Carla Mendes;C00139;Produtor Rural 0139;Produtor;201614.19;170934.26;0.15217148;4;4;0;0
+2026-10;V04;Carla Mendes;C00140;Produtor Rural 0140;Produtor;259480.04;213923.44;0.17556880;5;5;0;0
+2026-10;V04;Carla Mendes;C00141;Produtor Rural 0141;Produtor;545698.04;464784.34;0.14827559;10;10;0;0
+2026-10;V04;Carla Mendes;C00142;Produtor Rural 0142;Produtor;408076.30;332674.47;0.18477385;8;8;0;0
+2026-10;V04;Carla Mendes;C00143;Agropecuária Rio Claro 143 Ltda;Produtor;596193.98;533043.90;0.10592204;5;5;0;0
+2026-10;V04;Carla Mendes;C00144;Agropecuária Rio Claro 144 Ltda;Produtor;1191947.92;1001890.44;0.15945116;19;19;0;0
+2026-10;V04;Carla Mendes;C00145;Agropecuária Ipê 145 Ltda;Produtor;241360.26;210191.13;0.12913944;3;3;0;0
+2026-10;V04;Carla Mendes;C00146;Agropecuária Rio Claro 146 Ltda;Produtor;625873.83;505836.67;0.19179131;16;15;1;0
+2026-10;V04;Carla Mendes;C00147;Agropecuária Santa Clara 147 Ltda;Produtor;418906.69;319377.49;0.23759277;10;10;0;0
+2026-10;V04;Carla Mendes;C00148;Produtor Rural 0148;Produtor;230144.12;197218.43;0.14306553;4;4;0;0
+2026-10;V04;Carla Mendes;C00149;Campoforte Insumos 149 Ltda;Revenda;952386.42;792507.66;0.16787173;6;6;0;0
+2026-10;V04;Carla Mendes;C00150;Produtor Rural 0150;Produtor;9723.02;6881.34;0.29226310;1;1;0;0
+2026-10;V04;Carla Mendes;C00151;Agropecuária Bela Vista 151 Ltda;Produtor;392551.93;344330.30;0.12284140;4;4;0;0
+2026-10;V04;Carla Mendes;C00152;Produtor Rural 0152;Produtor;696757.01;569456.96;0.18270365;11;11;0;0
+2026-10;V04;Carla Mendes;C00153;Produtor Rural 0153;Produtor;240213.32;199381.66;0.16998083;4;4;0;0
+2026-10;V04;Carla Mendes;C00154;Agropecuária Rio Claro 154 Ltda;Produtor;295801.33;201868.03;0.31755537;5;5;0;0
+2026-10;V04;Carla Mendes;C00155;Agrovale Insumos 155 Ltda;Revenda;1579160.98;1243306.33;0.21267917;16;16;0;0
+2026-10;V04;Carla Mendes;C00156;Terraforte Insumos 156 Ltda;Revenda;1120090.22;850798.77;0.24041943;13;12;1;0
+2026-10;V04;Carla Mendes;C00157;Agropecuária Rio Claro 157 Ltda;Produtor;31438.37;23596.70;0.24942992;1;1;0;0
+2026-10;V04;Carla Mendes;C00158;Agropecuária Santa Clara 158 Ltda;Produtor;1021111.58;881742.65;0.13648746;8;8;0;0
+2026-10;V04;Carla Mendes;C00159;Agropecuária São José 159 Ltda;Produtor;862686.54;727964.09;0.15616617;11;11;0;0
+2026-10;V04;Carla Mendes;C00160;Agropecuária Três Irmãos 160 Ltda;Produtor;95965.02;67619.54;0.29537304;1;1;0;0
+2026-10;V04;Carla Mendes;C00161;Agropecuária Três Irmãos 161 Ltda;Produtor;0.00;0.00;;2;1;0;1
+2026-10;V04;Carla Mendes;C00162;Produtor Rural 0162;Produtor;132693.19;92360.02;0.30395810;3;3;0;0
+2026-10;V04;Carla Mendes;C00163;Agropecuária Rio Claro 163 Ltda;Produtor;940569.31;794338.66;0.15547036;8;8;0;0
+2026-10;V04;Carla Mendes;C00164;Produtor Rural 0164;Produtor;134929.49;125067.96;0.07308654;1;1;0;0
+2026-10;V04;Carla Mendes;C00165;Agropecuária Rio Claro 165 Ltda;Produtor;208762.05;156384.97;0.25089368;4;4;0;0
+2026-10;V04;Carla Mendes;C00166;Produtor Rural 0166;Produtor;508868.50;424340.92;0.16610889;6;6;0;0
+2026-10;V04;Carla Mendes;C00168;Agropecuária Boa Vista 168 Ltda;Produtor;199178.97;158858.09;0.20243543;5;4;0;1
+2026-10;V04;Carla Mendes;C00169;Terramais Insumos 169 Ltda;Revenda;1284210.48;1079440.84;0.15945177;9;9;0;0
+2026-10;V04;Carla Mendes;C00170;Agropecuária Bela Vista 170 Ltda;Produtor;321819.81;254861.20;0.20806242;8;8;0;0
+2026-10;V04;Carla Mendes;C00171;Agrosul Insumos 171 Ltda;Revenda;1471066.50;1265739.06;0.13957727;13;12;1;0
+2026-10;V04;Carla Mendes;C00172;Agropecuária Serra Alta 172 Ltda;Produtor;544895.51;482845.00;0.11387598;7;7;0;0
+2026-10;V04;Carla Mendes;C00173;Agropecuária Bela Vista 173 Ltda;Produtor;685581.73;565663.00;0.17491529;13;13;0;0
+2026-10;V04;Carla Mendes;C00174;Produtor Rural 0174;Produtor;590046.54;491698.35;0.16667870;9;9;0;0
+2026-10;V04;Carla Mendes;C00175;Agropecuária Serra Alta 175 Ltda;Produtor;572982.45;449422.98;0.21564268;10;10;0;0
+2026-10;V04;Carla Mendes;C00176;Agroforte Insumos 176 Ltda;Revenda;698698.24;565089.70;0.19122496;5;5;0;0
+2026-10;V04;Carla Mendes;C00177;Ruralforte Insumos 177 Ltda;Revenda;1468753.54;1234530.53;0.15947060;11;11;0;0
+2026-10;V04;Carla Mendes;C00178;Agropecuária Ipê 178 Ltda;Produtor;875235.36;773961.78;0.11571011;9;9;0;0
+2026-10;V04;Carla Mendes;C00179;Produtor Rural 0179;Produtor;717008.61;605229.67;0.15589623;9;9;0;0
+2026-10;V04;Carla Mendes;C00180;Produtor Rural 0180;Produtor;617668.96;541898.48;0.12267167;9;9;0;0
+2026-10;V04;Carla Mendes;C00181;Terrasul Insumos 181 Ltda;Revenda;1153443.25;982639.57;0.14808156;8;8;0;0
+2026-10;V04;Carla Mendes;C00182;Agropecuária Serra Alta 182 Ltda;Produtor;257852.14;203901.46;0.20923107;5;5;0;0
+2026-10;V04;Carla Mendes;C00183;Produtor Rural 0183;Produtor;267147.93;212495.87;0.20457602;8;8;0;0
+2026-10;V04;Carla Mendes;C00184;Produtor Rural 0184;Produtor;62189.05;43303.42;0.30368095;2;2;0;0
+2026-10;V04;Carla Mendes;C00185;Agropecuária São José 185 Ltda;Produtor;137426.79;130752.26;0.04856790;1;1;0;0
+2026-10;V05;Diego Rocha;C00186;Agropecuária Santa Clara 186 Ltda;Produtor;385682.80;335845.24;0.12921904;5;5;0;0
+2026-10;V05;Diego Rocha;C00187;Agropecuária Ipê 187 Ltda;Produtor;424816.63;351831.41;0.17180406;6;6;0;0
+2026-10;V05;Diego Rocha;C00188;Agropecuária Boa Vista 188 Ltda;Produtor;601788.02;482716.37;0.19786311;10;10;0;0
+2026-10;V05;Diego Rocha;C00189;Agropecuária Boa Vista 189 Ltda;Produtor;376193.44;289146.53;0.23138870;8;8;0;0
+2026-10;V05;Diego Rocha;C00190;Produtor Rural 0190;Produtor;77243.87;66197.23;0.14300992;2;2;0;0
+2026-10;V05;Diego Rocha;C00191;Produtor Rural 0191;Produtor;227851.63;200223.41;0.12125531;3;3;0;0
+2026-10;V05;Diego Rocha;C00192;Produtor Rural 0192;Produtor;224055.91;198656.10;0.11336371;3;3;0;0
+2026-10;V05;Diego Rocha;C00193;Produtor Rural 0193;Produtor;1123668.15;972646.31;0.13440075;15;14;1;0
+2026-10;V05;Diego Rocha;C00194;Produtor Rural 0194;Produtor;817764.92;738414.46;0.09703334;6;6;0;0
+2026-10;V05;Diego Rocha;C00195;Produtor Rural 0195;Produtor;333467.32;276414.83;0.17108870;5;5;0;0
+2026-10;V05;Diego Rocha;C00196;Agropecuária Três Irmãos 196 Ltda;Produtor;437570.75;387789.71;0.11376684;6;6;0;0
+2026-10;V05;Diego Rocha;C00197;Agropecuária Ipê 197 Ltda;Produtor;548847.22;498457.20;0.09181065;6;6;0;0
+2026-10;V05;Diego Rocha;C00198;Produtor Rural 0198;Produtor;844082.61;719008.16;0.14817797;14;14;0;0
+2026-10;V05;Diego Rocha;C00199;Produtor Rural 0199;Produtor;902142.73;785890.06;0.12886284;8;8;0;0
+2026-10;V05;Diego Rocha;C00200;Produtor Rural 0200;Produtor;521913.32;453201.91;0.13165292;8;8;0;0
+2026-10;V05;Diego Rocha;C00202;Produtor Rural 0202;Produtor;490410.96;377273.45;0.23069939;10;10;0;0
+2026-10;V05;Diego Rocha;C00203;Agropecuária Três Irmãos 203 Ltda;Produtor;436799.25;353186.05;0.19142249;8;8;0;0
+2026-10;V05;Diego Rocha;C00204;Produtor Rural 0204;Produtor;347373.26;281367.33;0.19001442;4;4;0;0
+2026-10;V05;Diego Rocha;C00205;Agropecuária Três Irmãos 205 Ltda;Produtor;23846.67;16569.21;0.30517720;3;2;1;0
+2026-10;V05;Diego Rocha;C00206;Produtor Rural 0206;Produtor;552329.21;463309.72;0.16117107;5;5;0;0
+2026-10;V05;Diego Rocha;C00207;Produtor Rural 0207;Produtor;335292.06;304107.65;0.09300671;3;3;0;0
+2026-10;V05;Diego Rocha;C00208;Produtor Rural 0208;Produtor;172206.85;148893.07;0.13538242;4;4;0;0
+2026-10;V05;Diego Rocha;C00209;Agropecuária São José 209 Ltda;Produtor;836024.26;729043.08;0.12796421;12;12;0;0
+2026-10;V05;Diego Rocha;C00210;Produtor Rural 0210;Produtor;52354.92;40468.98;0.22702623;13;7;0;6
+2026-10;V05;Diego Rocha;C00211;Agropecuária Boa Vista 211 Ltda;Produtor;196691.86;156257.34;0.20557292;6;6;0;0
+2026-10;V05;Diego Rocha;C00213;Agropecuária Santa Clara 213 Ltda;Produtor;845147.47;714328.52;0.15478831;10;10;0;0
+2026-10;V05;Diego Rocha;C00214;Produtor Rural 0214;Produtor;114017.71;82196.85;0.27908699;3;3;0;0
+2026-10;V05;Diego Rocha;C00215;Produtor Rural 0215;Produtor;438829.35;393552.43;0.10317660;3;3;0;0
+2026-10;V05;Diego Rocha;C00216;Agropecuária Rio Claro 216 Ltda;Produtor;923791.72;747571.98;0.19075700;12;12;0;0
+2026-10;V05;Diego Rocha;C00217;Agronorte Insumos 217 Ltda;Revenda;490911.89;401416.02;0.18230536;6;6;0;0
+2026-10;V05;Diego Rocha;C00218;Agropecuária Santa Clara 218 Ltda;Produtor;1102318.37;959283.10;0.12975858;10;10;0;0
+2026-10;V05;Diego Rocha;C00219;Produtor Rural 0219;Produtor;281271.62;237215.70;0.15663123;3;3;0;0
+2026-10;V05;Diego Rocha;C00220;Agropecuária Bela Vista 220 Ltda;Produtor;710403.67;587502.84;0.17300140;9;9;0;0
+2026-10;V05;Diego Rocha;C00221;Agropecuária Bela Vista 221 Ltda;Produtor;802975.39;691649.70;0.13864147;9;9;0;0
+2026-10;V05;Diego Rocha;C00222;Agropecuária Três Irmãos 222 Ltda;Produtor;930083.23;827132.90;0.11068937;8;8;0;0
+2026-10;V05;Diego Rocha;C00223;Agropecuária Santa Clara 223 Ltda;Produtor;585272.59;530814.47;0.09304745;5;5;0;0
+2026-10;V05;Diego Rocha;C00224;Produtor Rural 0224;Produtor;1336285.40;1191972.63;0.10799547;9;9;0;0
+2026-10;V05;Diego Rocha;C00225;Agropecuária Três Irmãos 225 Ltda;Produtor;261756.06;203844.22;0.22124355;5;5;0;0
+2026-10;V05;Diego Rocha;C00226;Agropecuária São José 226 Ltda;Produtor;327379.75;273767.88;0.16376050;4;4;0;0
+2026-10;V05;Diego Rocha;C00227;Agropecuária São José 227 Ltda;Produtor;1265548.16;1093779.61;0.13572660;12;12;0;0
+2026-10;V05;Diego Rocha;C00229;Agropecuária Três Irmãos 229 Ltda;Produtor;203757.50;170668.63;0.16239338;4;4;0;0
+2026-10;V06;Elisa Prado;C00230;Agropecuária Bela Vista 230 Ltda;Produtor;467306.70;405881.90;0.13144430;9;9;0;0
+2026-10;V06;Elisa Prado;C00231;Produtor Rural 0231;Produtor;410886.23;309684.69;0.24630064;9;9;0;0
+2026-10;V06;Elisa Prado;C00232;Agropecuária Serra Alta 232 Ltda;Produtor;645386.47;529615.15;0.17938294;10;10;0;0
+2026-10;V06;Elisa Prado;C00233;Produtor Rural 0233;Produtor;498535.42;416554.73;0.16444306;9;9;0;0
+2026-10;V06;Elisa Prado;C00234;Agropecuária Rio Claro 234 Ltda;Produtor;12656.77;8793.98;0.30519556;1;1;0;0
+2026-10;V06;Elisa Prado;C00235;Agropecuária Bela Vista 235 Ltda;Produtor;357519.77;264443.43;0.26033900;5;5;0;0
+2026-10;V06;Elisa Prado;C00236;Agropecuária São José 236 Ltda;Produtor;367260.87;309402.21;0.15754104;3;3;0;0
+2026-10;V06;Elisa Prado;C00237;Produtor Rural 0237;Produtor;185244.66;143641.44;0.22458526;4;4;0;0
+2026-10;V06;Elisa Prado;C00238;Produtor Rural 0238;Produtor;227769.92;183622.88;0.19382296;5;5;0;0
+2026-10;V06;Elisa Prado;C00239;Agropecuária São José 239 Ltda;Produtor;356604.76;274034.70;0.23154503;12;11;1;0
+2026-10;V06;Elisa Prado;C00240;Agropecuária São José 240 Ltda;Produtor;152799.88;116827.38;0.23542231;4;4;0;0
+2026-10;V06;Elisa Prado;C00241;Agropecuária Ipê 241 Ltda;Produtor;770336.46;620568.44;0.19441897;12;12;0;0
+2026-10;V06;Elisa Prado;C00242;Produtor Rural 0242;Produtor;851542.42;678927.27;0.20270881;12;12;0;0
+2026-10;V06;Elisa Prado;C00243;Produtor Rural 0243;Produtor;471589.45;392249.66;0.16823911;7;7;0;0
+2026-10;V06;Elisa Prado;C00244;Agropecuária Três Irmãos 244 Ltda;Produtor;116562.07;86012.89;0.26208508;4;4;0;0
+2026-10;V06;Elisa Prado;C00245;Agropecuária Bela Vista 245 Ltda;Produtor;129550.64;93777.57;0.27613194;5;5;0;0
+2026-10;V06;Elisa Prado;C00246;Produtor Rural 0246;Produtor;525391.51;396277.96;0.24574731;11;11;0;0
+2026-10;V06;Elisa Prado;C00247;Agropecuária Três Irmãos 247 Ltda;Produtor;430952.73;387466.38;0.10090747;4;4;0;0
+2026-10;V06;Elisa Prado;C00248;Campomais Insumos 248 Ltda;Revenda;124752.97;94913.72;0.23918669;4;4;0;0
+2026-10;V06;Elisa Prado;C00249;Agropecuária Bela Vista 249 Ltda;Produtor;2870.80;1889.92;0.34167479;1;1;0;0
+2026-10;V06;Elisa Prado;C00250;Produtor Rural 0250;Produtor;181017.36;136146.55;0.24788125;5;5;0;0
+2026-10;V06;Elisa Prado;C00251;Agropecuária Serra Alta 251 Ltda;Produtor;179350.29;129590.50;0.27744471;5;5;0;0
+2026-10;V06;Elisa Prado;C00252;Produtor Rural 0252;Produtor;143450.02;113051.35;0.21191123;3;3;0;0
+2026-10;V06;Elisa Prado;C00253;Agropecuária Rio Claro 253 Ltda;Produtor;103233.83;75279.79;0.27078371;3;3;0;0
+2026-10;V06;Elisa Prado;C00254;Agropecuária Santa Clara 254 Ltda;Produtor;402086.30;338002.55;0.15937810;6;6;0;0
+2026-10;V06;Elisa Prado;C00255;Agropecuária Rio Claro 255 Ltda;Produtor;522261.07;466322.90;0.10710768;4;4;0;0
+2026-10;V06;Elisa Prado;C00256;Produtor Rural 0256;Produtor;273973.39;213606.88;0.22033713;5;5;0;0
+2026-10;V06;Elisa Prado;C00257;Produtor Rural 0257;Produtor;622027.62;478690.19;0.23043580;11;11;0;0
+2026-10;V06;Elisa Prado;C00258;Produtor Rural 0258;Produtor;64179.77;46434.13;0.27649897;1;1;0;0
+2026-10;V06;Elisa Prado;C00259;Agropecuária São José 259 Ltda;Produtor;86576.55;64564.03;0.25425499;6;5;1;0
+2026-10;V06;Elisa Prado;C00260;Agropecuária Boa Vista 260 Ltda;Produtor;71008.00;57151.92;0.19513407;2;2;0;0
+2026-10;V06;Elisa Prado;C00261;Terraforte Insumos 261 Ltda;Revenda;212791.98;162063.81;0.23839324;5;5;0;0
+2026-10;V06;Elisa Prado;C00262;Produtor Rural 0262;Produtor;529037.83;433618.80;0.18036334;13;13;0;0
+2026-10;V06;Elisa Prado;C00264;Agropecuária São José 264 Ltda;Produtor;408227.64;313012.61;0.23324004;13;13;0;0
+2026-10;V06;Elisa Prado;C00265;Agropecuária Bela Vista 265 Ltda;Produtor;399583.74;324846.00;0.18703899;4;4;0;0
+2026-10;V06;Elisa Prado;C00266;Produtor Rural 0266;Produtor;537937.33;449587.95;0.16423731;7;7;0;0
+2026-10;V06;Elisa Prado;C00267;Agropecuária Ipê 267 Ltda;Produtor;47178.89;37075.07;0.21415977;3;3;0;0
+2026-10;V06;Elisa Prado;C00269;Ruralnorte Insumos 269 Ltda;Revenda;1219143.21;945580.08;0.22438966;8;8;0;0
+2026-10;V06;Elisa Prado;C00270;Produtor Rural 0270;Produtor;302000.79;236212.03;0.21784301;8;8;0;0
+2026-10;V06;Elisa Prado;C00271;Agropecuária Boa Vista 271 Ltda;Produtor;108631.17;77718.97;0.28456105;6;4;1;1
+2026-10;V06;Elisa Prado;C00273;Agropecuária Ipê 273 Ltda;Produtor;494594.75;387628.43;0.21627063;12;12;0;0
+2026-10;V06;Elisa Prado;C00274;Agropecuária Boa Vista 274 Ltda;Produtor;58953.71;48349.15;0.17987943;1;1;0;0
+2026-10;V06;Elisa Prado;C00276;Agropecuária Serra Alta 276 Ltda;Produtor;713147.84;579945.97;0.18678016;18;18;0;0
+2026-10;V07;Marina Costa;C00279;Camponorte Insumos 279 Ltda;Revenda;445839.28;402605.30;0.09697212;7;7;0;0
+2026-10;V07;Marina Costa;C00281;Ruralvale Insumos 281 Ltda;Revenda;263339.39;240185.58;0.08792384;5;5;0;0
+2026-10;V07;Marina Costa;C00282;Agroforte Insumos 282 Ltda;Revenda;33178.11;29949.75;0.09730392;1;1;0;0
+2026-10;V07;Marina Costa;C00283;Terranorte Insumos 283 Ltda;Revenda;120635.54;110402.70;0.08482442;4;4;0;0
+2026-10;V07;Marina Costa;C00286;Ruralvale Insumos 286 Ltda;Revenda;-3447.50;-2540.41;0.26311530;1;0;1;0
+2026-10;V07;Marina Costa;C00287;Terraforte Insumos 287 Ltda;Revenda;400332.03;364209.43;0.09023160;8;7;1;0
+2026-10;V07;Marina Costa;C00288;Ruralnorte Insumos 288 Ltda;Revenda;280639.13;251925.33;0.10231574;6;6;0;0
+2026-10;V07;Marina Costa;C00289;Agrovale Insumos 289 Ltda;Revenda;334889.03;301800.12;0.09880560;6;6;0;0
+2026-10;V07;Marina Costa;C00290;Campoforte Insumos 290 Ltda;Revenda;211904.95;194729.33;0.08105342;4;4;0;0
+2026-10;V07;Marina Costa;C00292;Agronorte Insumos 292 Ltda;Revenda;337255.17;305588.31;0.09389585;6;6;0;0
+2026-10;V07;Marina Costa;C00294;Terranorte Insumos 294 Ltda;Revenda;153927.23;140942.42;0.08435681;3;3;0;0
+2026-10;V07;Marina Costa;C00295;Terramais Insumos 295 Ltda;Revenda;25081.93;22501.16;0.10289360;1;1;0;0
+2026-10;V07;Marina Costa;C00296;Ruralmais Insumos 296 Ltda;Revenda;469459.34;429616.34;0.08486997;10;10;0;0
+2026-10;V07;Marina Costa;C00297;Campomais Insumos 297 Ltda;Revenda;104151.40;93316.77;0.10402769;4;4;0;0
+2026-10;V07;Marina Costa;C00298;Ruralforte Insumos 298 Ltda;Revenda;169409.69;154456.98;0.08826361;5;5;0;0
+2026-10;V07;Marina Costa;C00303;Agrosul Insumos 303 Ltda;Revenda;164743.07;151657.07;0.07943278;4;4;0;0
+2026-10;V07;Marina Costa;C00306;Campomais Insumos 306 Ltda;Revenda;96356.43;84182.77;0.12633988;2;2;0;0
+2026-10;V07;Marina Costa;C00308;Campoforte Insumos 308 Ltda;Revenda;572701.55;511625.09;0.10664623;15;15;0;0
+2026-10;V07;Marina Costa;C00311;Camposul Insumos 311 Ltda;Revenda;97413.26;88217.58;0.09439865;1;1;0;0
+2026-10;V08;Tiago Moura;C00312;Agropecuária Bela Vista 312 Ltda;Produtor;174544.87;139643.91;0.19995409;6;5;1;0
+2026-10;V08;Tiago Moura;C00313;Ruralmais Insumos 313 Ltda;Revenda;1026241.32;875743.03;0.14665000;8;8;0;0
+2026-10;V08;Tiago Moura;C00314;Agropecuária Boa Vista 314 Ltda;Produtor;411218.26;348855.34;0.15165406;5;5;0;0
+2026-10;V08;Tiago Moura;C00315;Produtor Rural 0315;Produtor;744154.56;630527.02;0.15269347;10;10;0;0
+2026-10;V08;Tiago Moura;C00316;Produtor Rural 0316;Produtor;396683.55;357215.46;0.09949515;4;4;0;0
+2026-10;V08;Tiago Moura;C00317;Agropecuária Serra Alta 317 Ltda;Produtor;243724.16;216990.43;0.10968847;10;7;0;3
+2026-10;V08;Tiago Moura;C00318;Agromais Insumos 318 Ltda;Revenda;764023.85;642579.78;0.15895324;7;7;0;0
+2026-10;V08;Tiago Moura;C00319;Produtor Rural 0319;Produtor;682354.32;581393.86;0.14795900;7;7;0;0
+2026-10;V08;Tiago Moura;C00320;Agropecuária São José 320 Ltda;Produtor;799197.24;646541.63;0.19101118;13;13;0;0
+2026-10;V08;Tiago Moura;C00321;Agropecuária Três Irmãos 321 Ltda;Produtor;659483.74;568830.28;0.13746125;5;5;0;0
+2026-10;V08;Tiago Moura;C00322;Produtor Rural 0322;Produtor;187564.66;139290.18;0.25737514;5;5;0;0
+2026-10;V08;Tiago Moura;C00323;Agropecuária Ipê 323 Ltda;Produtor;554329.32;478977.14;0.13593396;6;6;0;0
+2026-10;V08;Tiago Moura;C00324;Agropecuária Serra Alta 324 Ltda;Produtor;274267.42;244649.56;0.10798898;4;4;0;0
+2026-10;V08;Tiago Moura;C00325;Agropecuária Bela Vista 325 Ltda;Produtor;560310.84;457914.20;0.18274970;11;11;0;0
+2026-10;V08;Tiago Moura;C00326;Agropecuária São José 326 Ltda;Produtor;529433.59;415741.77;0.21474236;8;8;0;0
+2026-10;V08;Tiago Moura;C00327;Agropecuária Ipê 327 Ltda;Produtor;643949.25;545259.06;0.15325771;9;9;0;0
+2026-10;V08;Tiago Moura;C00329;Produtor Rural 0329;Produtor;624987.32;526757.69;0.15717060;8;8;0;0
+2026-10;V08;Tiago Moura;C00332;Produtor Rural 0332;Produtor;299852.39;243656.54;0.18741171;5;5;0;0
+2026-10;V08;Tiago Moura;C00333;Agropecuária Rio Claro 333 Ltda;Produtor;589245.46;532664.32;0.09602304;6;5;1;0
+2026-10;V08;Tiago Moura;C00334;Agropecuária São José 334 Ltda;Produtor;893482.34;743244.97;0.16814811;11;11;0;0
+2026-10;V08;Tiago Moura;C00335;Produtor Rural 0335;Produtor;256902.66;200203.22;0.22070398;5;5;0;0
+2026-10;V08;Tiago Moura;C00336;Campoforte Insumos 336 Ltda;Revenda;862694.62;733246.88;0.15005048;5;5;0;0
+2026-10;V08;Tiago Moura;C00337;Agropecuária Bela Vista 337 Ltda;Produtor;424945.61;386076.40;0.09146867;5;5;0;0
+2026-10;V08;Tiago Moura;C00339;Terranorte Insumos 339 Ltda;Revenda;1048674.06;803822.79;0.23348653;8;8;0;0
+2026-10;V08;Tiago Moura;C00340;Agropecuária Três Irmãos 340 Ltda;Produtor;212071.78;162860.20;0.23205153;7;7;0;0
+2026-10;V08;Tiago Moura;C00341;Produtor Rural 0341;Produtor;85935.83;65786.00;0.23447531;2;2;0;0
+2026-10;V08;Tiago Moura;C00342;Produtor Rural 0342;Produtor;75793.00;58511.64;0.22800734;1;1;0;0
+2026-10;V08;Tiago Moura;C00343;Produtor Rural 0343;Produtor;164687.69;121898.02;0.25982312;4;4;0;0
+2026-10;V08;Tiago Moura;C00344;Agropecuária Boa Vista 344 Ltda;Produtor;413186.17;365136.96;0.11628949;6;6;0;0
+2026-10;V08;Tiago Moura;C00345;Agropecuária Rio Claro 345 Ltda;Produtor;925727.78;782884.39;0.15430388;11;11;0;0
+2026-10;V08;Tiago Moura;C00346;Agropecuária Bela Vista 346 Ltda;Produtor;360648.87;305445.33;0.15306728;3;3;0;0
+2026-10;V08;Tiago Moura;C00347;Produtor Rural 0347;Produtor;884324.43;766102.44;0.13368622;10;10;0;0
+2026-10;V08;Tiago Moura;C00348;Produtor Rural 0348;Produtor;706727.34;555433.74;0.21407634;15;15;0;0
+2026-10;V08;Tiago Moura;C00349;Produtor Rural 0349;Produtor;65499.42;48208.30;0.26398890;3;3;0;0
+2026-10;V08;Tiago Moura;C00350;Agropecuária Serra Alta 350 Ltda;Produtor;344326.54;312281.89;0.09306471;5;5;0;0
+2026-10;V08;Tiago Moura;C00351;Agropecuária Rio Claro 351 Ltda;Produtor;652012.35;552575.71;0.15250730;7;7;0;0
+2026-10;V08;Tiago Moura;C00352;Produtor Rural 0352;Produtor;476878.64;391723.34;0.17856807;8;8;0;0
+2026-10;V08;Tiago Moura;C00353;Produtor Rural 0353;Produtor;279273.00;224783.13;0.19511328;8;8;0;0
+2026-10;V08;Tiago Moura;C00354;Agropecuária São José 354 Ltda;Produtor;289026.89;240813.88;0.16681150;7;7;0;0
+2026-10;V08;Tiago Moura;C00355;Produtor Rural 0355;Produtor;771508.60;609439.41;0.21006790;21;21;0;0
+2026-10;V08;Tiago Moura;C00356;Produtor Rural 0356;Produtor;372001.83;308290.65;0.17126577;5;5;0;0
+2026-10;V08;Tiago Moura;C00357;Produtor Rural 0357;Produtor;860520.95;708759.26;0.17636025;15;15;0;0
