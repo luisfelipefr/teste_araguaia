@@ -1,0 +1,56 @@
+{
+  "run_id": "f29ac6a16dce4d89b8c36b810e54c807",
+  "ingestion_ts": "2026-11-25T12:08:02.886674-03:00",
+  "files": [
+    {
+      "source_file": "clientes.csv",
+      "source_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\entrada\\clientes.csv",
+      "bronze_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\bronze\\clientes\\f29ac6a16dce4d89b8c36b810e54c807\\clientes.csv",
+      "domain": "clientes",
+      "run_id": "f29ac6a16dce4d89b8c36b810e54c807",
+      "ingestion_ts": "2026-11-25T12:08:02.886674-03:00",
+      "row_count": 357,
+      "file_size_bytes": 33605
+    },
+    {
+      "source_file": "faturamento_export_20260902.csv",
+      "source_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\entrada\\faturamento_export_20260902.csv",
+      "bronze_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\bronze\\faturamento\\f29ac6a16dce4d89b8c36b810e54c807\\faturamento_export_20260902.csv",
+      "domain": "faturamento",
+      "run_id": "f29ac6a16dce4d89b8c36b810e54c807",
+      "ingestion_ts": "2026-11-25T12:08:02.886674-03:00",
+      "row_count": 2453,
+      "file_size_bytes": 317545
+    },
+    {
+      "source_file": "faturamento_export_20261002.csv",
+      "source_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\entrada\\faturamento_export_20261002.csv",
+      "bronze_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\bronze\\faturamento\\f29ac6a16dce4d89b8c36b810e54c807\\faturamento_export_20261002.csv",
+      "domain": "faturamento",
+      "run_id": "f29ac6a16dce4d89b8c36b810e54c807",
+      "ingestion_ts": "2026-11-25T12:08:02.886674-03:00",
+      "row_count": 2464,
+      "file_size_bytes": 318929
+    },
+    {
+      "source_file": "faturamento_export_20261103.csv",
+      "source_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\entrada\\faturamento_export_20261103.csv",
+      "bronze_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\bronze\\faturamento\\f29ac6a16dce4d89b8c36b810e54c807\\faturamento_export_20261103.csv",
+      "domain": "faturamento",
+      "run_id": "f29ac6a16dce4d89b8c36b810e54c807",
+      "ingestion_ts": "2026-11-25T12:08:02.886674-03:00",
+      "row_count": 2012,
+      "file_size_bytes": 280550
+    },
+    {
+      "source_file": "faturamento_export_20261105.csv",
+      "source_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\entrada\\faturamento_export_20261105.csv",
+      "bronze_path": "C:\\Users\\Usuario\\projeto\\teste_araguaia\\dados\\bronze\\faturamento\\f29ac6a16dce4d89b8c36b810e54c807\\faturamento_export_20261105.csv",
+      "domain": "faturamento",
+      "run_id": "f29ac6a16dce4d89b8c36b810e54c807",
+      "ingestion_ts": "2026-11-25T12:08:02.886674-03:00",
+      "row_count": 2222,
+      "file_size_bytes": 310503
+    }
+  ]
+}

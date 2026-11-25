@@ -18,6 +18,8 @@ CONSULTANT_COLUMNS = (
     "vendas",
     "devolucoes",
     "estornos",
+    "pipeline_run_id",
+    "processed_at",
 )
 
 DETAIL_COLUMNS = (
@@ -32,6 +34,8 @@ DETAIL_COLUMNS = (
     "vendas",
     "devolucoes",
     "estornos",
+    "pipeline_run_id",
+    "processed_at",
 )
 
 CLIENT_COLUMNS = (
@@ -48,6 +52,8 @@ CLIENT_COLUMNS = (
     "vendas",
     "devolucoes",
     "estornos",
+    "pipeline_run_id",
+    "processed_at",
 )
 
 
@@ -80,6 +86,8 @@ def create_gold_database(gold_directory: Path, database_path: Path) -> None:
                 vendas INTEGER NOT NULL,
                 devolucoes INTEGER NOT NULL,
                 estornos INTEGER NOT NULL,
+                pipeline_run_id TEXT NOT NULL,
+                processed_at TEXT NOT NULL,
                 PRIMARY KEY (competencia, cod_vendedor)
             );
 
@@ -95,6 +103,8 @@ def create_gold_database(gold_directory: Path, database_path: Path) -> None:
                 vendas INTEGER NOT NULL,
                 devolucoes INTEGER NOT NULL,
                 estornos INTEGER NOT NULL,
+                pipeline_run_id TEXT NOT NULL,
+                processed_at TEXT NOT NULL,
                 PRIMARY KEY (competencia, cod_vendedor, grupo_material)
             );
 
@@ -112,24 +122,26 @@ def create_gold_database(gold_directory: Path, database_path: Path) -> None:
                 vendas INTEGER NOT NULL,
                 devolucoes INTEGER NOT NULL,
                 estornos INTEGER NOT NULL,
+                pipeline_run_id TEXT NOT NULL,
+                processed_at TEXT NOT NULL,
                 PRIMARY KEY (competencia, cod_vendedor, cod_cliente)
             );
             """
         )
         connection.executemany(
             """
-            INSERT INTO comercial_margem_consultor VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            INSERT INTO comercial_margem_consultor VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             [tuple(convert_value(row[column]) for column in CONSULTANT_COLUMNS) for row in consultant_rows],
         )
         connection.executemany(
             """
-            INSERT INTO comercial_margem_detalhada VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            INSERT INTO comercial_margem_detalhada VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             [tuple(convert_value(row[column]) for column in DETAIL_COLUMNS) for row in detail_rows],
         )
         connection.executemany(
-            "INSERT INTO comercial_margem_cliente VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "INSERT INTO comercial_margem_cliente VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             [tuple(convert_value(row[column]) for column in CLIENT_COLUMNS) for row in client_rows],
         )
         connection.commit()

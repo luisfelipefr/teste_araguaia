@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from src.business.gold import build_gold, build_gold_clientes
+from src.business.gold import build_gold, build_gold_clientes, run_metadata
 from src.ingestion.bronze import ingest_to_bronze
 from src.ingestion.inventory import build_inventory, write_inventory_report
 from src.storage.sqlite_gold import create_gold_database
@@ -29,11 +29,19 @@ def run_pipeline(project_root: Path) -> None:
     normalize_clientes(input_directory, silver_directory)
 
     print("4/5 - Gold")
-    build_gold(silver_directory / "faturamento.csv", gold_directory)
+    gold_run_id, processed_at = run_metadata()
+    build_gold(
+        silver_directory / "faturamento.csv",
+        gold_directory,
+        gold_run_id,
+        processed_at,
+    )
     build_gold_clientes(
         silver_directory / "faturamento.csv",
         silver_directory / "clientes.csv",
         gold_directory,
+        gold_run_id,
+        processed_at,
     )
 
     print("5/5 - SQLite")

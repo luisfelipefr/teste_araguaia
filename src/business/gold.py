@@ -7,6 +7,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
+from uuid import uuid4
 
 
 def decimal_value(value: str) -> Decimal:
@@ -80,7 +81,24 @@ def write_csv(file_path: Path, rows: list[dict[str, str]]) -> None:
         writer.writerows(rows)
 
 
-def build_gold(silver_path: Path, gold_directory: Path) -> dict[str, int]:
+def run_metadata() -> tuple[str, str]:
+    run_id = uuid4().hex
+    processed_at = datetime.now(timezone(timedelta(hours=-3))).isoformat()
+    return run_id, processed_at
+
+
+def add_metadata(rows: list[dict[str, str]], run_id: str, processed_at: str) -> None:
+    for row in rows:
+        row["pipeline_run_id"] = run_id
+        row["processed_at"] = processed_at
+
+
+def build_gold(
+    silver_path: Path,
+    gold_directory: Path,
+    run_id: str | None = None,
+    processed_at: str | None = None,
+) -> dict[str, int]:
     rows = read_silver(silver_path)
     if not rows:
         raise ValueError("A Silver não possui linhas válidas")
@@ -93,6 +111,10 @@ def build_gold(silver_path: Path, gold_directory: Path) -> dict[str, int]:
         rows,
         ("competencia", "cod_vendedor", "nome_vendedor", "grupo_material"),
     )
+    run_id = run_id or run_metadata()[0]
+    processed_at = processed_at or run_metadata()[1]
+    add_metadata(consultant_rows, run_id, processed_at)
+    add_metadata(detail_rows, run_id, processed_at)
     write_csv(gold_directory / "comercial_margem_consultor.csv", consultant_rows)
     write_csv(gold_directory / "comercial_margem_detalhada.csv", detail_rows)
     return {"consultor_rows": len(consultant_rows), "detail_rows": len(detail_rows)}
@@ -102,14 +124,18 @@ def build_gold_clientes(
     silver_faturamento_path: Path,
     silver_clientes_path: Path,
     gold_directory: Path,
+    run_id: str | None = None,
+    processed_at: str | None = None,
 ) -> int:
     """Junta faturamento ao cadastro e agrega margem por cliente."""
     faturamento = read_silver(silver_faturamento_path)
     clientes = {row["cod_cliente"]: row for row in read_silver(silver_clientes_path)}
     enriched_rows: list[dict[str, str]] = []
+    unmatched_rows: list[dict[str, str]] = []
     for row in faturamento:
         cliente = clientes.get(row["cod_cliente"])
         if cliente is None:
+            unmatched_rows.append(row)
             continue
         enriched_rows.append(
             {
@@ -129,7 +155,14 @@ def build_gold_clientes(
             "segmento",
         ),
     )
+    run_id = run_id or run_metadata()[0]
+    processed_at = processed_at or run_metadata()[1]
+    add_metadata(client_rows, run_id, processed_at)
     write_csv(gold_directory / "comercial_margem_cliente.csv", client_rows)
+    write_csv(
+        gold_directory / "quarantine_gold_clientes.csv",
+        unmatched_rows,
+    )
     return len(client_rows)
 
 
